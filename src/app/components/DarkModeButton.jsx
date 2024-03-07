@@ -29,7 +29,7 @@ export default function DarkModeToggle() {
     <Dropdown className="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle ">
       <Dropdown.Toggle
         variant="primary"
-        // className="btn btn-bd-primary"
+        className="btn btn-primary "
         id="dropdown-basic"
       >
         {theme === "dark" &&

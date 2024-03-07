@@ -9,7 +9,7 @@ export default function Home() {
     <main>
       <Navbar />
       <div className="text-center mt-4 col-md-6 mx-auto">
-        <h1 className="text-danger">Hello</h1>
+        <h1 className="">Hello</h1>
       </div>
       <DarkModeScript />
       <DarkModeButton />
