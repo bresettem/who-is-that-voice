@@ -8,6 +8,8 @@
   --blue-600: #1d4294;
   --blue-700: #09265e;
   --blue-800: #06163b;
+  --blue-900: #030c1f;
+  --blue-1000: #01060d;
 }
 .btn-primary {
   --bs-btn-font-weight: 600;
@@ -23,6 +25,19 @@
   --bs-btn-active-border-color: var(--blue-600);
 }
 
+.btn-secondary {
+  --bs-btn-font-weight: 600;
+  --bs-btn-color: var(--blue-800);
+  --bs-btn-bg: var(--blue-200);
+  --bs-btn-border-color: var(--blue-200);
+  --bs-btn-hover-color: var(--blue-800);
+  --bs-btn-hover-bg: var(--blue-400);
+  --bs-btn-hover-border-color: var(--blue-400);
+  --bs-btn-focus-shadow-rgb: var(--blue-400);
+  --bs-btn-active-color: var(--blue-800);
+  --bs-btn-active-bg: var(--blue-500);
+  --bs-btn-active-border-color: var(--blue-500);
+}
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: var(--blue-800) !important;
@@ -39,6 +54,18 @@
 body {
   background-color: var(--blue-700);
   color: var(--blue-50);
+}
+
+.rbt-token {
+  color: var(--blue-700) !important;
+}
+[data-bs-theme="dark"] {
+  .btn-close {
+    --bs-btn-close-white-filter: none !important;
+  }
+  .form-control {
+    background-color: var(--blue-900) !important;
+  }
 }
 [data-bs-theme="light"] {
   body {

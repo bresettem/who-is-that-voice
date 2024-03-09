@@ -1,0 +1,220 @@
+{
+	"@meta": {
+		"operation": "AdvancedTitleSearch",
+		"requestId": "457ac179-bc54-4fb9-82e2-01f4e4cdc005",
+		"serviceTimeMs": 38.784757
+	},
+	"@type": "imdb.api.search.advanced.response",
+	"paginationKey": "1",
+	"results": [
+		{
+			"id": "/title/tt1528406/",
+			"image": {
+				"height": 1000,
+				"id": "/title/tt1528406/images/rm3430816512",
+				"url": "https://m.media-amazon.com/images/M/MV5BMzZjNmRhNWQtNTAyYy00Yjk2LWE0NzUtMmYyNTU0YTE5NjJiXkEyXkFqcGdeQXVyNjI4OTE5OTM@._V1_.jpg",
+				"width": 700
+			},
+			"title": "Fairy Tail",
+			"titleType": "tvSeries",
+			"year": 2009
+		},
+		{
+			"id": "/title/tt6548966/",
+			"image": {
+				"height": 1440,
+				"id": "/title/tt6548966/images/rm536001537",
+				"url": "https://m.media-amazon.com/images/M/MV5BZWM4NWZmMzQtNmI3OS00ZDExLWEwNTYtM2QyMzIzNjEwZmI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+				"width": 1000
+			},
+			"title": "Fairy Tail: Dragon Cry",
+			"titleType": "movie",
+			"year": 2017
+		},
+		{
+			"id": "/title/tt2085795/",
+			"image": {
+				"height": 1000,
+				"id": "/title/tt2085795/images/rm2649961728",
+				"url": "https://m.media-amazon.com/images/M/MV5BYzJmMjMyNWMtMjAzMy00ZDFiLWJlOTctN2MyZTFhYTU0ZTMwXkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_.jpg",
+				"width": 717
+			},
+			"title": "Fairy Tail: The Phoenix Priestess",
+			"titleType": "movie",
+			"year": 2012
+		},
+		{
+			"id": "/title/tt6712330/",
+			"image": {
+				"height": 4096,
+				"id": "/title/tt6712330/images/rm794384128",
+				"url": "https://m.media-amazon.com/images/M/MV5BY2NkYjliZjUtNzdmNy00YjExLTkyYjQtNjM4MTg3ZmE1NmY3XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+				"width": 2836
+			},
+			"title": "My Fairy Tail Love Story",
+			"titleType": "movie",
+			"year": 2018
+		},
+		{
+			"id": "/title/tt8324472/",
+			"image": {
+				"height": 336,
+				"id": "/title/tt8324472/images/rm2974966272",
+				"url": "https://m.media-amazon.com/images/M/MV5BM2MzNDA2YTQtZDk3OS00MDJjLTk3NmMtYTkyYmQyZTM0OTZhXkEyXkFqcGdeQXVyOTg4NjU1MzM@._V1_.jpg",
+				"width": 225
+			},
+			"title": "Fairy Tail OVA Series",
+			"titleType": "tvMiniSeries",
+			"year": 2011
+		},
+		{
+			"id": "/title/tt15414478/",
+			"title": "Fairy Tail: 100 Years Quest",
+			"titleType": "tvSeries"
+		},
+		{
+			"id": "/title/tt29270294/",
+			"image": {
+				"height": 600,
+				"id": "/title/tt29270294/images/rm2897433089",
+				"url": "https://m.media-amazon.com/images/M/MV5BM2FkODI2MzktYTQ5My00Y2JmLWIzMjAtZTc4NDczMGQxMGJlXkEyXkFqcGdeQXVyMTI3NjAwMTA1._V1_.jpg",
+				"width": 570
+			},
+			"title": "Fairy Tail",
+			"titleType": "videoGame",
+			"year": 2020
+		},
+		{
+			"id": "/title/tt10674672/",
+			"image": {
+				"height": 1007,
+				"id": "/title/tt10674672/images/rm3864435969",
+				"url": "https://m.media-amazon.com/images/M/MV5BY2NiOWZjMzUtMTRiNS00NjhmLWFlNjgtYjI5MDliYjJjM2IwXkEyXkFqcGdeQXVyOTI5NTc2MDY@._V1_.jpg",
+				"width": 680
+			},
+			"title": "Tell Me A Fairy Tail",
+			"titleType": "movie",
+			"year": 2020
+		},
+		{
+			"id": "/title/tt8912202/",
+			"image": {
+				"height": 5700,
+				"id": "/title/tt8912202/images/rm292387072",
+				"url": "https://m.media-amazon.com/images/M/MV5BZWQzYTUzMjItZWJmOS00YjExLWFjOTktYWY2MmJkMzg4YzBjXkEyXkFqcGdeQXVyMTAxMzY2ODM@._V1_.jpg",
+				"width": 3900
+			},
+			"title": "Fairy Tail",
+			"titleType": "short",
+			"year": 2018
+		},
+		{
+			"id": "/title/tt7296990/",
+			"image": {
+				"height": 538,
+				"id": "/title/tt7296990/images/rm3365740544",
+				"url": "https://m.media-amazon.com/images/M/MV5BYjgzZGQyZjYtOGZkOC00MTkwLTkyNjAtMjRkNGMxZTkzMDI4XkEyXkFqcGdeQXVyNDgwMjQ5ODU@._V1_.jpg",
+				"width": 959
+			},
+			"title": "The Fairy Tail Complex",
+			"titleType": "short",
+			"year": 2013
+		},
+		{
+			"id": "/title/tt1814955/",
+			"title": "a Fairy Tail",
+			"titleType": "short",
+			"year": 2009
+		},
+		{
+			"id": "/title/tt3135436/",
+			"image": {
+				"height": 972,
+				"id": "/title/tt3135436/images/rm2627000064",
+				"url": "https://m.media-amazon.com/images/M/MV5BMjI4NzIxOTcyOF5BMl5BanBnXkFtZTgwMDQyNjUwMTE@._V1_.jpg",
+				"width": 648
+			},
+			"title": "Chasing Fairy Tail",
+			"titleType": "tvSeries",
+			"year": 2013
+		},
+		{
+			"id": "/title/tt26940345/",
+			"image": {
+				"height": 799,
+				"id": "/title/tt26940345/images/rm1791177729",
+				"url": "https://m.media-amazon.com/images/M/MV5BNWE2NzRjYTQtYWNmZi00ZDdjLWE5NGMtNzM4MjlkYzdlNTBkXkEyXkFqcGdeQXVyMTUzOTcwNzEz._V1_.jpg",
+				"width": 545
+			},
+			"title": "Fairy Tails",
+			"titleType": "short",
+			"year": 2023
+		},
+		{
+			"id": "/title/tt3399504/",
+			"title": "Chasing Fairy Tail",
+			"titleType": "short",
+			"year": 2013
+		},
+		{
+			"id": "/title/tt3526294/",
+			"title": "Chasing Fairy Tail Trailer",
+			"titleType": "short",
+			"year": 2014
+		},
+		{
+			"id": "/title/tt29270446/",
+			"image": {
+				"height": 576,
+				"id": "/title/tt29270446/images/rm111563265",
+				"url": "https://m.media-amazon.com/images/M/MV5BYmEwOTc3NzMtMzI5Yi00YWM0LTkxNmMtZmY1MDM4YjUyMmIwXkEyXkFqcGdeQXVyMTI3NjAwMTA1._V1_.jpg",
+				"width": 1024
+			},
+			"title": "Fairy Tail Forces Unite!",
+			"titleType": "videoGame",
+			"year": 2020
+		},
+		{
+			"id": "/title/tt6008808/",
+			"image": {
+				"height": 500,
+				"id": "/title/tt6008808/images/rm3047313921",
+				"url": "https://m.media-amazon.com/images/M/MV5BOTZkOTcyOTEtMzgxNC00ODFiLTkzZWYtODdjOTU3MWY5NTQ4XkEyXkFqcGdeQXVyMTI3NjAwMTA1._V1_.jpg",
+				"width": 1500
+			},
+			"title": "Fairy Tail: Goku Mahou ranbu",
+			"titleType": "videoGame",
+			"year": 2015
+		},
+		{
+			"id": "/title/tt8785216/",
+			"image": {
+				"height": 1080,
+				"id": "/title/tt8785216/images/rm983978497",
+				"url": "https://m.media-amazon.com/images/M/MV5BMjk1NzdhY2QtZGMzMS00N2I3LWEzNmEtZWQ2M2Q5YmY0MWIxXkEyXkFqcGdeQXVyMTI3NjAwMTA1._V1_.jpg",
+				"width": 1920
+			},
+			"title": "Fairy Tail: Dice Magic",
+			"titleType": "videoGame",
+			"year": 2019
+		},
+		{
+			"id": "/title/tt10097894/",
+			"image": {
+				"height": 512,
+				"id": "/title/tt10097894/images/rm2107789825",
+				"url": "https://m.media-amazon.com/images/M/MV5BODg3YjJhYWEtYjY3My00NTAyLWI4MWEtODZhOGM4NjE5ODBlXkEyXkFqcGdeQXVyMTI3NjAwMTA1._V1_.jpg",
+				"width": 365
+			},
+			"title": "Fairy Tail: Portable Guild",
+			"titleType": "videoGame",
+			"year": 2010
+		},
+		{
+			"id": "/title/tt27171738/",
+			"title": "Novelbright: Fairy Tail",
+			"titleType": "musicVideo"
+		}
+	],
+	"totalMatches": 65
+}
