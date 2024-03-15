@@ -27,7 +27,7 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "src/app/components/MultiSelectDropdown.jsx",
-    "src/app/components/SearchResults.jsx",
+    "src/app/components/SearchResults/SearchResults.jsx",
     "src/app/page.jsx"
   ],
   "exclude": ["node_modules"]

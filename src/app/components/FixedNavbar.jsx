@@ -9,7 +9,10 @@ export default function FixedNavbar() {
   return (
     <Navbar expand="lg" bg="primary">
       <Container>
-        <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+        <Navbar.Brand href="#home">
+          React-Bootstrap
+          {process.env.NODE_ENV === "development" ? " (Development)" : ""}
+        </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="basic-navbar-nav"
           className="navbar-toggler custom-toggler"

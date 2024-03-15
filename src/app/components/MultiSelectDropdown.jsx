@@ -1,10 +1,9 @@
 "use client";
 import React, { useState, useRef } from "react";
 import { Typeahead, withAsync } from "react-bootstrap-typeahead";
-import Button from "react-bootstrap/Button";
-import InputGroup from "react-bootstrap/InputGroup";
+import { Button, InputGroup, Col } from "react-bootstrap";
 import "react-bootstrap-typeahead/css/Typeahead.css";
-import SearchResults from "./SearchResults";
+import SearchResults from "./SearchResults/SearchResults";
 import FTSearch from "@/app/data/ft_search.json";
 const AsyncTypeahead = withAsync(Typeahead);
 
@@ -31,6 +30,9 @@ const MultiSelectDropdown = ({ onSelect }) => {
             ? result.image.url
             : "https://placekitten.com/200/300",
         }));
+        if (items.length === 0) {
+          throw new Error("Items is empty");
+        }
         console.log("items", items);
       } else {
         // Make API call in production mode
@@ -58,6 +60,9 @@ const MultiSelectDropdown = ({ onSelect }) => {
             ? result.image.url
             : "https://placekitten.com/200/300",
         }));
+      }
+      if (items.length === 0) {
+        throw new Error("Items is empty");
       }
       console.log("items", items);
       setOptions(items);
@@ -102,35 +107,41 @@ const MultiSelectDropdown = ({ onSelect }) => {
 
   return (
     <>
-      <InputGroup className="mb-3">
-        <AsyncTypeahead
-          ref={typeaheadRef}
-          id="multi-select-typeahead"
-          filterBy={filterBy}
-          multiple
-          options={options.filter(
-            (option) => !values.some((value) => value.id === option.id)
-          )}
-          labelKey="title"
-          placeholder="Select options"
-          isLoading={isLoading}
-          onChange={handleOnChange}
-          onSearch={handleSearch}
-          renderMenuItemChildren={renderMenuItemChildren}
-        />
-        <Button
-          variant="secondary"
-          id="button-addon2"
-          onClick={handleButtonClick}
-          disabled={buttonDisabled}
-        >
-          Search
-        </Button>
-      </InputGroup>
-      <SearchResults
-        selectedValues={submittedValues}
-        buttonClicked={buttonClicked}
-      />
+      <Col xs lg="6">
+        <InputGroup className="mb-3">
+          <AsyncTypeahead
+            ref={typeaheadRef}
+            id="multi-select-typeahead"
+            filterBy={filterBy}
+            multiple
+            options={options.filter(
+              (option) => !values.some((value) => value.id === option.id)
+            )}
+            labelKey="title"
+            placeholder="Select options"
+            isLoading={isLoading}
+            onChange={handleOnChange}
+            onSearch={handleSearch}
+            renderMenuItemChildren={renderMenuItemChildren}
+          />
+          <Button
+            variant="secondary"
+            id="button-addon2"
+            onClick={handleButtonClick}
+            disabled={buttonDisabled}
+          >
+            Search
+          </Button>
+        </InputGroup>
+      </Col>
+      <Col xs lg="8">
+        {buttonClicked && (
+          <SearchResults
+            selectedValues={submittedValues}
+            buttonClicked={buttonClicked}
+          />
+        )}
+      </Col>
     </>
   );
 };
