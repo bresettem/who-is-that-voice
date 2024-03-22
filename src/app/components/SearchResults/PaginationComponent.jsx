@@ -1,7 +1,7 @@
 import React from "react";
 import { Pagination } from "react-bootstrap";
 
-export const itemsPerPage = 30;
+export const itemsPerPage = 32;
 
 const PaginationComponent = ({ totalPages, activePage, onPageChange }) => {
   const handlePageChange = (page) => {
@@ -9,7 +9,7 @@ const PaginationComponent = ({ totalPages, activePage, onPageChange }) => {
   };
 
   return (
-    <Pagination>
+    <Pagination className="pagination-container">
       <Pagination.Prev
         onClick={() => handlePageChange(Math.max(activePage - 1, 1))}
         disabled={activePage === 1}

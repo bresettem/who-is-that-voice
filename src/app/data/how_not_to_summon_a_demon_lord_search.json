@@ -1,0 +1,29 @@
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "e4faeeae-8a45-445b-b75d-228b463567a3",
+    "serviceTimeMs": 65.092713
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "results": [
+    {
+      "id": "/title/tt8438524/",
+      "image": {
+        "height": 960,
+        "id": "/title/tt8438524/images/rm1421625088",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjQ5MmI3ZjQtNjM3Ny00MTk4LWEyNmUtYTk1MTJmNTY4YWRlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "width": 640
+      },
+      "title": "How NOT to Summon a Demon Lord",
+      "titleType": "tvSeries",
+      "year": 2018
+    },
+    {
+      "id": "/title/tt16798062/",
+      "title": "Episode 106 - How Not to Summon a Demon Lord",
+      "titleType": "podcastEpisode",
+      "year": 2020
+    }
+  ],
+  "totalMatches": 2
+}

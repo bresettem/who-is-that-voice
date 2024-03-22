@@ -1,0 +1,6235 @@
+{
+  "id": "/title/tt8438524/",
+  "base": {
+    "id": "/title/tt8438524/",
+    "image": {
+      "height": 960,
+      "id": "/title/tt8438524/images/rm1421625088",
+      "url": "https://m.media-amazon.com/images/M/MV5BZjQ5MmI3ZjQtNjM3Ny00MTk4LWEyNmUtYTk1MTJmNTY4YWRlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+      "width": 640
+    },
+    "runningTimeInMinutes": 24,
+    "nextEpisode": "/title/tt8497744/",
+    "numberOfEpisodes": 22,
+    "seriesEndYear": 2021,
+    "seriesStartYear": 2018,
+    "title": "How NOT to Summon a Demon Lord",
+    "titleType": "tvSeries",
+    "year": 2018
+  },
+  "cast": [
+    {
+      "id": "/name/nm8193575/",
+      "legacyNameText": "Mizunaka, Masaaki",
+      "name": "Masaaki Mizunaka",
+      "category": "actor",
+      "characters": ["Diablo", "Takuma Sakamoto"],
+      "endYear": 2021,
+      "episodeCount": 22,
+      "roles": [
+        {
+          "character": "Diablo"
+        },
+        {
+          "character": "Takuma Sakamoto"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Yuu Serizawa", "Yu Serizawa"],
+      "id": "/name/nm5668055/",
+      "image": {
+        "height": 975,
+        "id": "/name/nm5668055/images/rm232603648",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDhiNzNjZGYtNmE1My00YTkyLWFlZDEtZTVhNGNiYzI1MTkwXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+        "width": 650
+      },
+      "legacyNameText": "Serizawa, Yû",
+      "name": "Yû Serizawa",
+      "category": "actress",
+      "characters": ["Shera L. Greenwood"],
+      "endYear": 2021,
+      "episodeCount": 22,
+      "roles": [
+        {
+          "character": "Shera L. Greenwood"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Fina"],
+      "id": "/name/nm7854630/",
+      "legacyNameText": "Waki, Azumi",
+      "name": "Azumi Waki",
+      "category": "actress",
+      "characters": ["Rem Galleu"],
+      "endYear": 2021,
+      "episodeCount": 22,
+      "roles": [
+        {
+          "character": "Rem Galleu"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Eric Johnson", "Alpha Lagrange", "Erik Vale"],
+      "disambiguation": "I",
+      "id": "/name/nm0425061/",
+      "image": {
+        "height": 3500,
+        "id": "/name/nm0425061/images/rm967963137",
+        "url": "https://m.media-amazon.com/images/M/MV5BM2Q3YTYxYTUtMTIyYy00YmMxLWIwN2ItMDJiNGVlNmQ5MmFiXkEyXkFqcGdeQXVyMzM3MDc0OQ@@._V1_.jpg",
+        "width": 2800
+      },
+      "legacyNameText": "Vale, Eric (I)",
+      "name": "Eric Vale",
+      "category": "actor",
+      "characters": ["Diablo", "Takuma Sakamoto"],
+      "endYear": 2021,
+      "episodeCount": 22,
+      "roles": [
+        {
+          "character": "Diablo"
+        },
+        {
+          "character": "Takuma Sakamoto"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm6441957/",
+      "legacyNameText": "Wiedenheft, Sarah",
+      "name": "Sarah Wiedenheft",
+      "category": "actress",
+      "characters": ["Shera L. Greenwood"],
+      "endYear": 2021,
+      "episodeCount": 22,
+      "roles": [
+        {
+          "character": "Shera L. Greenwood"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Zoe Latimer", "Jad Saxon", "Jād Saxton"],
+      "id": "/name/nm3617620/",
+      "legacyNameText": "Saxton, Jad",
+      "name": "Jad Saxton",
+      "category": "actress",
+      "characters": ["Rem Galleu"],
+      "endYear": 2021,
+      "episodeCount": 22,
+      "roles": [
+        {
+          "character": "Rem Galleu"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm6448971/",
+      "legacyNameText": "Uchimura, Fumiko",
+      "name": "Fumiko Uchimura",
+      "category": "actress",
+      "characters": [
+        "Horn",
+        "Alicia's Mother",
+        "Boy",
+        "Receptionist in Blue",
+        "Servant",
+        "Slave"
+      ],
+      "endYear": 2021,
+      "episodeCount": 14,
+      "roles": [
+        {
+          "character": "Horn"
+        },
+        {
+          "character": "Alicia's Mother"
+        },
+        {
+          "character": "Boy"
+        },
+        {
+          "character": "Receptionist in Blue"
+        },
+        {
+          "character": "Servant"
+        },
+        {
+          "character": "Slave"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["M·A·O", "Sayaka Sembongi", "Sayaka Sembougi"],
+      "id": "/name/nm5693865/",
+      "image": {
+        "height": 1444,
+        "id": "/name/nm5693865/images/rm438011905",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjdjYmE0YzUtODhjOC00MzcwLTkwZmMtNjI2MWZmNDZlMTZiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+        "width": 963
+      },
+      "legacyNameText": "Senbongi, Sayaka",
+      "name": "Sayaka Senbongi",
+      "category": "actress",
+      "characters": ["Celestine Baudelaire", "Friend"],
+      "endYear": 2021,
+      "episodeCount": 11,
+      "roles": [
+        {
+          "character": "Celestine Baudelaire"
+        },
+        {
+          "character": "Friend"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Lauryn Clarkson", "Lynn Lowin"],
+      "disambiguation": "I",
+      "id": "/name/nm1799368/",
+      "image": {
+        "height": 505,
+        "id": "/name/nm1799368/images/rm2036483328",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjhlMTA4ZDctYmNlYi00OGJiLTgzMjktNTI1MTExMzkxY2FhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+        "width": 407
+      },
+      "legacyNameText": "Clark, Leah (I)",
+      "name": "Leah Clark",
+      "category": "actress",
+      "characters": ["Sylvie"],
+      "endYear": 2021,
+      "episodeCount": 11,
+      "roles": [
+        {
+          "character": "Sylvie"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Rumi Ookubo", "Honako Saijou"],
+      "id": "/name/nm3676593/",
+      "image": {
+        "height": 1280,
+        "id": "/name/nm3676593/images/rm1698731265",
+        "url": "https://m.media-amazon.com/images/M/MV5BYThlMjUyOGItM2U5Zi00MmIxLTgwMjAtMWNkNDUwNWE3MjdlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+        "width": 960
+      },
+      "legacyNameText": "Okubo, Rumi",
+      "name": "Rumi Okubo",
+      "category": "actress",
+      "characters": ["Sylvie"],
+      "endYear": 2021,
+      "episodeCount": 11,
+      "roles": [
+        {
+          "character": "Sylvie"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Yumemi Hara"],
+      "id": "/name/nm3782945/",
+      "image": {
+        "height": 640,
+        "id": "/name/nm3782945/images/rm1597855488",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDRmMjdkOWUtNjkyYi00MDQzLWFmNmYtZDJhMDZjMjFjNjI1XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+        "width": 640
+      },
+      "legacyNameText": "Hara, Yumi",
+      "name": "Yumi Hara",
+      "category": "actress",
+      "characters": ["Alicia Crystella"],
+      "endYear": 2021,
+      "episodeCount": 11,
+      "roles": [
+        {
+          "character": "Alicia Crystella"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm6601582/",
+      "legacyNameText": "Ragsdale, Sara",
+      "name": "Sara Ragsdale",
+      "category": "actress",
+      "characters": ["Alicia Crystella"],
+      "endYear": 2021,
+      "episodeCount": 11,
+      "roles": [
+        {
+          "character": "Alicia Crystella"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["M Lenti"],
+      "id": "/name/nm6705101/",
+      "image": {
+        "height": 3256,
+        "id": "/name/nm6705101/images/rm4161193472",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkzODYxNjAwM15BMl5BanBnXkFtZTgwNjU1ODA2MjE@._V1_.jpg",
+        "width": 2380
+      },
+      "legacyNameText": "Lenti, Marissa",
+      "name": "Marissa Lenti",
+      "category": "actress",
+      "characters": ["Celestine Baudelaire"],
+      "endYear": 2021,
+      "episodeCount": 10,
+      "roles": [
+        {
+          "character": "Celestine Baudelaire"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": [
+        "Amber Lee Connors 'ShudoRanmaru'",
+        "Katy Benz",
+        "Amber Lee Connor",
+        "Amber Lee 'ShudoRanmaru' Connors",
+        "Amber Connors",
+        "Shudo Ranmaru",
+        "Shudo-Ranmaru",
+        "ShudoRanmaru"
+      ],
+      "id": "/name/nm4515899/",
+      "image": {
+        "height": 2250,
+        "id": "/name/nm4515899/images/rm3751518721",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDJkMjk0MWQtN2I3ZC00MmJkLWIxNzktYzU0NTA0YTBlYzcxXkEyXkFqcGdeQXVyMzc4MTcyODE@._V1_.jpg",
+        "width": 1800
+      },
+      "legacyNameText": "Connors, Amber Lee",
+      "name": "Amber Lee Connors",
+      "category": "actress",
+      "characters": ["Lumachina Weselia"],
+      "endYear": 2021,
+      "episodeCount": 10,
+      "roles": [
+        {
+          "character": "Lumachina Weselia"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "akas": ["Miku Ito"],
+      "id": "/name/nm5866448/",
+      "legacyNameText": "Itou, Miku",
+      "name": "Miku Itou",
+      "category": "actress",
+      "characters": ["Lumachina Weselia"],
+      "endYear": 2021,
+      "episodeCount": 10,
+      "roles": [
+        {
+          "character": "Lumachina Weselia"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "disambiguation": "II",
+      "id": "/name/nm8717917/",
+      "image": {
+        "height": 726,
+        "id": "/name/nm8717917/images/rm4270310401",
+        "url": "https://m.media-amazon.com/images/M/MV5BM2ViN2ZiZGQtYzZiNi00MTZiLWJkZjQtOTgwZjZkOTliZTA3XkEyXkFqcGdeQXVyMTMzMjU4NDM5._V1_.jpg",
+        "width": 523
+      },
+      "legacyNameText": "Rothrock, Kristi (II)",
+      "name": "Kristi Rothrock",
+      "category": "actress",
+      "characters": ["Edelgard"],
+      "endYear": 2021,
+      "episodeCount": 9,
+      "roles": [
+        {
+          "character": "Edelgard"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Emiri Katou"],
+      "id": "/name/nm2235310/",
+      "legacyNameText": "Kato, Emiri",
+      "name": "Emiri Kato",
+      "category": "actress",
+      "characters": ["Edelgard"],
+      "endYear": 2021,
+      "episodeCount": 9,
+      "roles": [
+        {
+          "character": "Edelgard"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "II",
+      "id": "/name/nm8324152/",
+      "legacyNameText": "Kimura, Hayato (II)",
+      "name": "Hayato Kimura",
+      "category": "actor",
+      "characters": [
+        "Dwarf",
+        "Magician",
+        "Squire",
+        "Armored Soldier",
+        "Demon",
+        "Escort"
+      ],
+      "endYear": 2018,
+      "episodeCount": 9,
+      "roles": [
+        {
+          "character": "Dwarf"
+        },
+        {
+          "character": "Magician"
+        },
+        {
+          "character": "Squire"
+        },
+        {
+          "character": "Armored Soldier"
+        },
+        {
+          "character": "Demon"
+        },
+        {
+          "character": "Escort"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm8661743/",
+      "legacyNameText": "Makimura, Takuya",
+      "name": "Takuya Makimura",
+      "category": "actor",
+      "characters": [
+        "Adventurer",
+        "Armored Soldier",
+        "Demon",
+        "Elf",
+        "Escort",
+        "Garrison Soldier",
+        "Royal Knight",
+        "Soldier",
+        "Tavern Guest"
+      ],
+      "endYear": 2018,
+      "episodeCount": 9,
+      "roles": [
+        {
+          "character": "Adventurer"
+        },
+        {
+          "character": "Armored Soldier"
+        },
+        {
+          "character": "Demon"
+        },
+        {
+          "character": "Elf"
+        },
+        {
+          "character": "Escort"
+        },
+        {
+          "character": "Garrison Soldier"
+        },
+        {
+          "character": "Royal Knight"
+        },
+        {
+          "character": "Soldier"
+        },
+        {
+          "character": "Tavern Guest"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "I",
+      "id": "/name/nm9879010/",
+      "legacyNameText": "Morishima, Yuka (I)",
+      "name": "Yuka Morishima",
+      "category": "actress",
+      "characters": ["Mei", "Receptionist in Red"],
+      "endYear": 2021,
+      "episodeCount": 8,
+      "roles": [
+        {
+          "character": "Mei"
+        },
+        {
+          "character": "Receptionist in Red"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm7387392/",
+      "legacyNameText": "Uchino, Takaaki",
+      "name": "Takaaki Uchino",
+      "category": "actor",
+      "characters": [
+        "Dwarf",
+        "Alicia's Father",
+        "Armored Soldier",
+        "Boar Man",
+        "Demon",
+        "Farmer",
+        "Tavern Guest"
+      ],
+      "endYear": 2018,
+      "episodeCount": 8,
+      "roles": [
+        {
+          "character": "Dwarf"
+        },
+        {
+          "character": "Alicia's Father"
+        },
+        {
+          "character": "Armored Soldier"
+        },
+        {
+          "character": "Boar Man"
+        },
+        {
+          "character": "Demon"
+        },
+        {
+          "character": "Farmer"
+        },
+        {
+          "character": "Tavern Guest"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Clifford Chapin IV", "Cliff Chapin", "Cliff Clapin"],
+      "id": "/name/nm5157463/",
+      "image": {
+        "height": 3936,
+        "id": "/name/nm5157463/images/rm2627291137",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTJmZWQ2ZWUtY2RkNy00YmEyLTg4YjktNTBhNGRjODAwYzUyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+        "width": 3932
+      },
+      "legacyNameText": "Chapin, Clifford",
+      "name": "Clifford Chapin",
+      "category": "actor",
+      "characters": ["Emile Bichelberger"],
+      "endYear": 2021,
+      "episodeCount": 7,
+      "roles": [
+        {
+          "character": "Emile Bichelberger"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": [
+        "Ohtsuka Akio",
+        "Akio Ohtsuka",
+        "Akio Ootsuka",
+        "Akio Otsuka",
+        "Akio Otuka"
+      ],
+      "id": "/name/nm0960033/",
+      "image": {
+        "height": 1024,
+        "id": "/name/nm0960033/images/rm755971328",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzZlY2NiYjktM2Y2My00YjcyLTg5Y2UtM2M5YjMwNDRiMjY1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+        "width": 684
+      },
+      "legacyNameText": "Ôtsuka, Akio",
+      "name": "Akio Ôtsuka",
+      "category": "actor",
+      "characters": ["Chester Ray Galford"],
+      "endYear": 2021,
+      "episodeCount": 7,
+      "roles": [
+        {
+          "character": "Chester Ray Galford"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": [
+        "Ryoutarou Okaiyu",
+        "Ryuutarou Okaiyu",
+        "Ryotaroh Okiayu",
+        "Ryotaro Okiayu",
+        "Ryotato Okiayu",
+        "Ryoutarou Okiayu",
+        "Ryutarou Okiayu",
+        "Ryutaro Okiayu",
+        "Ryuutarou Okiayu"
+      ],
+      "id": "/name/nm0645636/",
+      "image": {
+        "height": 500,
+        "id": "/name/nm0645636/images/rm85416704",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGU1NDRjODQtMzg2Ni00NDBmLTg4ZjUtNGQ1OWEwODRmMGIxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+        "width": 322
+      },
+      "legacyNameText": "Okiayu, Ryôtarô",
+      "name": "Ryôtarô Okiayu",
+      "category": "actor",
+      "characters": ["Emile Bichelberger"],
+      "endYear": 2021,
+      "episodeCount": 7,
+      "roles": [
+        {
+          "character": "Emile Bichelberger"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "I",
+      "id": "/name/nm0558905/",
+      "legacyNameText": "Mathis, Brian (I)",
+      "name": "Brian Mathis",
+      "category": "actor",
+      "characters": ["Chester Ray Galford"],
+      "endYear": 2021,
+      "episodeCount": 7,
+      "roles": [
+        {
+          "character": "Chester Ray Galford"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "II",
+      "id": "/name/nm10140068/",
+      "legacyNameText": "Grace, Kimberly (II)",
+      "name": "Kimberly Grace",
+      "category": "actress",
+      "characters": ["Mei"],
+      "endYear": 2021,
+      "episodeCount": 7,
+      "roles": [
+        {
+          "character": "Mei"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm4533533/",
+      "legacyNameText": "Akasaki, Chinatsu",
+      "name": "Chinatsu Akasaki",
+      "category": "actress",
+      "characters": ["Fanis Laminitus"],
+      "endYear": 2021,
+      "episodeCount": 7,
+      "roles": [
+        {
+          "character": "Fanis Laminitus"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "akas": ["Matsuri Kurosaki"],
+      "id": "/name/nm6662487/",
+      "legacyNameText": "Tanezaki, Atsumi",
+      "name": "Atsumi Tanezaki",
+      "category": "actress",
+      "characters": ["Krebskulm"],
+      "endYear": 2021,
+      "episodeCount": 6,
+      "roles": [
+        {
+          "character": "Krebskulm"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Maddie Morris"],
+      "disambiguation": "II",
+      "id": "/name/nm8941559/",
+      "image": {
+        "height": 3500,
+        "id": "/name/nm8941559/images/rm206828545",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDhhNzQ0NjAtOTJlOC00ZWZmLWFhYWItZDIwZGU0MDg1NTE5XkEyXkFqcGdeQXVyNzg0NzAyODQ@._V1_.jpg",
+        "width": 2800
+      },
+      "legacyNameText": "Morris, Madeleine (II)",
+      "name": "Madeleine Morris",
+      "category": "actress",
+      "characters": ["Krebskulm"],
+      "endYear": 2021,
+      "episodeCount": 6,
+      "roles": [
+        {
+          "character": "Krebskulm"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm7612988/",
+      "image": {
+        "height": 1344,
+        "id": "/name/nm7612988/images/rm1471584513",
+        "url": "https://m.media-amazon.com/images/M/MV5BYjhlMzI0NGYtYzUxZC00ZTRjLTk4YjQtZDdkZTVmNzMwZTc2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+        "width": 1000
+      },
+      "legacyNameText": "Koga, Aoi",
+      "name": "Aoi Koga",
+      "category": "actress",
+      "characters": ["Rose"],
+      "endYear": 2021,
+      "episodeCount": 6,
+      "roles": [
+        {
+          "character": "Rose"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "id": "/name/nm1891168/",
+      "legacyNameText": "Bowling, Anthony",
+      "name": "Anthony Bowling",
+      "category": "actor",
+      "characters": ["Saddler", "Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 5,
+      "roles": [
+        {
+          "character": "Saddler"
+        },
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "III",
+      "id": "/name/nm2794650/",
+      "image": {
+        "height": 3600,
+        "id": "/name/nm2794650/images/rm3334089217",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU2Mjk1MzUtMmNmMS00MjhlLWIwMDgtNWI3NWZlOWU4Mjk3XkEyXkFqcGdeQXVyMjI0OTA1MTY@._V1_.jpg",
+        "width": 2400
+      },
+      "legacyNameText": "Gardner, Chris (III)",
+      "name": "Chris Gardner",
+      "category": "actor",
+      "characters": ["Galluk", "Gregore"],
+      "endYear": 2018,
+      "episodeCount": 5,
+      "roles": [
+        {
+          "character": "Galluk"
+        },
+        {
+          "character": "Gregore"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "II",
+      "id": "/name/nm10451534/",
+      "legacyNameText": "Sisk, Austin (II)",
+      "name": "Austin Sisk",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 5,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm4841329/",
+      "legacyNameText": "Herek, Samantha",
+      "name": "Samantha Herek",
+      "category": "actress",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 5,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm6601611/",
+      "legacyNameText": "Wheeler, Clay",
+      "name": "Clay Wheeler",
+      "category": "actor",
+      "characters": ["Celsior", "Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 4,
+      "roles": [
+        {
+          "character": "Celsior"
+        },
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm10519011/",
+      "legacyNameText": "Rolon, Eric",
+      "name": "Eric Rolon",
+      "category": "actor",
+      "characters": ["Additional Voices", "Boarman"],
+      "endYear": 2018,
+      "episodeCount": 4,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        },
+        {
+          "character": "Boarman"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm3488775/",
+      "legacyNameText": "Takumi, Yasuaki",
+      "name": "Yasuaki Takumi",
+      "category": "actor",
+      "characters": ["Garaku"],
+      "endYear": 2018,
+      "episodeCount": 4,
+      "roles": [
+        {
+          "character": "Garaku"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm9858508/",
+      "legacyNameText": "Cucinotti, Joe",
+      "name": "Joe Cucinotti",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 4,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "I",
+      "id": "/name/nm7413757/",
+      "legacyNameText": "Kobayashi, Tatsuyuki (I)",
+      "name": "Tatsuyuki Kobayashi",
+      "category": "actor",
+      "characters": ["Celsior", "Demon"],
+      "endYear": 2018,
+      "episodeCount": 4,
+      "roles": [
+        {
+          "character": "Celsior"
+        },
+        {
+          "character": "Demon"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "II",
+      "id": "/name/nm2996243/",
+      "legacyNameText": "Silva, Greg (II)",
+      "name": "Greg Silva",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 4,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": [
+        "Aimi",
+        "Houdentei Burisuke",
+        "Toriumi Kousuke",
+        "Sakiware Spoon",
+        "Kohsuke Toriumi",
+        "Kohsume Toriumi",
+        "Kosuke Toriumi",
+        "Kousuke Toriumi",
+        "Kohsuke Toriumu"
+      ],
+      "id": "/name/nm1047006/",
+      "legacyNameText": "Toriumi, Kôsuke",
+      "name": "Kôsuke Toriumi",
+      "category": "actor",
+      "characters": ["Vishos"],
+      "endYear": 2021,
+      "episodeCount": 4,
+      "roles": [
+        {
+          "character": "Vishos"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "id": "/name/nm2944424/",
+      "image": {
+        "height": 513,
+        "id": "/name/nm2944424/images/rm3303284736",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2NlYmYzMjgtOWExOS00NGY3LTg5NmEtMjk4ZGM2YmUyN2VkXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+        "width": 770
+      },
+      "legacyNameText": "Okitsu, Kazuyuki",
+      "name": "Kazuyuki Okitsu",
+      "category": "actor",
+      "characters": ["Gewalt"],
+      "endYear": 2021,
+      "episodeCount": 4,
+      "roles": [
+        {
+          "character": "Gewalt"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "id": "/name/nm7083516/",
+      "legacyNameText": "Storms, Garret",
+      "name": "Garret Storms",
+      "category": "actor",
+      "characters": ["Gewalt"],
+      "endYear": 2021,
+      "episodeCount": 4,
+      "roles": [
+        {
+          "character": "Gewalt"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "id": "/name/nm9806305/",
+      "legacyNameText": "Harumura, Nana",
+      "name": "Nana Harumura",
+      "category": "actress",
+      "characters": [
+        "Girl from Arms Shop",
+        "Receptionist in Yellow",
+        "Turkey Shot"
+      ],
+      "endYear": 2021,
+      "episodeCount": 3,
+      "roles": [
+        {
+          "character": "Girl from Arms Shop"
+        },
+        {
+          "character": "Receptionist in Yellow"
+        },
+        {
+          "character": "Turkey Shot"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Ishida Akira", "Non Style"],
+      "disambiguation": "I",
+      "id": "/name/nm0410907/",
+      "image": {
+        "height": 634,
+        "id": "/name/nm0410907/images/rm848910336",
+        "url": "https://m.media-amazon.com/images/M/MV5BYmRlNDE2ZDItY2Y2YS00ZjVhLWEzOGItMGVmMzllYmQ5Mjg0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+        "width": 393
+      },
+      "legacyNameText": "Ishida, Akira (I)",
+      "name": "Akira Ishida",
+      "category": "actor",
+      "characters": ["Keera L. Greenwood"],
+      "endYear": 2018,
+      "episodeCount": 3,
+      "roles": [
+        {
+          "character": "Keera L. Greenwood"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm8002676/",
+      "legacyNameText": "Fu, Stephen",
+      "name": "Stephen Fu",
+      "category": "actor",
+      "characters": ["Keera L. Greenwood"],
+      "endYear": 2018,
+      "episodeCount": 3,
+      "roles": [
+        {
+          "character": "Keera L. Greenwood"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Daniel Quinn Angell"],
+      "id": "/name/nm9450710/",
+      "image": {
+        "height": 3500,
+        "id": "/name/nm9450710/images/rm2678267393",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTc2ZGI3OWQtNjA0NS00ZTJlLTk1NGUtYTI0ZmNjZDIwMTc0XkEyXkFqcGdeQXVyODQxOTYyODE@._V1_.jpg",
+        "width": 2800
+      },
+      "legacyNameText": "Angell, Quinn",
+      "name": "Quinn Angell",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 3,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Robby Gemaehlich", "Robby Gemehlich"],
+      "id": "/name/nm6568402/",
+      "image": {
+        "height": 8256,
+        "id": "/name/nm6568402/images/rm2951686401",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTExY2QwMWUtYTc0OS00ZmEzLTlmMDYtYzdmOTgwNmMyYWUyXkEyXkFqcGdeQXVyMTQ5NDc2MzM5._V1_.jpg",
+        "width": 6192
+      },
+      "legacyNameText": "Gemaehlich, Robert",
+      "name": "Robert Gemaehlich",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 3,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm10385311/",
+      "legacyNameText": "Ueki, Shinei",
+      "name": "Shinei Ueki",
+      "category": "actor",
+      "characters": ["Boris", "Elf"],
+      "endYear": 2018,
+      "episodeCount": 3,
+      "roles": [
+        {
+          "character": "Boris"
+        },
+        {
+          "character": "Elf"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm4986852/",
+      "image": {
+        "height": 1053,
+        "id": "/name/nm4986852/images/rm2945460225",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjhjOWUxZGItMWVkYy00YjczLThlOWUtZDExMGJmYTIwNDc2XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+        "width": 720
+      },
+      "legacyNameText": "Murase, Ayumu",
+      "name": "Ayumu Murase",
+      "category": "actor",
+      "characters": ["Sanro"],
+      "endYear": 2021,
+      "episodeCount": 3,
+      "roles": [
+        {
+          "character": "Sanro"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "disambiguation": "II",
+      "id": "/name/nm6770060/",
+      "image": {
+        "height": 1200,
+        "id": "/name/nm6770060/images/rm3303097857",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTJmYjJhMWEtYzkzMi00NjdhLWFhNzEtZTMwZmZjMjA0NjEyXkEyXkFqcGdeQXVyMTA3NzYwNzU4._V1_CR188,0,800,1200_.jpg",
+        "width": 800
+      },
+      "legacyNameText": "Butts, Bill (II)",
+      "name": "Bill Butts",
+      "category": "actor",
+      "characters": ["Varakness"],
+      "endYear": 2021,
+      "episodeCount": 3,
+      "roles": [
+        {
+          "character": "Varakness"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "id": "/name/nm2675477/",
+      "legacyNameText": "Tachibana, Shinnosuke",
+      "name": "Shinnosuke Tachibana",
+      "category": "actor",
+      "characters": ["Varakness"],
+      "endYear": 2021,
+      "episodeCount": 3,
+      "roles": [
+        {
+          "character": "Varakness"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "akas": ["Lily Carpenter", "Alexis Tilton", "Alexis Tripton"],
+      "id": "/name/nm3470960/",
+      "image": {
+        "height": 2048,
+        "id": "/name/nm3470960/images/rm275177729",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjgwYWY4NGQtOTBlMC00NDRmLTlhMTMtN2RhNDJkMzhiYWFmXkEyXkFqcGdeQXVyMzA3OTE3OTc@._V1_.jpg",
+        "width": 1365
+      },
+      "legacyNameText": "Tipton, Alexis",
+      "name": "Alexis Tipton",
+      "category": "actress",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm4974834/",
+      "image": {
+        "height": 1024,
+        "id": "/name/nm4974834/images/rm2075936768",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDk5YmE2ODctODQ2OS00ZmEyLWJkOGQtMTIzMzVlZGJiNjc4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+        "width": 792
+      },
+      "legacyNameText": "Shipman, Matt",
+      "name": "Matt Shipman",
+      "category": "actor",
+      "characters": ["Boris"],
+      "endYear": 2018,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Boris"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Jordan Cruz"],
+      "id": "/name/nm9002396/",
+      "legacyNameText": "Cruz, Jordan Dash",
+      "name": "Jordan Dash Cruz",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Jermy Inman"],
+      "id": "/name/nm0409130/",
+      "image": {
+        "height": 340,
+        "id": "/name/nm0409130/images/rm3649653760",
+        "url": "https://m.media-amazon.com/images/M/MV5BNmRlZGRjOTctM2YyYS00NWFjLWIyMTQtMTBmMTdjNGE0ZWJlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+        "width": 225
+      },
+      "legacyNameText": "Inman, Jeremy",
+      "name": "Jeremy Inman",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Justin Alexander"],
+      "disambiguation": "IV",
+      "id": "/name/nm4678178/",
+      "image": {
+        "height": 3600,
+        "id": "/name/nm4678178/images/rm324723456",
+        "url": "https://m.media-amazon.com/images/M/MV5BNGFmZGM4MTgtOTVlMi00ZWYwLWE4MTQtNmRhYjlkM2FmMWI5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+        "width": 2400
+      },
+      "legacyNameText": "Duncan, Justin (IV)",
+      "name": "Justin Duncan",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Tooru Sakurai"],
+      "id": "/name/nm5443773/",
+      "legacyNameText": "Sakurai, Tôru",
+      "name": "Tôru Sakurai",
+      "category": "actor",
+      "characters": ["Gregor"],
+      "endYear": 2018,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Gregor"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Jo Beatty", "Joanna Beaty"],
+      "id": "/name/nm0064216/",
+      "legacyNameText": "Beatty, Joanna",
+      "name": "Joanna Beatty",
+      "category": "actress",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Andrew Mullins"],
+      "disambiguation": "I",
+      "id": "/name/nm1756131/",
+      "legacyNameText": "Mullins, Andy (I)",
+      "name": "Andy Mullins",
+      "category": "actor",
+      "characters": ["Eulerex"],
+      "endYear": 2018,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Eulerex"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "II",
+      "id": "/name/nm9148618/",
+      "image": {
+        "height": 2190,
+        "id": "/name/nm9148618/images/rm2387179776",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTYxOGQ3ZmMtMjI0MC00OWY2LTg5NGMtMzQ1ZDI2ZTI1Njg2XkEyXkFqcGdeQXVyODI1OTA1MzA@._V1_.jpg",
+        "width": 2190
+      },
+      "legacyNameText": "Kurtz, Brad (II)",
+      "name": "Brad Kurtz",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "I",
+      "id": "/name/nm6393154/",
+      "legacyNameText": "Tajiri, Hiroaki (I)",
+      "name": "Hiroaki Tajiri",
+      "category": "actor",
+      "characters": ["Dwarf", "King"],
+      "endYear": 2018,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Dwarf"
+        },
+        {
+          "character": "King"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm7471016/",
+      "legacyNameText": "Kitamura, Kenji",
+      "name": "Kenji Kitamura",
+      "category": "actor",
+      "characters": ["Ouro"],
+      "endYear": 2018,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Ouro"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm9843494/",
+      "legacyNameText": "Tehrani, Benjamin",
+      "name": "Benjamin Tehrani",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Dorothy Garrett", "Dorthy Garrett", "Monica"],
+      "id": "/name/nm0722676/",
+      "image": {
+        "height": 878,
+        "id": "/name/nm0722676/images/rm3687934720",
+        "url": "https://m.media-amazon.com/images/M/MV5BNmU3NDJkMjEtNmVmYi00ZDYwLTllODktNGU4OWRiZjI5YmQ2XkEyXkFqcGdeQXVyNTA5NjQ5MTY@._V1_.jpg",
+        "width": 605
+      },
+      "legacyNameText": "Rial, Monica",
+      "name": "Monica Rial",
+      "category": "actress",
+      "characters": ["Babylon"],
+      "endYear": 2021,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Babylon"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "akas": ["DC Douglas"],
+      "id": "/name/nm0235006/",
+      "image": {
+        "height": 3630,
+        "id": "/name/nm0235006/images/rm1287345153",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTk1MTcxMjctNGQ1Mi00NGEzLWE4OTAtNGZjMjBmYzllYzY5XkEyXkFqcGdeQXVyMTM5MjA0Mw@@._V1_.jpg",
+        "width": 2462
+      },
+      "legacyNameText": "Douglas, D.C.",
+      "name": "D.C. Douglas",
+      "category": "actor",
+      "characters": ["Battuta"],
+      "endYear": 2021,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Battuta"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "akas": ["Kazuhiro Yamazi"],
+      "id": "/name/nm0945377/",
+      "legacyNameText": "Yamaji, Kazuhiro",
+      "name": "Kazuhiro Yamaji",
+      "category": "actor",
+      "characters": ["Batutta"],
+      "endYear": 2021,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Batutta"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "id": "/name/nm10810213/",
+      "image": {
+        "height": 674,
+        "id": "/name/nm10810213/images/rm2120720129",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzJiNDI3YTQtZDc3My00N2FlLTgyNjItZGJhMTNiMDcxODdjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+        "width": 674
+      },
+      "legacyNameText": "Britt, Kimmie",
+      "name": "Kimmie Britt",
+      "category": "actress",
+      "characters": ["Tria"],
+      "endYear": 2021,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Tria"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "id": "/name/nm6209228/",
+      "legacyNameText": "Hino, Mari",
+      "name": "Mari Hino",
+      "category": "actress",
+      "characters": ["Shiliu"],
+      "endYear": 2021,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Shiliu"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "akas": ["Kanako"],
+      "disambiguation": "I",
+      "id": "/name/nm7447482/",
+      "legacyNameText": "Fujita, Akane (I)",
+      "name": "Akane Fujita",
+      "category": "actress",
+      "characters": ["Babylon"],
+      "endYear": 2021,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Babylon"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "akas": ["Yuna"],
+      "id": "/name/nm10017584/",
+      "legacyNameText": "Kawase, Maki",
+      "name": "Maki Kawase",
+      "category": "actress",
+      "characters": ["Tria"],
+      "endYear": 2021,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Tria"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "id": "/name/nm4847835/",
+      "legacyNameText": "Yamamoto, Kazutomi",
+      "name": "Kazutomi Yamamoto",
+      "category": "actor",
+      "characters": ["Grun"],
+      "endYear": 2021,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Grun"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "akas": ["Jim Feronda", "Jim Foranda"],
+      "id": "/name/nm1542420/",
+      "image": {
+        "height": 2400,
+        "id": "/name/nm1542420/images/rm1437074945",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2FjMmJmMzAtYTVlMS00NzFiLWIxNGQtYTgzMTMwNmY2ODYzXkEyXkFqcGdeQXVyMTA5NzI3NQ@@._V1_.jpg",
+        "width": 1800
+      },
+      "legacyNameText": "Foronda, Jim",
+      "name": "Jim Foronda",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Maya Maxwell"],
+      "id": "/name/nm5993940/",
+      "image": {
+        "height": 960,
+        "id": "/name/nm5993940/images/rm227447809",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDE3OWEwY2MtMjA2Zi00MmI0LWEyNzUtZWU1ODU0NDA5MTI4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+        "width": 960
+      },
+      "legacyNameText": "Angelle, Felecia",
+      "name": "Felecia Angelle",
+      "category": "actress",
+      "characters": ["Turkey Shot"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Turkey Shot"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Kelly Angel", "Tessa Whitten"],
+      "id": "/name/nm6548466/",
+      "legacyNameText": "Apprill, Bryn",
+      "name": "Bryn Apprill",
+      "category": "actress",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": [
+        "Morgan Garret",
+        "Morgan Garrett",
+        "Morgan Gerret",
+        "Mandy Lane",
+        "Morgan Laurè",
+        "Morgan Lauré"
+      ],
+      "id": "/name/nm5098656/",
+      "image": {
+        "height": 477,
+        "id": "/name/nm5098656/images/rm2530708225",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDVlNDI2NmUtODFmMS00ODM0LWI1M2MtYWMxZWIwMWExNzJkXkEyXkFqcGdeQXVyNTQ4OTc2NzQ@._V1_.jpg",
+        "width": 477
+      },
+      "legacyNameText": "Laure, Morgan",
+      "name": "Morgan Laure",
+      "category": "actress",
+      "characters": ["Medios"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Medios"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "II",
+      "id": "/name/nm3654365/",
+      "legacyNameText": "Gibbs, Adam (II)",
+      "name": "Adam Gibbs",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm7336696/",
+      "image": {
+        "height": 3500,
+        "id": "/name/nm7336696/images/rm320298241",
+        "url": "https://m.media-amazon.com/images/M/MV5BMWU5ODAxYjYtMzk1Ny00OGJjLTkwYWMtYTRmOGM1ZjA3MGZiXkEyXkFqcGdeQXVyNjkzNTUxODQ@._V1_.jpg",
+        "width": 2800
+      },
+      "legacyNameText": "Barr, Katelyn",
+      "name": "Katelyn Barr",
+      "category": "actress",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm7118506/",
+      "image": {
+        "height": 2000,
+        "id": "/name/nm7118506/images/rm2558558465",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDE5NDA0YjItMGY1Zi00OGFmLTkxM2EtOWU5ZjNmNzU0ZjE1XkEyXkFqcGdeQXVyNjg2MDA4MzE@._V1_.jpg",
+        "width": 1299
+      },
+      "legacyNameText": "McGuire, Kristen",
+      "name": "Kristen McGuire",
+      "category": "actress",
+      "characters": ["Takuma (Young)"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Takuma (Young)"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["KylePhillipsFun"],
+      "disambiguation": "III",
+      "id": "/name/nm3527523/",
+      "image": {
+        "height": 3177,
+        "id": "/name/nm3527523/images/rm1194813952",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTE4ZDJjMzItYjdjYy00OTBmLWEzZWMtMGVjODUxNDIwNzMzXkEyXkFqcGdeQXVyMjA3MDk2MDE@._V1_.jpg",
+        "width": 3235
+      },
+      "legacyNameText": "Phillips, Kyle (III)",
+      "name": "Kyle Phillips",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Chubs Jorge"],
+      "id": "/name/nm3435683/",
+      "legacyNameText": "George, Cris",
+      "name": "Cris George",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "I",
+      "id": "/name/nm1775664/",
+      "legacyNameText": "Walker, Tyler (I)",
+      "name": "Tyler Walker",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": [
+        "Sayaka Ohara",
+        "Sayaka Ohhara",
+        "Sayaka Oohara",
+        "Ôhara Sayaka",
+        "Sayaka Ohhara in English credits"
+      ],
+      "id": "/name/nm1360441/",
+      "legacyNameText": "Ôhara, Sayaka",
+      "name": "Sayaka Ôhara",
+      "category": "actress",
+      "characters": ["Medios"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Medios"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Kohei Amasaki", "Kouhei Amasaki"],
+      "id": "/name/nm7502119/",
+      "legacyNameText": "Amasaki, Kôhei",
+      "name": "Kôhei Amasaki",
+      "category": "actor",
+      "characters": ["Feline Tribe Man"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Feline Tribe Man"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm7584230/",
+      "legacyNameText": "Nagatsuka, Takuma",
+      "name": "Takuma Nagatsuka",
+      "category": "actor",
+      "characters": ["Feline Tribe Man"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Feline Tribe Man"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm6929958/",
+      "legacyNameText": "Matsuda, Satsumi",
+      "name": "Satsumi Matsuda",
+      "category": "actress",
+      "characters": ["Grasswalker"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Grasswalker"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm9627425/",
+      "legacyNameText": "Hieda, Nene",
+      "name": "Nene Hieda",
+      "category": "actress",
+      "characters": ["Friend"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Friend"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm5644044/",
+      "legacyNameText": "Stewart, Kylie",
+      "name": "Kylie Stewart",
+      "category": "actress",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm7835996/",
+      "legacyNameText": "Matsuda, Risae",
+      "name": "Risae Matsuda",
+      "category": "actress",
+      "characters": ["Grasswalker"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Grasswalker"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Ian Moore"],
+      "id": "/name/nm3774587/",
+      "legacyNameText": "Moore, Ian Mead",
+      "name": "Ian Mead Moore",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm10655862/",
+      "image": {
+        "height": 528,
+        "id": "/name/nm10655862/images/rm855827201",
+        "url": "https://m.media-amazon.com/images/M/MV5BNGQ3NzdlMmMtNzkyYS00ZWJhLTkwNmItMTI1ZGE4YzZjNTIzXkEyXkFqcGdeQXVyMTQ4MjUxMDEy._V1_.jpg",
+        "width": 527
+      },
+      "legacyNameText": "Whitener, Derek",
+      "name": "Derek Whitener",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "akas": ["Cody Potcotter"],
+      "id": "/name/nm4808006/",
+      "legacyNameText": "Pottkotter, Cody",
+      "name": "Cody Pottkotter",
+      "category": "actor",
+      "endYear": 2018,
+      "episodeCount": 1,
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "III",
+      "id": "/name/nm9187129/",
+      "legacyNameText": "Mitchell, Bonnie (III)",
+      "name": "Bonnie Mitchell",
+      "category": "actress",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm12562371/",
+      "legacyNameText": "Hosaka, Soutarou",
+      "name": "Soutarou Hosaka",
+      "category": "actor",
+      "characters": ["Adventurer"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Adventurer"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm12273543/",
+      "legacyNameText": "Eda, Takuhiro",
+      "name": "Takuhiro Eda",
+      "category": "actor",
+      "characters": ["Elf"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Elf"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "id": "/name/nm10004165/",
+      "legacyNameText": "Chapa, Nolan",
+      "name": "Nolan Chapa",
+      "category": "actor",
+      "characters": ["Additional Voices"],
+      "endYear": 2018,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Additional Voices"
+        }
+      ],
+      "startYear": 2018
+    },
+    {
+      "disambiguation": "V",
+      "id": "/name/nm8839152/",
+      "image": {
+        "height": 3080,
+        "id": "/name/nm8839152/images/rm1653172224",
+        "url": "https://m.media-amazon.com/images/M/MV5BNmIzYThjMWUtNDYwZi00YzUwLThiNjAtZTkzMzM0ODA0YWY0XkEyXkFqcGdeQXVyODcxMzI2NDY@._V1_.jpg",
+        "width": 2053
+      },
+      "legacyNameText": "Roach, Sarah (V)",
+      "name": "Sarah Roach",
+      "category": "actress",
+      "characters": ["Crow"],
+      "endYear": 2021,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Crow"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "id": "/name/nm10852109/",
+      "legacyNameText": "Egashira, Hiroya",
+      "name": "Hiroya Egashira",
+      "category": "actor",
+      "characters": ["Scarface"],
+      "endYear": 2021,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Scarface"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "akas": ["Michitake Kikuch"],
+      "id": "/name/nm12590085/",
+      "legacyNameText": "Kikuchi, Michitake",
+      "name": "Michitake Kikuchi",
+      "category": "actor",
+      "characters": ["Measmos"],
+      "endYear": 2021,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Measmos"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "id": "/name/nm9652555/",
+      "legacyNameText": "Mochida, Himari",
+      "name": "Himari Mochida",
+      "category": "actress",
+      "characters": ["Peter"],
+      "endYear": 2021,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Peter"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "id": "/name/nm12413392/",
+      "legacyNameText": "Koo, D.J.",
+      "name": "D.J. Koo",
+      "category": "actor",
+      "characters": ["Street DJ"],
+      "endYear": 2021,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Street DJ"
+        }
+      ],
+      "startYear": 2021
+    },
+    {
+      "disambiguation": "II",
+      "id": "/name/nm12475523/",
+      "legacyNameText": "Motsu (II)",
+      "name": "Motsu",
+      "category": "actor",
+      "characters": ["Street Rapper"],
+      "endYear": 2021,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Street Rapper"
+        }
+      ],
+      "startYear": 2021
+    }
+  ],
+  "crew": {
+    "editor": [
+      {
+        "akas": ["Yoshitake Masato"],
+        "id": "/name/nm6075239/",
+        "legacyNameText": "Yoshitake, Masato",
+        "name": "Masato Yoshitake",
+        "category": "editor",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm4899909/",
+        "legacyNameText": "Uchida, Wataru (I)",
+        "name": "Wataru Uchida",
+        "category": "editor",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "startYear": 2021
+      }
+    ],
+    "art_department": [
+      {
+        "id": "/name/nm12475522/",
+        "legacyNameText": "Takahiro, Tsurusaki",
+        "name": "Tsurusaki Takahiro",
+        "category": "art_department",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "job": "original character design",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm2191586/",
+        "legacyNameText": "Narita, Iho",
+        "name": "Iho Narita",
+        "category": "art_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "art designer",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Natsuko Otsuka"],
+        "id": "/name/nm7955432/",
+        "legacyNameText": "Ôtsuka, Natsuko",
+        "name": "Natsuko Ôtsuka",
+        "category": "art_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "color designer",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm5552130/",
+        "legacyNameText": "Aburaya, Yumi",
+        "name": "Yumi Aburaya",
+        "category": "art_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "color design",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Satoshi Kuwahara", "Satoshi Kuwahara in English credits"],
+        "disambiguation": "I",
+        "id": "/name/nm0476663/",
+        "legacyNameText": "Kuwabara, Satoshi (I)",
+        "name": "Satoshi Kuwabara",
+        "category": "art_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "storyboard artist",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Yuta Murano"],
+        "id": "/name/nm7612957/",
+        "legacyNameText": "Murano, Yûta",
+        "name": "Yûta Murano",
+        "category": "art_department",
+        "endYear": 2018,
+        "episodeCount": 5,
+        "job": "storyboard artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm4047350/",
+        "legacyNameText": "Fujimori, Masaya",
+        "name": "Masaya Fujimori",
+        "category": "art_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "storyboard artist",
+        "startYear": 2018
+      },
+      {
+        "akas": [
+          "Inumakura",
+          "Jinken Kikiki",
+          "Kiyoshi Nemoto",
+          "Inumakura Oh",
+          "Mori Takeshi",
+          "Hironori Urano",
+          "Kôsei Urano"
+        ],
+        "disambiguation": "I",
+        "id": "/name/nm0605304/",
+        "legacyNameText": "Mori, Takeshi (I)",
+        "name": "Takeshi Mori",
+        "category": "art_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "storyboard artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Ryou Takahashi", "Ryo Takahashi", "Ryo Takahshi"],
+        "disambiguation": "X",
+        "id": "/name/nm1563886/",
+        "legacyNameText": "Takahashi, Ryô (X)",
+        "name": "Ryô Takahashi",
+        "category": "art_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "storyboard artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Toru Takahashi", "Toru Takahashi in English credits"],
+        "disambiguation": "III",
+        "id": "/name/nm0847202/",
+        "legacyNameText": "Takahashi, Tôru (III)",
+        "name": "Tôru Takahashi",
+        "category": "art_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "storyboard artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm9916300/",
+        "legacyNameText": "Korie, Riko",
+        "name": "Riko Korie",
+        "category": "art_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "end card illustration",
+        "startYear": 2021
+      },
+      {
+        "akas": [
+          "Kenji Seto",
+          "Setoken",
+          "Kenji Setoh in English language credits"
+        ],
+        "id": "/name/nm4808859/",
+        "legacyNameText": "Setô, Kenji",
+        "name": "Kenji Setô",
+        "category": "art_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "storyboard artist",
+        "startYear": 2021
+      }
+    ],
+    "miscellaneous": [
+      {
+        "disambiguation": "II",
+        "id": "/name/nm1793603/",
+        "legacyNameText": "Pickett, John (II)",
+        "name": "John Pickett",
+        "category": "miscellaneous",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "translation",
+        "startYear": 2021
+      }
+    ],
+    "script_department": [
+      {
+        "id": "/name/nm8638202/",
+        "legacyNameText": "Kraatz, Jeramey",
+        "name": "Jeramey Kraatz",
+        "category": "script_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "adr script supervisor",
+        "startYear": 2018
+      }
+    ],
+    "director": [
+      {
+        "akas": ["Yuta Murano"],
+        "id": "/name/nm7612957/",
+        "legacyNameText": "Murano, Yûta",
+        "name": "Yûta Murano",
+        "category": "director",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "startYear": 2018
+      },
+      {
+        "akas": ["Satoshi Kuwahara", "Satoshi Kuwahara in English credits"],
+        "disambiguation": "I",
+        "id": "/name/nm0476663/",
+        "legacyNameText": "Kuwabara, Satoshi (I)",
+        "name": "Satoshi Kuwabara",
+        "category": "director",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm4345434/",
+        "legacyNameText": "Negishi, Hiroki",
+        "name": "Hiroki Negishi",
+        "category": "director",
+        "endYear": 2018,
+        "episodeCount": 5,
+        "startYear": 2018
+      },
+      {
+        "akas": ["Toshiaki Kambara", "Toshiyuki Kanbara"],
+        "id": "/name/nm1781531/",
+        "legacyNameText": "Kanbara, Toshiaki",
+        "name": "Toshiaki Kanbara",
+        "category": "director",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "startYear": 2018
+      },
+      {
+        "akas": ["Baito Akai"],
+        "id": "/name/nm2806487/",
+        "legacyNameText": "Koga, Kazuomi",
+        "name": "Kazuomi Koga",
+        "category": "director",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm10702712/",
+        "legacyNameText": "Takagi, Yoshie",
+        "name": "Yoshie Takagi",
+        "category": "director",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm3162809/",
+        "legacyNameText": "Kunisaki, Tomoya",
+        "name": "Tomoya Kunisaki",
+        "category": "director",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm2813651/",
+        "legacyNameText": "Sakaibashi, Wataru",
+        "name": "Wataru Sakaibashi",
+        "category": "director",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "startYear": 2018
+      }
+    ],
+    "composer": [
+      {
+        "id": "/name/nm8269946/",
+        "legacyNameText": "Katou, Yuusuke",
+        "name": "Yuusuke Katou",
+        "category": "composer",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "startYear": 2018
+      },
+      {
+        "akas": ["Elements Garden"],
+        "id": "/name/nm11756933/",
+        "legacyNameText": "Yamashita, Yousuke",
+        "name": "Yousuke Yamashita",
+        "category": "composer",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "startYear": 2021
+      }
+    ],
+    "sound_department": [
+      {
+        "id": "/name/nm1997023/",
+        "legacyNameText": "Motoyama, Satoshi",
+        "name": "Satoshi Motoyama",
+        "category": "sound_department",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "job": "sound director",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm10415405/",
+        "legacyNameText": "Watkins, Rickey",
+        "name": "Rickey Watkins",
+        "category": "sound_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "adr engineer",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Shota Yaso", "Syota Yaso"],
+        "id": "/name/nm7300337/",
+        "legacyNameText": "Yaso, Shôta",
+        "name": "Shôta Yaso",
+        "category": "sound_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "sound effects",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Jermy Inman"],
+        "id": "/name/nm0409130/",
+        "image": {
+          "height": 340,
+          "id": "/name/nm0409130/images/rm3649653760",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmRlZGRjOTctM2YyYS00NWFjLWIyMTQtMTBmMTdjNGE0ZWJlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+          "width": 225
+        },
+        "legacyNameText": "Inman, Jeremy",
+        "name": "Jeremy Inman",
+        "category": "sound_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "adr director",
+        "startYear": 2018
+      }
+    ],
+    "animation_department": [
+      {
+        "id": "/name/nm1762634/",
+        "legacyNameText": "Kaneko, Shizue",
+        "name": "Shizue Kaneko",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "job": "character designer",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm8693849/",
+        "legacyNameText": "Arakawa, Hayato",
+        "name": "Hayato Arakawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "animation producer",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm9063248/",
+        "legacyNameText": "Miyamoto, Yuki",
+        "name": "Yuki Miyamoto",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "action animation director",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm9063248/",
+        "legacyNameText": "Miyamoto, Yuki",
+        "name": "Yuki Miyamoto",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "monster designer",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm9063248/",
+        "legacyNameText": "Miyamoto, Yuki",
+        "name": "Yuki Miyamoto",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yuichi Nakajima", "Yuuchi Nakajima", "Yuuichi Nakajima"],
+        "disambiguation": "I",
+        "id": "/name/nm3439979/",
+        "legacyNameText": "Nakajima, Yûichi (I)",
+        "name": "Yûichi Nakajima",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "prop designer",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yuichi Nakajima", "Yuuchi Nakajima", "Yuuichi Nakajima"],
+        "disambiguation": "I",
+        "id": "/name/nm3439979/",
+        "legacyNameText": "Nakajima, Yûichi (I)",
+        "name": "Yûichi Nakajima",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["K. Watanabe", "Koji Watanabe"],
+        "disambiguation": "I",
+        "id": "/name/nm0913827/",
+        "legacyNameText": "Watanabe, Kôji (I)",
+        "name": "Kôji Watanabe",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 11,
+        "job": "chief animation director",
+        "startYear": 2018
+      },
+      {
+        "akas": ["K. Watanabe", "Koji Watanabe"],
+        "disambiguation": "I",
+        "id": "/name/nm0913827/",
+        "legacyNameText": "Watanabe, Kôji (I)",
+        "name": "Kôji Watanabe",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 11,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm3197883/",
+        "legacyNameText": "Ohsawa, Hiroshi (II)",
+        "name": "Hiroshi Ohsawa",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "animation producer",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm12475520/",
+        "legacyNameText": "Rina, Morita",
+        "name": "Morita Rina",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "sub character design",
+        "startYear": 2021
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm5282535/",
+        "legacyNameText": "Shimizu, Ken'ichi (I)",
+        "name": "Ken'ichi Shimizu",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "animation director: ending sequence",
+        "startYear": 2021
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm5282535/",
+        "legacyNameText": "Shimizu, Ken'ichi (I)",
+        "name": "Ken'ichi Shimizu",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm8074898/",
+        "legacyNameText": "Takahashi, Nagisa",
+        "name": "Nagisa Takahashi",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "chief animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm8074898/",
+        "legacyNameText": "Takahashi, Nagisa",
+        "name": "Nagisa Takahashi",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm12475521/",
+        "legacyNameText": "Tetsuya, Kawaishi",
+        "name": "Kawaishi Tetsuya",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "creature designer",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm12475521/",
+        "legacyNameText": "Tetsuya, Kawaishi",
+        "name": "Kawaishi Tetsuya",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "prop designer",
+        "startYear": 2021
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1179332/",
+        "legacyNameText": "Uchida, Hiroshi (I)",
+        "name": "Hiroshi Uchida",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "animation director: opening sequence",
+        "startYear": 2021
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1179332/",
+        "legacyNameText": "Uchida, Hiroshi (I)",
+        "name": "Hiroshi Uchida",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Akio Ujiie"],
+        "id": "/name/nm2003342/",
+        "legacyNameText": "Ujie, Akio",
+        "name": "Akio Ujie",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "chief animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Zenjirou Ukurere", "Zenjirô"],
+        "id": "/name/nm5647171/",
+        "legacyNameText": "Ukulele, Zenjirô",
+        "name": "Zenjirô Ukulele",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "animation director: opening sequence",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Zenjirou Ukurere", "Zenjirô"],
+        "id": "/name/nm5647171/",
+        "legacyNameText": "Ukulele, Zenjirô",
+        "name": "Zenjirô Ukulele",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Reina Yamauchi"],
+        "id": "/name/nm3569187/",
+        "legacyNameText": "Yamauchi, Rena",
+        "name": "Rena Yamauchi",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "chief animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm5343743/",
+        "legacyNameText": "Yonemoto, Nanae",
+        "name": "Nanae Yonemoto",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "chief animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Yuki Nishioka"],
+        "id": "/name/nm3302050/",
+        "legacyNameText": "Nishioka, Yûki",
+        "name": "Yûki Nishioka",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 9,
+        "job": "chief animation director",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yuki Nishioka"],
+        "id": "/name/nm3302050/",
+        "legacyNameText": "Nishioka, Yûki",
+        "name": "Yûki Nishioka",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 9,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yuki Nishioka"],
+        "id": "/name/nm3302050/",
+        "legacyNameText": "Nishioka, Yûki",
+        "name": "Yûki Nishioka",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 9,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm7284103/",
+        "legacyNameText": "Endô, Emiko",
+        "name": "Emiko Endô",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 8,
+        "job": "assistant chief animation director",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm7284103/",
+        "legacyNameText": "Endô, Emiko",
+        "name": "Emiko Endô",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 8,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm7284103/",
+        "legacyNameText": "Endô, Emiko",
+        "name": "Emiko Endô",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 8,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm7284103/",
+        "legacyNameText": "Endô, Emiko",
+        "name": "Emiko Endô",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 8,
+        "job": "assistant animation director",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm2409082/",
+        "legacyNameText": "Narita, Hideyasu",
+        "name": "Hideyasu Narita",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 6,
+        "job": "background art design",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Hodaka Okamoto"],
+        "id": "/name/nm9567044/",
+        "legacyNameText": "Okamoto, Hotaka",
+        "name": "Hotaka Okamoto",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 6,
+        "job": "background artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Hodaka Okamoto"],
+        "id": "/name/nm9567044/",
+        "legacyNameText": "Okamoto, Hotaka",
+        "name": "Hotaka Okamoto",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 6,
+        "job": "background artist: Kusanagi",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Thanh Cuc"],
+        "id": "/name/nm11279459/",
+        "legacyNameText": "Thanh, Cuc",
+        "name": "Cuc Thanh",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 6,
+        "job": "background art chief",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Thanh Cuc"],
+        "id": "/name/nm11279459/",
+        "legacyNameText": "Thanh, Cuc",
+        "name": "Cuc Thanh",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 6,
+        "job": "background art chief: Nam Hai Art",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Thanh Cuc"],
+        "id": "/name/nm11279459/",
+        "legacyNameText": "Thanh, Cuc",
+        "name": "Cuc Thanh",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 6,
+        "job": "background artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Thanh Cuc"],
+        "id": "/name/nm11279459/",
+        "legacyNameText": "Thanh, Cuc",
+        "name": "Cuc Thanh",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 6,
+        "job": "background artist: Nam Hai Art",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12539073/",
+        "legacyNameText": "ReTake",
+        "name": "ReTake",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 6,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": [
+          "Kazuyuki Igai",
+          "Kazuyuki Iigai",
+          "Kazuyuki Iikai",
+          "Kazayuki Ikai",
+          "Kazuyuki Ikari",
+          "Kazuyuki Ukai",
+          "Kazuyuki Iigai in English credits"
+        ],
+        "id": "/name/nm1159282/",
+        "legacyNameText": "Ikai, Kazuyuki",
+        "name": "Kazuyuki Ikai",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 5,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Toshiya Washada", "Toshitaka Washida"],
+        "id": "/name/nm0913383/",
+        "legacyNameText": "Washida, Toshiya",
+        "name": "Toshiya Washida",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 5,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Toshiya Washada", "Toshitaka Washida"],
+        "id": "/name/nm0913383/",
+        "legacyNameText": "Washida, Toshiya",
+        "name": "Toshiya Washida",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 5,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Bao Chau"],
+        "id": "/name/nm10368572/",
+        "legacyNameText": "Bao, Chau",
+        "name": "Chau Bao",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 5,
+        "job": "background art chief",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Bao Chau"],
+        "id": "/name/nm10368572/",
+        "legacyNameText": "Bao, Chau",
+        "name": "Chau Bao",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 5,
+        "job": "background art chief: Nam Hai Art",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Bao Chau"],
+        "id": "/name/nm10368572/",
+        "legacyNameText": "Bao, Chau",
+        "name": "Chau Bao",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 5,
+        "job": "background artist: Nam Hai Art",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "III",
+        "id": "/name/nm4593765/",
+        "legacyNameText": "Yoshida, Miwa (III)",
+        "name": "Miwa Yoshida",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 5,
+        "job": "background art support",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm1450246/",
+        "legacyNameText": "Kado, Tomoaki",
+        "name": "Tomoaki Kado",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 4,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm1450246/",
+        "legacyNameText": "Kado, Tomoaki",
+        "name": "Tomoaki Kado",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 4,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm5254092/",
+        "legacyNameText": "Cao, Peijun",
+        "name": "Peijun Cao",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11737949/",
+        "legacyNameText": "Iwao, Shuko",
+        "name": "Shuko Iwao",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "background artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11737949/",
+        "legacyNameText": "Iwao, Shuko",
+        "name": "Shuko Iwao",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "background artist: Kusanagi",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11728926/",
+        "legacyNameText": "Sapporo, Debris",
+        "name": "Debris Sapporo",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11726813/",
+        "legacyNameText": "Sheng, Huanfei",
+        "name": "Huanfei Sheng",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm5873834/",
+        "legacyNameText": "Shimizu, Fumino",
+        "name": "Fumino Shimizu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm9308788/",
+        "legacyNameText": "Tanaka, Risa (II)",
+        "name": "Risa Tanaka",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm9308788/",
+        "legacyNameText": "Tanaka, Risa (II)",
+        "name": "Risa Tanaka",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11279460/",
+        "legacyNameText": "Tu, Mi",
+        "name": "Mi Tu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "background art chief",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11279460/",
+        "legacyNameText": "Tu, Mi",
+        "name": "Mi Tu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "background artist: Nam Hai Art",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm9882300/",
+        "legacyNameText": "Van, Cuong",
+        "name": "Cuong Van",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "background art chief",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm9882300/",
+        "legacyNameText": "Van, Cuong",
+        "name": "Cuong Van",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "background art chief: Nam Hai Art",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm9882300/",
+        "legacyNameText": "Van, Cuong",
+        "name": "Cuong Van",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 4,
+        "job": "background artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11984487/",
+        "legacyNameText": "Kumagai, Kayoko",
+        "name": "Kayoko Kumagai",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 3,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11984487/",
+        "legacyNameText": "Kumagai, Kayoko",
+        "name": "Kayoko Kumagai",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 3,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm11279461/",
+        "legacyNameText": "Dinh, Hieu (I)",
+        "name": "Hieu Dinh",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background art chief",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm11279461/",
+        "legacyNameText": "Dinh, Hieu (I)",
+        "name": "Hieu Dinh",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm11279461/",
+        "legacyNameText": "Dinh, Hieu (I)",
+        "name": "Hieu Dinh",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background artist: Nam Hai Art",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Souji Endo", "Shouji Endoh"],
+        "disambiguation": "I",
+        "id": "/name/nm2559102/",
+        "legacyNameText": "Endô, Shôji (I)",
+        "name": "Shôji Endô",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Souji Endo", "Shouji Endoh"],
+        "disambiguation": "I",
+        "id": "/name/nm2559102/",
+        "legacyNameText": "Endô, Shôji (I)",
+        "name": "Shôji Endô",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Guan Mei Fang"],
+        "id": "/name/nm11644044/",
+        "legacyNameText": "Guan, Mei Fang",
+        "name": "Mei Fang Guan",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm8693855/",
+        "legacyNameText": "Haseda, Haruka",
+        "name": "Haruka Haseda",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Hiroaki Hirota"],
+        "disambiguation": "II",
+        "id": "/name/nm3489224/",
+        "legacyNameText": "Hirata, Hiroaki (II)",
+        "name": "Hiroaki Hirata",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background art coordinator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Huang Ying"],
+        "disambiguation": "XIX",
+        "id": "/name/nm11726818/",
+        "legacyNameText": "Huang, Ying (XIX)",
+        "name": "Ying Huang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12030663/",
+        "legacyNameText": "Ichimura, Atsumi",
+        "name": "Atsumi Ichimura",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12030663/",
+        "legacyNameText": "Ichimura, Atsumi",
+        "name": "Atsumi Ichimura",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Haruka Ito"],
+        "disambiguation": "IV",
+        "id": "/name/nm7078020/",
+        "legacyNameText": "Itô, Haruka (IV)",
+        "name": "Haruka Itô",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11644039/",
+        "legacyNameText": "Kanno, Kouhei",
+        "name": "Kouhei Kanno",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11644039/",
+        "legacyNameText": "Kanno, Kouhei",
+        "name": "Kouhei Kanno",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11279212/",
+        "legacyNameText": "Kenta, Tsuboi",
+        "name": "Tsuboi Kenta",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11279212/",
+        "legacyNameText": "Kenta, Tsuboi",
+        "name": "Tsuboi Kenta",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background artist: Kusanagi",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm3734868/",
+        "legacyNameText": "Kusaka, Masayuki",
+        "name": "Masayuki Kusaka",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm3734868/",
+        "legacyNameText": "Kusaka, Masayuki",
+        "name": "Masayuki Kusaka",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "ink and paint",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "V",
+        "id": "/name/nm5575122/",
+        "legacyNameText": "Li, Hui (V)",
+        "name": "Hui Li",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Lu Yu Dong"],
+        "id": "/name/nm11726815/",
+        "legacyNameText": "Lu, Yu Dong",
+        "name": "Yu Dong Lu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11728928/",
+        "legacyNameText": "Mamiya, Kenta",
+        "name": "Kenta Mamiya",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11728928/",
+        "legacyNameText": "Mamiya, Kenta",
+        "name": "Kenta Mamiya",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11726808/",
+        "legacyNameText": "Miao, Wenpei",
+        "name": "Wenpei Miao",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Miao Yu Qi"],
+        "id": "/name/nm11726817/",
+        "legacyNameText": "Miao, Yu Qi",
+        "name": "Yu Qi Miao",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2455317/",
+        "legacyNameText": "Miura, Etsuko (I)",
+        "name": "Etsuko Miura",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11881344/",
+        "legacyNameText": "Miwa, Nagi",
+        "name": "Nagi Miwa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["My Tien"],
+        "id": "/name/nm8083701/",
+        "legacyNameText": "My, Tien",
+        "name": "Tien My",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background art chief",
+        "startYear": 2018
+      },
+      {
+        "akas": ["My Tien"],
+        "id": "/name/nm8083701/",
+        "legacyNameText": "My, Tien",
+        "name": "Tien My",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Ning Li"],
+        "disambiguation": "V",
+        "id": "/name/nm5254196/",
+        "legacyNameText": "Ning, Li (V)",
+        "name": "Li Ning",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm1558847/",
+        "legacyNameText": "Shibata, Kazuko (II)",
+        "name": "Kazuko Shibata",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm11555558/",
+        "legacyNameText": "Tho, Ngoc (II)",
+        "name": "Ngoc Tho",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background art support coordinator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm11555558/",
+        "legacyNameText": "Tho, Ngoc (II)",
+        "name": "Ngoc Tho",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background art chief",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm7705857/",
+        "legacyNameText": "Vu, Vuong (II)",
+        "name": "Vuong Vu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background art chief",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm7705857/",
+        "legacyNameText": "Vu, Vuong (II)",
+        "name": "Vuong Vu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm7705857/",
+        "legacyNameText": "Vu, Vuong (II)",
+        "name": "Vuong Vu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background artist: Nam Hai Art",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "XLVII",
+        "id": "/name/nm11726810/",
+        "legacyNameText": "Wang, Ying (XLVII)",
+        "name": "Ying Wang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11726812/",
+        "legacyNameText": "Xu, Qiuxia",
+        "name": "Qiuxia Xu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11726809/",
+        "legacyNameText": "Ye, Zhanping",
+        "name": "Zhanping Ye",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm10995960/",
+        "legacyNameText": "Yen, Thu (II)",
+        "name": "Thu Yen",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "background art support coordinator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm8693856/",
+        "legacyNameText": "Yuma, Kaori",
+        "name": "Kaori Yuma",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Zhang Ye Xiao"],
+        "id": "/name/nm11644043/",
+        "legacyNameText": "Zhang, Ye Xiao",
+        "name": "Ye Xiao Zhang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Zhao Kun"],
+        "disambiguation": "II",
+        "id": "/name/nm4664010/",
+        "legacyNameText": "Zhao, Kun (II)",
+        "name": "Kun Zhao",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Zhao Li Zhen"],
+        "id": "/name/nm11644041/",
+        "legacyNameText": "Zhao, Li Zhen",
+        "name": "Li Zhen Zhao",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Zhou Hong"],
+        "disambiguation": "XIV",
+        "id": "/name/nm5488376/",
+        "legacyNameText": "Zhou, Hong (XIV)",
+        "name": "Hong Zhou",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Zhu Ling"],
+        "disambiguation": "VII",
+        "id": "/name/nm11644042/",
+        "legacyNameText": "Zhu, Ling (VII)",
+        "name": "Ling Zhu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm5254028/",
+        "legacyNameText": "Zou, Liang (I)",
+        "name": "Liang Zou",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 3,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Bongduk Kim"],
+        "id": "/name/nm7538391/",
+        "legacyNameText": "Kim, Bong-Duk",
+        "name": "Bong-Duk Kim",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 3,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm2963619/",
+        "legacyNameText": "Maeda, Yoshihiro (II)",
+        "name": "Yoshihiro Maeda",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 3,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm12249800/",
+        "legacyNameText": "Yu-mi, Hong",
+        "name": "Hong Yu-mi",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 3,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm11737951/",
+        "legacyNameText": "Agata, Aimi",
+        "name": "Aimi Agata",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "background art support",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm8697834/",
+        "legacyNameText": "Arasawa, Mitsuko",
+        "name": "Mitsuko Arasawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Youji Egawa"],
+        "id": "/name/nm4374806/",
+        "legacyNameText": "Egawa, Yôji",
+        "name": "Yôji Egawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "inbetween animation check",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Ai Eto"],
+        "id": "/name/nm3894874/",
+        "legacyNameText": "Etou, Ai",
+        "name": "Ai Etou",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11785926/",
+        "legacyNameText": "Fujino, Mayu",
+        "name": "Mayu Fujino",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11728927/",
+        "legacyNameText": "Fuse, Chiharu",
+        "name": "Chiharu Fuse",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Haibing Gu"],
+        "id": "/name/nm9016433/",
+        "legacyNameText": "Haibing, Gu",
+        "name": "Gu Haibing",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Noamichi Hata in English credits"],
+        "id": "/name/nm3755895/",
+        "legacyNameText": "Hata, Naomichi",
+        "name": "Naomichi Hata",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11285209/",
+        "legacyNameText": "Huy, Hoang",
+        "name": "Hoang Huy",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "background art chief",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11285209/",
+        "legacyNameText": "Huy, Hoang",
+        "name": "Hoang Huy",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "background artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm10430176/",
+        "legacyNameText": "Ishikawa, Airi (II)",
+        "name": "Airi Ishikawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Jinbai Li"],
+        "id": "/name/nm11263853/",
+        "legacyNameText": "Jinbai, Li",
+        "name": "Li Jinbai",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yuki Kitajima"],
+        "id": "/name/nm8984493/",
+        "legacyNameText": "Kitajima, Yûki",
+        "name": "Yûki Kitajima",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm2347516/",
+        "legacyNameText": "Kobayashi, Tetsuya (II)",
+        "name": "Tetsuya Kobayashi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11788372/",
+        "legacyNameText": "Kondo, Emiri",
+        "name": "Emiri Kondo",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm7722538/",
+        "legacyNameText": "Kurihara, Satoru (I)",
+        "name": "Satoru Kurihara",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11984485/",
+        "legacyNameText": "Kuwahara, Yukinori",
+        "name": "Yukinori Kuwahara",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "III",
+        "id": "/name/nm11788367/",
+        "legacyNameText": "Li, Jiawei (III)",
+        "name": "Jiawei Li",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11788369/",
+        "legacyNameText": "Lin, Faqin",
+        "name": "Faqin Lin",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "IV",
+        "id": "/name/nm11788370/",
+        "legacyNameText": "Lin, Qin (IV)",
+        "name": "Qin Lin",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11726811/",
+        "legacyNameText": "Lu, Xinglong",
+        "name": "Xinglong Lu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm5898794/",
+        "legacyNameText": "Mei, Xiang (I)",
+        "name": "Xiang Mei",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11785927/",
+        "legacyNameText": "Murabayashi, Kaoru",
+        "name": "Kaoru Murabayashi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11788371/",
+        "legacyNameText": "Nakabayashi, Shu",
+        "name": "Shu Nakabayashi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm11630593/",
+        "legacyNameText": "Nakajima, Yukie (II)",
+        "name": "Yukie Nakajima",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "III",
+        "id": "/name/nm12030666/",
+        "legacyNameText": "Nakano, Tomoaki (III)",
+        "name": "Tomoaki Nakano",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "color coordinator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11279463/",
+        "legacyNameText": "Ngoc, Han",
+        "name": "Han Ngoc",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "background art chief",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11279463/",
+        "legacyNameText": "Ngoc, Han",
+        "name": "Han Ngoc",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "background artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm10250278/",
+        "legacyNameText": "Nishimura, Azusa",
+        "name": "Azusa Nishimura",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm9736254/",
+        "legacyNameText": "Nonaka, Ai (II)",
+        "name": "Ai Nonaka",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12030664/",
+        "legacyNameText": "Ozawa, Kae",
+        "name": "Kae Ozawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Qian Fang"],
+        "disambiguation": "III",
+        "id": "/name/nm11726820/",
+        "legacyNameText": "Qian, Fang (III)",
+        "name": "Fang Qian",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Miki Sakaihara"],
+        "id": "/name/nm3578526/",
+        "legacyNameText": "Sakaibara, Miki",
+        "name": "Miki Sakaibara",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Miki Sakaihara"],
+        "id": "/name/nm3578526/",
+        "legacyNameText": "Sakaibara, Miki",
+        "name": "Miki Sakaibara",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm11984488/",
+        "legacyNameText": "Sakurai, Miho (II)",
+        "name": "Miho Sakurai",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "color coordinator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm7883721/",
+        "legacyNameText": "Sakuramoto, Haru",
+        "name": "Haru Sakuramoto",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Chihiro Seno"],
+        "id": "/name/nm12030665/",
+        "legacyNameText": "Senoo, Chihiro",
+        "name": "Chihiro Senoo",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm9567018/",
+        "legacyNameText": "Tajima, Aya",
+        "name": "Aya Tajima",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11644040/",
+        "legacyNameText": "Takagi, Ai",
+        "name": "Ai Takagi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "IV",
+        "id": "/name/nm11785925/",
+        "legacyNameText": "Takahashi, Nao (IV)",
+        "name": "Nao Takahashi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yuki Tamori"],
+        "id": "/name/nm9063278/",
+        "legacyNameText": "Tamori, Yûki",
+        "name": "Yûki Tamori",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11279462/",
+        "legacyNameText": "Thuy, Linh",
+        "name": "Linh Thuy",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "background art chief",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11279462/",
+        "legacyNameText": "Thuy, Linh",
+        "name": "Linh Thuy",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "background artist: Nam Hai Art",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Wang Fei"],
+        "disambiguation": "XXVI",
+        "id": "/name/nm11644045/",
+        "legacyNameText": "Wang, Fei (XXVI)",
+        "name": "Fei Wang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "XIV",
+        "id": "/name/nm5575153/",
+        "legacyNameText": "Wang, Lei (XIV)",
+        "name": "Lei Wang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "IV",
+        "id": "/name/nm11788366/",
+        "legacyNameText": "Xu, Lan (IV)",
+        "name": "Lan Xu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11788368/",
+        "legacyNameText": "Xu, Xihu",
+        "name": "Xihu Xu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11672766/",
+        "legacyNameText": "Yamakita, Takahiro",
+        "name": "Takahiro Yamakita",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11672766/",
+        "legacyNameText": "Yamakita, Takahiro",
+        "name": "Takahiro Yamakita",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yang Li Xia"],
+        "disambiguation": "II",
+        "id": "/name/nm11726819/",
+        "legacyNameText": "Yang, Li Xia (II)",
+        "name": "Li Xia Yang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Gui Bao Zhang"],
+        "id": "/name/nm5270344/",
+        "legacyNameText": "Zhang, Guibao",
+        "name": "Guibao Zhang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Zhang Zhi Ming"],
+        "id": "/name/nm11726814/",
+        "legacyNameText": "Zhang, Zhi Ming",
+        "name": "Zhi Ming Zhang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yusuke Osawa", "Yusuke Ozawa"],
+        "id": "/name/nm3048794/",
+        "legacyNameText": "Ôsawa, Yusuke",
+        "name": "Yusuke Ôsawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yusuke Osawa", "Yusuke Ozawa"],
+        "id": "/name/nm3048794/",
+        "legacyNameText": "Ôsawa, Yusuke",
+        "name": "Yusuke Ôsawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "inbetween animation check",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yusuke Osawa", "Yusuke Ozawa"],
+        "id": "/name/nm3048794/",
+        "legacyNameText": "Ôsawa, Yusuke",
+        "name": "Yusuke Ôsawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "ink and paint",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Asami Ota"],
+        "id": "/name/nm5727948/",
+        "legacyNameText": "Ôta, Asami",
+        "name": "Asami Ôta",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Natsuko Otsuka"],
+        "id": "/name/nm7955432/",
+        "legacyNameText": "Ôtsuka, Natsuko",
+        "name": "Natsuko Ôtsuka",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "color coordinator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Natsuko Otsuka"],
+        "id": "/name/nm7955432/",
+        "legacyNameText": "Ôtsuka, Natsuko",
+        "name": "Natsuko Ôtsuka",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "color designer",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Ryotarou Akao", "Ryotaro Akao"],
+        "id": "/name/nm2204930/",
+        "legacyNameText": "Akao, Ryôtarô",
+        "name": "Ryôtarô Akao",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 2,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm5322347/",
+        "legacyNameText": "Han, Eun-Mi",
+        "name": "Eun-Mi Han",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 2,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": [
+          "Il Jin Hyang",
+          "Hwang Il Jin",
+          "Wang Il Jin",
+          "Whang Il Jin",
+          "Ilgin Hwang in English credits"
+        ],
+        "id": "/name/nm1830977/",
+        "legacyNameText": "Hwang, Il-jin",
+        "name": "Il-jin Hwang",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 2,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm10049120/",
+        "legacyNameText": "Jung, Kwon Hyuk",
+        "name": "Kwon Hyuk Jung",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 2,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm12777267/",
+        "legacyNameText": "Kim, Bo Kyoung",
+        "name": "Bo Kyoung Kim",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 2,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Lee Kwan Woo"],
+        "id": "/name/nm3012568/",
+        "legacyNameText": "Lee, Gwan Woo",
+        "name": "Gwan Woo Lee",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 2,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm4654033/",
+        "legacyNameText": "Takase, Yuriko",
+        "name": "Yuriko Takase",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 2,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Woo Keum Young"],
+        "id": "/name/nm8125893/",
+        "legacyNameText": "Woo, Keum Young",
+        "name": "Keum Young Woo",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 2,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1629627/",
+        "legacyNameText": "Abe, Hiroki (I)",
+        "name": "Hiroki Abe",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm9343063/",
+        "legacyNameText": "Aizawa, Kana (II)",
+        "name": "Kana Aizawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "ink and paint",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm2099105/",
+        "legacyNameText": "Ajiri, Ryuji",
+        "name": "Ryuji Ajiri",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Masahiro Ando"],
+        "id": "/name/nm1622836/",
+        "legacyNameText": "Andô, Masahiro",
+        "name": "Masahiro Andô",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Sigemi Aoyagi", "Shigemi Aoyanagi"],
+        "id": "/name/nm1629660/",
+        "legacyNameText": "Aoyagi, Shigemi",
+        "name": "Shigemi Aoyagi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Shigenori Awai", "Shigenori Kurii"],
+        "id": "/name/nm1858526/",
+        "legacyNameText": "Awai, Shigeki",
+        "name": "Shigeki Awai",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12422925/",
+        "legacyNameText": "Chiyou, Zhou",
+        "name": "Zhou Chiyou",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "line test",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11788361/",
+        "legacyNameText": "Chuan, Xu Jiang",
+        "name": "Xu Jiang Chuan",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "IX",
+        "id": "/name/nm12552836/",
+        "legacyNameText": "Dong, Wang (IX)",
+        "name": "Wang Dong",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm4047350/",
+        "legacyNameText": "Fujimori, Masaya",
+        "name": "Masaya Fujimori",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm4047350/",
+        "legacyNameText": "Fujimori, Masaya",
+        "name": "Masaya Fujimori",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm1531658/",
+        "legacyNameText": "Fukuyo, Takaaki",
+        "name": "Takaaki Fukuyo",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm4636582/",
+        "legacyNameText": "Furusawa, Takafumi",
+        "name": "Takafumi Furusawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12422930/",
+        "legacyNameText": "Hama, Yuki",
+        "name": "Yuki Hama",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "line test",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Hodaka Hashimoto"],
+        "id": "/name/nm9148879/",
+        "legacyNameText": "Hashimoto, Hotaka",
+        "name": "Hotaka Hashimoto",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm4768870/",
+        "legacyNameText": "Hashimoto, Kumi",
+        "name": "Kumi Hashimoto",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1786949/",
+        "legacyNameText": "Ikeda, Kaori (I)",
+        "name": "Kaori Ikeda",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm6363382/",
+        "legacyNameText": "Ikeda, Masato (I)",
+        "name": "Masato Ikeda",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11054361/",
+        "legacyNameText": "Isomoto, Masahiro",
+        "name": "Masahiro Isomoto",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12422929/",
+        "legacyNameText": "Itou, Takahiro",
+        "name": "Takahiro Itou",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "line test",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12422928/",
+        "legacyNameText": "Jane, Angelina",
+        "name": "Angelina Jane",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "line test",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12030662/",
+        "legacyNameText": "Jang, Ryeol-Jun",
+        "name": "Ryeol-Jun Jang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm2683580/",
+        "legacyNameText": "Kagiyama, Hitoshi",
+        "name": "Hitoshi Kagiyama",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Toshihisa Kaitani"],
+        "id": "/name/nm1899863/",
+        "legacyNameText": "Kaiya, Toshihisa",
+        "name": "Toshihisa Kaiya",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm1652739/",
+        "legacyNameText": "Kakoi, Kumiko",
+        "name": "Kumiko Kakoi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "V",
+        "id": "/name/nm11737947/",
+        "legacyNameText": "Kaneko, Ken (V)",
+        "name": "Ken Kaneko",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Ryota Katsuta"],
+        "id": "/name/nm5248432/",
+        "legacyNameText": "Katsuta, Ryôta",
+        "name": "Ryôta Katsuta",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "color coordinator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "III",
+        "id": "/name/nm1879849/",
+        "legacyNameText": "Katô, Shigeru (III)",
+        "name": "Shigeru Katô",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "III",
+        "id": "/name/nm1879849/",
+        "legacyNameText": "Katô, Shigeru (III)",
+        "name": "Shigeru Katô",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm0442742/",
+        "legacyNameText": "Kawaguchi, Takashi (I)",
+        "name": "Takashi Kawaguchi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm9120226/",
+        "legacyNameText": "Kawakami, Erika",
+        "name": "Erika Kawakami",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm1781542/",
+        "legacyNameText": "Kawasuji, Yutaka",
+        "name": "Yutaka Kawasuji",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm9054653/",
+        "legacyNameText": "Keida, Jakarta Calcutta",
+        "name": "Jakarta Calcutta Keida",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm9063150/",
+        "legacyNameText": "Kikuchi, Hanako",
+        "name": "Hanako Kikuchi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm10079929/",
+        "legacyNameText": "Kikukawa, Wataru",
+        "name": "Wataru Kikukawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm7885331/",
+        "legacyNameText": "Kishi, Chiemi",
+        "name": "Chiemi Kishi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Kitajima Nobuyuki"],
+        "id": "/name/nm0457535/",
+        "legacyNameText": "Kitajima, Nobuyuki",
+        "name": "Nobuyuki Kitajima",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm0462084/",
+        "legacyNameText": "Kobayashi, Yukari (I)",
+        "name": "Yukari Kobayashi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Atataka Komatu"],
+        "id": "/name/nm3092911/",
+        "legacyNameText": "Komatsu, Atataka",
+        "name": "Atataka Komatsu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm5799785/",
+        "legacyNameText": "Komatsu, Sakura",
+        "name": "Sakura Komatsu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm10430363/",
+        "legacyNameText": "Komura, Yukari",
+        "name": "Yukari Komura",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm9388506/",
+        "legacyNameText": "Kosaka, Miho (II)",
+        "name": "Miho Kosaka",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Mituteru Kubo"],
+        "id": "/name/nm2403223/",
+        "legacyNameText": "Kubo, Mitsuteru",
+        "name": "Mitsuteru Kubo",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm8697836/",
+        "legacyNameText": "Kuramoto, Kazuki",
+        "name": "Kazuki Kuramoto",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm8724507/",
+        "legacyNameText": "Kurita, Kaho",
+        "name": "Kaho Kurita",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Lu Jia Fang"],
+        "id": "/name/nm11737950/",
+        "legacyNameText": "Lu, Jia Fang",
+        "name": "Jia Fang Lu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "background artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Lu Qin Na"],
+        "id": "/name/nm11788363/",
+        "legacyNameText": "Lu, Qin Na",
+        "name": "Qin Na Lu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12338411/",
+        "legacyNameText": "Luo, Li Pi",
+        "name": "Li Pi Luo",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm5575558/",
+        "legacyNameText": "Maruyama, Asami",
+        "name": "Asami Maruyama",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "color coordinator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm10995133/",
+        "legacyNameText": "Matsubara, Eri",
+        "name": "Eri Matsubara",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1225987/",
+        "legacyNameText": "Matsumoto, Fumio (I)",
+        "name": "Fumio Matsumoto",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Akira Matsumura in English credits"],
+        "id": "/name/nm1890188/",
+        "legacyNameText": "Matsunaga, Akira",
+        "name": "Akira Matsunaga",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Kyoshi Matsushita"],
+        "id": "/name/nm3421966/",
+        "legacyNameText": "Matsushita, Kiyoshi",
+        "name": "Kiyoshi Matsushita",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm8697835/",
+        "legacyNameText": "Miyashita, Yui (I)",
+        "name": "Yui Miyashita",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm9841333/",
+        "legacyNameText": "Mizuguchi, Daisuke",
+        "name": "Daisuke Mizuguchi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11984486/",
+        "legacyNameText": "Murakami, Erina",
+        "name": "Erina Murakami",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm1630391/",
+        "legacyNameText": "Murakami, Nobuyasu",
+        "name": "Nobuyasu Murakami",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2033296/",
+        "legacyNameText": "Murakami, Tsutomu (I)",
+        "name": "Tsutomu Murakami",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm4375335/",
+        "legacyNameText": "Nagasawa, Minako (II)",
+        "name": "Minako Nagasawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "inbetween animation check",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm9132622/",
+        "legacyNameText": "Nakahara, Naomi (II)",
+        "name": "Naomi Nakahara",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "III",
+        "id": "/name/nm10435484/",
+        "legacyNameText": "Nakamura, Kanako (III)",
+        "name": "Kanako Nakamura",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Shinya Nakamura"],
+        "disambiguation": "III",
+        "id": "/name/nm4368159/",
+        "legacyNameText": "Nakamura, Shin'ya (III)",
+        "name": "Shin'ya Nakamura",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm3490631/",
+        "legacyNameText": "Nakata, Mitsuru",
+        "name": "Mitsuru Nakata",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm4663081/",
+        "legacyNameText": "Narimatsu, Yoshito",
+        "name": "Yoshito Narimatsu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm13260942/",
+        "legacyNameText": "Naruse, Haruka (II)",
+        "name": "Haruka Naruse",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "inbetween animation check",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11737946/",
+        "legacyNameText": "Nezu, Shoshi",
+        "name": "Shoshi Nezu",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm1031659/",
+        "legacyNameText": "Ninomiya, Tsuneo",
+        "name": "Tsuneo Ninomiya",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm4658200/",
+        "legacyNameText": "Ogura, Kyohei",
+        "name": "Kyohei Ogura",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm9148977/",
+        "legacyNameText": "Okano, Yui (II)",
+        "name": "Yui Okano",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Masako Onosawa"],
+        "id": "/name/nm4024607/",
+        "legacyNameText": "Onozawa, Masako",
+        "name": "Masako Onozawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Kazunori Osawa"],
+        "id": "/name/nm4176379/",
+        "legacyNameText": "Ozawa, Kazunori",
+        "name": "Kazunori Ozawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12422927/",
+        "legacyNameText": "Paul, Yeung",
+        "name": "Yeung Paul",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "line test",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Chihiro Saito"],
+        "disambiguation": "II",
+        "id": "/name/nm1599467/",
+        "legacyNameText": "Saitô, Chihiro (II)",
+        "name": "Chihiro Saitô",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "III",
+        "id": "/name/nm4768857/",
+        "legacyNameText": "Saitô, Kazuhiro (III)",
+        "name": "Kazuhiro Saitô",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yumi Sakurai"],
+        "disambiguation": "III",
+        "id": "/name/nm11737948/",
+        "legacyNameText": "Sasaki, Tomomi (III)",
+        "name": "Tomomi Sasaki",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "ink and paint",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm5270185/",
+        "legacyNameText": "Sawame, Mayumi",
+        "name": "Mayumi Sawame",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "ink and paint",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2425383/",
+        "legacyNameText": "Sekine, Masayuki (I)",
+        "name": "Masayuki Sekine",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2425383/",
+        "legacyNameText": "Sekine, Masayuki (I)",
+        "name": "Masayuki Sekine",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Keiji Sigesawa"],
+        "id": "/name/nm2404602/",
+        "legacyNameText": "Shigesawa, Keiji",
+        "name": "Keiji Shigesawa",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm7822438/",
+        "legacyNameText": "Sone, Ayako",
+        "name": "Ayako Sone",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Sigeyuki Suga in English language credits"],
+        "id": "/name/nm1226073/",
+        "legacyNameText": "Suga, Shigeyuki",
+        "name": "Shigeyuki Suga",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm5915871/",
+        "legacyNameText": "Sugiura, Keiichi",
+        "name": "Keiichi Sugiura",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm7801458/",
+        "legacyNameText": "Suk, Hong Bum",
+        "name": "Hong Bum Suk",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1072199/",
+        "legacyNameText": "Suzuki, Mariko (I)",
+        "name": "Mariko Suzuki",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "ink and paint",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Shintarou Suzuki"],
+        "disambiguation": "II",
+        "id": "/name/nm7569560/",
+        "legacyNameText": "Suzuki, Shintarô (II)",
+        "name": "Shintarô Suzuki",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm5817620/",
+        "legacyNameText": "Takahashi, Eriko (II)",
+        "name": "Eriko Takahashi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yuuta Takanami", "Yuta Takanami in English credits"],
+        "id": "/name/nm6123430/",
+        "legacyNameText": "Takanami, Yûta",
+        "name": "Yûta Takanami",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm7419625/",
+        "legacyNameText": "Takano, Yukari (II)",
+        "name": "Yukari Takano",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2000690/",
+        "legacyNameText": "Tanaka, Naoko (I)",
+        "name": "Naoko Tanaka",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm4663241/",
+        "legacyNameText": "Tanoue, Shin",
+        "name": "Shin Tanoue",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Ryushi Tokunaga"],
+        "id": "/name/nm8724925/",
+        "legacyNameText": "Tokunaga, Ryûshi",
+        "name": "Ryûshi Tokunaga",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm2218725/",
+        "legacyNameText": "Tominaga, Takeo",
+        "name": "Takeo Tominaga",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "secondary key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm7887595/",
+        "legacyNameText": "Tsukahara, Miyo",
+        "name": "Miyo Tsukahara",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "color coordinator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm7887595/",
+        "legacyNameText": "Tsukahara, Miyo",
+        "name": "Miyo Tsukahara",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "ink and paint",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm8693857/",
+        "legacyNameText": "Ube, Natsuko",
+        "name": "Natsuko Ube",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm7885325/",
+        "legacyNameText": "Udo, Yayoi",
+        "name": "Yayoi Udo",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm3512895/",
+        "legacyNameText": "Usui, Kaori",
+        "name": "Kaori Usui",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Wang Dong"],
+        "disambiguation": "XII",
+        "id": "/name/nm11726816/",
+        "legacyNameText": "Wang, Dong (XII)",
+        "name": "Dong Wang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Wang Dong"],
+        "disambiguation": "XV",
+        "id": "/name/nm11735239/",
+        "legacyNameText": "Wang, Dong (XV)",
+        "name": "Dong Wang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Wang Fei"],
+        "disambiguation": "XXXI",
+        "id": "/name/nm11735237/",
+        "legacyNameText": "Wang, Fei (XXXI)",
+        "name": "Fei Wang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "XLVII",
+        "id": "/name/nm12435071/",
+        "legacyNameText": "Wang, Lei (XLVII)",
+        "name": "Lei Wang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "inbetween artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Wang Su Yu"],
+        "id": "/name/nm11788364/",
+        "legacyNameText": "Wang, Su Yu",
+        "name": "Su Yu Wang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm0913807/",
+        "legacyNameText": "Watanabe, Hiroko (II)",
+        "name": "Hiroko Watanabe",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yuko Watanabe"],
+        "disambiguation": "V",
+        "id": "/name/nm2401515/",
+        "legacyNameText": "Watanabe, Yûko (V)",
+        "name": "Yûko Watanabe",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm7038415/",
+        "legacyNameText": "Yagi, Ikuno",
+        "name": "Ikuno Yagi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "IV",
+        "id": "/name/nm5725685/",
+        "legacyNameText": "Yamamoto, Maki (IV)",
+        "name": "Maki Yamamoto",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "color coordinator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm0945842/",
+        "legacyNameText": "Yanagida, Yoshiaki (I)",
+        "name": "Yoshiaki Yanagida",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yao Zhi Liang"],
+        "id": "/name/nm11788365/",
+        "legacyNameText": "Yao, Zhi Liang",
+        "name": "Zhi Liang Yao",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm12422926/",
+        "legacyNameText": "Yasui, Masanori (II)",
+        "name": "Masanori Yasui",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "line test",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm4646488/",
+        "legacyNameText": "Yokoyama, Etsuko",
+        "name": "Etsuko Yokoyama",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yu Hyo-Sang", "Yoo Hyo-sang", "Yoo Hyosang", "Yoo Hyo Sang"],
+        "id": "/name/nm2680334/",
+        "legacyNameText": "Yoo, Hyo-sang",
+        "name": "Hyo-sang Yoo",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm3403901/",
+        "legacyNameText": "Yoshida, Hitoshi (II)",
+        "name": "Hitoshi Yoshida",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12338412/",
+        "legacyNameText": "Yuan, Chen Yuan",
+        "name": "Chen Yuan Yuan",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yuan Chun Mei"],
+        "id": "/name/nm11788360/",
+        "legacyNameText": "Yuan, Chun Mei",
+        "name": "Chun Mei Yuan",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Zhang Jing"],
+        "disambiguation": "X",
+        "id": "/name/nm6072487/",
+        "legacyNameText": "Zhang, Jing (X)",
+        "name": "Jing Zhang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Zhang Jun"],
+        "disambiguation": "XXXVIII",
+        "id": "/name/nm11788362/",
+        "legacyNameText": "Zhang, Jun (XXXVIII)",
+        "name": "Jun Zhang",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "ink and paint artist",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yuugo Oohashi", "Yugo Ohashi in English credits"],
+        "id": "/name/nm2506890/",
+        "legacyNameText": "Ôhashi, Yûgo",
+        "name": "Yûgo Ôhashi",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2018
+      },
+      {
+        "akas": [
+          "Ohmori Hidetoshi",
+          "Dan Kongouji",
+          "Dan Kongôji",
+          "Hidetoshi Ohmori",
+          "Hidetoshi Oomori",
+          "Hidetoshi Ohmori in English credits"
+        ],
+        "id": "/name/nm0648456/",
+        "legacyNameText": "Ômori, Hidetoshi",
+        "name": "Hidetoshi Ômori",
+        "category": "animation_department",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "key animator",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "IV",
+        "id": "/name/nm12777266/",
+        "legacyNameText": "Beat (IV)",
+        "name": "Beat",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm9104652/",
+        "legacyNameText": "Cho, Eun Gyeong",
+        "name": "Eun Gyeong Cho",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm12562388/",
+        "legacyNameText": "Iwasaki, Reina",
+        "name": "Reina Iwasaki",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Gilyong Jang", "Kill-yong Jang"],
+        "id": "/name/nm5171848/",
+        "legacyNameText": "Jang, Gil Yong",
+        "name": "Gil Yong Jang",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm8233259/",
+        "legacyNameText": "Kim, Kyung-Hyun",
+        "name": "Kyung-Hyun Kim",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Kim Sung Bum"],
+        "id": "/name/nm4328775/",
+        "legacyNameText": "Kim, Sung Bum",
+        "name": "Sung Bum Kim",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": [
+          "Lee Min Bae",
+          "Min Bae Lee",
+          "Lee Min-Bae",
+          "Lee Min-Bai",
+          "Minbae Lee in English credits"
+        ],
+        "id": "/name/nm1831013/",
+        "legacyNameText": "Lee, Min-bae",
+        "name": "Min-bae Lee",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Nahomi Miyata", "Naomi Watanabe"],
+        "id": "/name/nm2991239/",
+        "legacyNameText": "Miyata, Naomi",
+        "name": "Naomi Miyata",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm6211450/",
+        "legacyNameText": "Ogino, Miki",
+        "name": "Miki Ogino",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["PACK AE-RI", "Park Ae-Ri in English credits"],
+        "id": "/name/nm2671060/",
+        "legacyNameText": "Park, Ae-ri",
+        "name": "Ae-ri Park",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm10097034/",
+        "legacyNameText": "Quan, Liu",
+        "name": "Liu Quan",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Haixia Rong in English credits"],
+        "id": "/name/nm5116701/",
+        "legacyNameText": "Rong, Hai Xia",
+        "name": "Hai Xia Rong",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Masakazu Saito"],
+        "id": "/name/nm1875309/",
+        "legacyNameText": "Saitô, Masakazu",
+        "name": "Masakazu Saitô",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Sakai Kei", "Sakai Key", "Keishi Sakai", "Kei Sakai"],
+        "disambiguation": "I",
+        "id": "/name/nm1828744/",
+        "legacyNameText": "Sakai, Keiji (I)",
+        "name": "Keiji Sakai",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": [
+          "Seo Soon Young",
+          "Seo Soon Yung",
+          "Seo Soon-Young in English credits"
+        ],
+        "id": "/name/nm2679816/",
+        "legacyNameText": "Seo, Soon-young",
+        "name": "Soon-young Seo",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Song Hyun Ju"],
+        "id": "/name/nm2016975/",
+        "legacyNameText": "Song, Hyun Ju",
+        "name": "Hyun Ju Song",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm4128373/",
+        "legacyNameText": "Yoo, Seung Hee",
+        "name": "Seung Hee Yoo",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Zhao Yue"],
+        "disambiguation": "VI",
+        "id": "/name/nm10028495/",
+        "legacyNameText": "Zhao, Yue (VI)",
+        "name": "Yue Zhao",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm12748753/",
+        "legacyNameText": "Zhuge, Zi Jing",
+        "name": "Zi Jing Zhuge",
+        "category": "animation_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "animation director",
+        "startYear": 2021
+      }
+    ],
+    "cinematographer": [
+      {
+        "id": "/name/nm7951043/",
+        "legacyNameText": "Sato, Teppei",
+        "name": "Teppei Sato",
+        "category": "cinematographer",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm4082178/",
+        "legacyNameText": "Shitara, Nozomi (II)",
+        "name": "Nozomi Shitara",
+        "category": "cinematographer",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "startYear": 2021
+      }
+    ],
+    "music_department": [
+      {
+        "akas": ["Yuu Serizawa", "Yu Serizawa"],
+        "id": "/name/nm5668055/",
+        "image": {
+          "height": 975,
+          "id": "/name/nm5668055/images/rm232603648",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDhiNzNjZGYtNmE1My00YTkyLWFlZDEtZTVhNGNiYzI1MTkwXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+          "width": 650
+        },
+        "legacyNameText": "Serizawa, Yû",
+        "name": "Yû Serizawa",
+        "category": "music_department",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "job": "vocals: ending theme",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yuu Serizawa", "Yu Serizawa"],
+        "id": "/name/nm5668055/",
+        "image": {
+          "height": 975,
+          "id": "/name/nm5668055/images/rm232603648",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDhiNzNjZGYtNmE1My00YTkyLWFlZDEtZTVhNGNiYzI1MTkwXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+          "width": 650
+        },
+        "legacyNameText": "Serizawa, Yû",
+        "name": "Yû Serizawa",
+        "category": "music_department",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "job": "vocals: opening and ending themes",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yuu Serizawa", "Yu Serizawa"],
+        "id": "/name/nm5668055/",
+        "image": {
+          "height": 975,
+          "id": "/name/nm5668055/images/rm232603648",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDhiNzNjZGYtNmE1My00YTkyLWFlZDEtZTVhNGNiYzI1MTkwXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+          "width": 650
+        },
+        "legacyNameText": "Serizawa, Yû",
+        "name": "Yû Serizawa",
+        "category": "music_department",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "job": "vocals: Ganbatte Iru Kimi Dakara",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12481692/",
+        "legacyNameText": "2+, Summoners",
+        "name": "Summoners 2+",
+        "category": "music_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "vocals: opening theme",
+        "startYear": 2018
+      },
+      {
+        "akas": ["CHiCO with HoneyWorks"],
+        "id": "/name/nm9262137/",
+        "legacyNameText": "HoneyWorks",
+        "name": "HoneyWorks",
+        "category": "music_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "lyrics and music: ending theme",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm5200823/",
+        "legacyNameText": "Karasawa, Miho",
+        "name": "Miho Karasawa",
+        "category": "music_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "lyrics: opening theme",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm8269946/",
+        "legacyNameText": "Katou, Yuusuke",
+        "name": "Yuusuke Katou",
+        "category": "music_department",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "music: opening theme",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12413392/",
+        "legacyNameText": "Koo, D.J.",
+        "name": "D.J. Koo",
+        "category": "music_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "vocals: opening and ending themes",
+        "startYear": 2021
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm12475523/",
+        "legacyNameText": "Motsu (II)",
+        "name": "Motsu",
+        "category": "music_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "lyrics and music: opening and ending themes",
+        "startYear": 2021
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm12475523/",
+        "legacyNameText": "Motsu (II)",
+        "name": "Motsu",
+        "category": "music_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "vocals: opening and ending themes",
+        "startYear": 2021
+      },
+      {
+        "akas": ["K. Okubo", "Kaoru Okubo"],
+        "id": "/name/nm2938306/",
+        "legacyNameText": "Ôkubo, Kaoru",
+        "name": "Kaoru Ôkubo",
+        "category": "music_department",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "music: opening theme",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm13079166/",
+        "legacyNameText": "Hiroo, Ooyagi",
+        "name": "Ooyagi Hiroo",
+        "category": "music_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "lyrics and music: Ganbatte Iru Kimi Dakara",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Miku Ito"],
+        "id": "/name/nm5866448/",
+        "legacyNameText": "Itou, Miku",
+        "name": "Miku Itou",
+        "category": "music_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "vocals: Ganbatte Iru Kimi Dakara",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm6448971/",
+        "legacyNameText": "Uchimura, Fumiko",
+        "name": "Fumiko Uchimura",
+        "category": "music_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "vocals: Ganbatte Iru Kimi Dakara",
+        "startYear": 2021
+      },
+      {
+        "akas": ["Fina"],
+        "id": "/name/nm7854630/",
+        "legacyNameText": "Waki, Azumi",
+        "name": "Azumi Waki",
+        "category": "music_department",
+        "endYear": 2021,
+        "episodeCount": 1,
+        "job": "vocals: Ganbatte Iru Kimi Dakara",
+        "startYear": 2021
+      }
+    ],
+    "art_director": [
+      {
+        "akas": ["Hodaka Okamoto"],
+        "id": "/name/nm9567044/",
+        "legacyNameText": "Okamoto, Hotaka",
+        "name": "Hotaka Okamoto",
+        "category": "art_director",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "startYear": 2018
+      },
+      {
+        "akas": ["Masami Saitou in English credits"],
+        "disambiguation": "I",
+        "id": "/name/nm2035011/",
+        "legacyNameText": "Saitô, Masami (I)",
+        "name": "Masami Saitô",
+        "category": "art_director",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "startYear": 2021
+      }
+    ],
+    "producer": [
+      {
+        "akas": ["Makoto Furukawa"],
+        "disambiguation": "I",
+        "id": "/name/nm4647532/",
+        "legacyNameText": "Furukawa, Shin (I)",
+        "name": "Shin Furukawa",
+        "category": "producer",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "job": "producer",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Soji Miyagi", "Miyagi Souji"],
+        "id": "/name/nm9365141/",
+        "legacyNameText": "Miyagi, Sôji",
+        "name": "Sôji Miyagi",
+        "category": "producer",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "job": "producer",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm9365137/",
+        "legacyNameText": "Momoda, Hideo (II)",
+        "name": "Hideo Momoda",
+        "category": "producer",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "job": "producer",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm9030996/",
+        "legacyNameText": "Baba, Yôko (I)",
+        "name": "Yôko Baba",
+        "category": "producer",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "producer",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1784692/",
+        "legacyNameText": "Murakami, Takashi (I)",
+        "name": "Takashi Murakami",
+        "category": "producer",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "producer",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12743890/",
+        "legacyNameText": "Ochiai, Tsuyoshi",
+        "name": "Tsuyoshi Ochiai",
+        "category": "producer",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "producer",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Shinichiro Osawa"],
+        "disambiguation": "I",
+        "id": "/name/nm7631726/",
+        "legacyNameText": "Ozawa, Shin'ichirô (I)",
+        "name": "Shin'ichirô Ozawa",
+        "category": "producer",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "producer",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yoshi Shioya"],
+        "id": "/name/nm6100360/",
+        "legacyNameText": "Shioya, Yoshiaki",
+        "name": "Yoshiaki Shioya",
+        "category": "producer",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "producer",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm2380836/",
+        "legacyNameText": "Suzuki, Seiji (II)",
+        "name": "Seiji Suzuki",
+        "category": "producer",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "producer",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm9700516/",
+        "legacyNameText": "Watase, Shota",
+        "name": "Shota Watase",
+        "category": "producer",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "producer",
+        "startYear": 2018
+      },
+      {
+        "akas": ["Yuki Yamaoka"],
+        "id": "/name/nm12315082/",
+        "legacyNameText": "Yuuki, Yamaoka",
+        "name": "Yamaoka Yuuki",
+        "category": "producer",
+        "endYear": 2018,
+        "episodeCount": 12,
+        "job": "producer",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm10137853/",
+        "legacyNameText": "Kurosu, Nobuhiko",
+        "name": "Nobuhiko Kurosu",
+        "category": "producer",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "producer",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm13079167/",
+        "legacyNameText": "Masahiko, Itou",
+        "name": "Itou Masahiko",
+        "category": "producer",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "producer",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm13020318/",
+        "legacyNameText": "Shouji, Oosuga",
+        "name": "Oosuga Shouji",
+        "category": "producer",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "producer",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm10887209/",
+        "legacyNameText": "Yoshida, Yûya",
+        "name": "Yûya Yoshida",
+        "category": "producer",
+        "endYear": 2021,
+        "episodeCount": 10,
+        "job": "producer",
+        "startYear": 2021
+      }
+    ],
+    "writer": [
+      {
+        "akas": ["Lauryn Clarkson", "Lynn Lowin"],
+        "disambiguation": "I",
+        "id": "/name/nm1799368/",
+        "image": {
+          "height": 505,
+          "id": "/name/nm1799368/images/rm2036483328",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjhlMTA4ZDctYmNlYi00OGJiLTgzMjktNTI1MTExMzkxY2FhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+          "width": 407
+        },
+        "legacyNameText": "Clark, Leah (I)",
+        "name": "Leah Clark",
+        "category": "writer",
+        "endYear": 2018,
+        "episodeCount": 2,
+        "job": "adr script writer",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1840994/",
+        "legacyNameText": "Fudeyasu, Kazuyuki (I)",
+        "name": "Kazuyuki Fudeyasu",
+        "category": "writer",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1840994/",
+        "legacyNameText": "Fudeyasu, Kazuyuki (I)",
+        "name": "Kazuyuki Fudeyasu",
+        "category": "writer",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "job": "screenplay",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm11674193/",
+        "legacyNameText": "McVale, R.J.",
+        "name": "R.J. McVale",
+        "category": "writer",
+        "endYear": 2018,
+        "episodeCount": 1,
+        "job": "adr script writer",
+        "startYear": 2018
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm3113595/",
+        "legacyNameText": "Morita, Mayumi (II)",
+        "name": "Mayumi Morita",
+        "category": "writer",
+        "endYear": 2021,
+        "episodeCount": 2,
+        "job": "screenplay",
+        "startYear": 2021
+      },
+      {
+        "id": "/name/nm12475524/",
+        "legacyNameText": "Yukiya, Murasaki",
+        "name": "Murasaki Yukiya",
+        "category": "writer",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "job": "light novel",
+        "startYear": 2018
+      },
+      {
+        "id": "/name/nm12475524/",
+        "legacyNameText": "Yukiya, Murasaki",
+        "name": "Murasaki Yukiya",
+        "category": "writer",
+        "endYear": 2021,
+        "episodeCount": 22,
+        "job": "screenplay",
+        "startYear": 2018
+      }
+    ]
+  }
+}

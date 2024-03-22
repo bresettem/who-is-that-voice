@@ -23,19 +23,40 @@ const Results = ({ data }) => {
               <Card.Img variant="top" src={item.image} className="img-fluid" />
               <div className="position-relative">
                 <Card.ImgOverlay className="overlay-bottom">
-                  <Card.Title>{item.name}</Card.Title>
+                  <Card.Title>{item.name && item.name}</Card.Title>
                 </Card.ImgOverlay>
               </div>
-              <Card.Header>{item.title}</Card.Header>
               <Card.Body>
-                <Card.Text>{item.characters.join(", ")}</Card.Text>
+                <Row>
+                  {item.characters.map((character) => (
+                    <Col
+                      key={`${item.id}-${character.title}`}
+                      xs={12}
+                      className="mb-2"
+                    >
+                      <Card>
+                        <Card.Body>
+                          <Card.Title>{character.title}</Card.Title>
+                          <Card.Text>
+                            <strong>Characters:</strong>{" "}
+                            {character.characters.join(", ")}
+                            <br />
+                            <strong>Episode Number:</strong>{" "}
+                            {character.episodeNum}
+                            <br />
+                          </Card.Text>
+                        </Card.Body>
+                      </Card>
+                    </Col>
+                  ))}
+                </Row>
               </Card.Body>
             </Card>
           </Col>
         ))}
       </Row>
       <PaginationComponent
-        totalPages={Math.ceil(data.length / itemsPerPage)}
+        totalPages={totalPages}
         activePage={activePage}
         onPageChange={handlePageChange}
       />

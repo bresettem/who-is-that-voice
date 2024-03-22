@@ -5,6 +5,8 @@ import { Button, InputGroup, Col } from "react-bootstrap";
 import "react-bootstrap-typeahead/css/Typeahead.css";
 import SearchResults from "./SearchResults/SearchResults";
 import FTSearch from "@/app/data/ft_search.json";
+import HowNotToSearch from "@/app/data/how_not_to_summon_a_demon_lord_search.json";
+
 const AsyncTypeahead = withAsync(Typeahead);
 
 const MultiSelectDropdown = ({ onSelect }) => {
@@ -23,13 +25,31 @@ const MultiSelectDropdown = ({ onSelect }) => {
       let items = [];
 
       if (process.env.NODE_ENV === "development") {
-        items = FTSearch.results.map((result) => ({
-          id: result.id,
-          title: result.title,
-          image: result.image
-            ? result.image.url
-            : "https://placekitten.com/200/300",
-        }));
+        console.log("query", query);
+        if (query.toLowerCase().includes("how")) {
+          items.push(
+            ...HowNotToSearch.results.map((result) => ({
+              id: result.id,
+              title: result.title,
+              image: result.image
+                ? result.image.url
+                : "https://placekitten.com/200/300",
+            }))
+          );
+        }
+
+        // If the query contains "Fairy", include the Fairy data
+        if (query.toLowerCase().includes("fairy")) {
+          items.push(
+            ...FTSearch.results.map((result) => ({
+              id: result.id,
+              title: result.title,
+              image: result.image
+                ? result.image.url
+                : "https://placekitten.com/200/300",
+            }))
+          );
+        }
         if (items.length === 0) {
           throw new Error("Items is empty");
         }

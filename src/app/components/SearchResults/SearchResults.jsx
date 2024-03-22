@@ -3,11 +3,12 @@ import React, { useState, useEffect } from "react";
 import extractId from "./IdExtractor";
 import actors from "./Actors";
 import Results from "./Results";
+import SameNameElements from "./SameNameElements";
 import { Row } from "react-bootstrap";
 import { all } from "axios";
 
 const SearchResults = ({ selectedValues, buttonClicked }) => {
-  const [allActors, setAllActors] = useState([]);
+  const [results, setResults] = useState([]);
 
   useEffect(() => {
     const fetchActors = async () => {
@@ -17,8 +18,14 @@ const SearchResults = ({ selectedValues, buttonClicked }) => {
           return actors(id);
         });
 
-        const resolvedActors = (await Promise.all(actorPromises)).flat();
-        setAllActors(resolvedActors);
+        const resolvedActors = await Promise.all(actorPromises);
+        console.log("resolvedActors", resolvedActors);
+
+        const sameNameElements = await Promise.all(
+          SameNameElements(resolvedActors)
+        );
+        console.log("sameNameElements", sameNameElements);
+        setResults(sameNameElements);
       } catch (error) {
         console.error("Error fetching actors:", error);
       }
@@ -34,12 +41,12 @@ const SearchResults = ({ selectedValues, buttonClicked }) => {
       {buttonClicked && (
         <>
           <h2>
-            {allActors.length > 0
-              ? `Selected values: ${allActors.length}`
+            {results.length > 0
+              ? `Selected values: ${results.length}`
               : "No results found."}
           </h2>
 
-          {allActors.length > 0 && <Row>{<Results data={allActors} />}</Row>}
+          {results.length > 0 && <Row>{<Results data={results} />}</Row>}
         </>
       )}
     </>

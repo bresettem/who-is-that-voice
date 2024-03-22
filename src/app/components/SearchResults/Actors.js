@@ -1,15 +1,23 @@
 // actors.js
 import axios from "axios";
 import FTFullCredits from "@/app/data/ft_get_full_credits.json";
+import HowNotToFullCredits from "@/app/data/how_not_to_summon_a_demon_lord_get_full_credits.json";
 import extractId from "./IdExtractor";
 
 const actors = async (keyword) => {
   try {
     console.log("in actors", keyword);
-    const title = FTFullCredits.base.title;
-
+    let title;
+    let data;
+    if (keyword === "tt1528406") {
+      data = FTFullCredits;
+      title = FTFullCredits.base.title;
+    } else {
+      data = HowNotToFullCredits;
+      title = HowNotToFullCredits.base.title;
+    }
     const items = await Promise.all(
-      FTFullCredits.cast.map((result) => ({
+      data.cast.map((result) => ({
         id: extractId(result.id),
         image: result.image
           ? result.image.url
