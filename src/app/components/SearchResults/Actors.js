@@ -9,12 +9,37 @@ const actors = async (keyword) => {
     console.log("in actors", keyword);
     let title;
     let data;
-    if (keyword === "tt1528406") {
-      data = FTFullCredits;
-      title = FTFullCredits.base.title;
+
+    if (process.env.NODE_ENV === "development") {
+      if (keyword === "tt1528406") {
+        data = FTFullCredits;
+        title = FTFullCredits.base.title;
+      } else {
+        data = HowNotToFullCredits;
+        title = HowNotToFullCredits.base.title;
+      }
     } else {
-      data = HowNotToFullCredits;
-      title = HowNotToFullCredits.base.title;
+      const options = {
+        method: "GET",
+        url: "https://imdb8.p.rapidapi.com/title/get-full-credits",
+        params: {
+          tconst: keyword,
+        },
+        headers: {
+          "X-RapidAPI-Key": process.env.NEXT_PUBLIC_RAPIDAPI_KEY,
+          "X-RapidAPI-Host": "imdb8.p.rapidapi.com",
+        },
+      };
+
+      try {
+        const response = await axios.request(options);
+        title = response.data.base.title;
+
+        console.log(response.data);
+        data = response.data;
+      } catch (error) {
+        console.error(error);
+      }
     }
     const items = await Promise.all(
       data.cast.map((result) => ({

@@ -6,6 +6,7 @@ import "react-bootstrap-typeahead/css/Typeahead.css";
 import SearchResults from "./SearchResults/SearchResults";
 import FTSearch from "@/app/data/ft_search.json";
 import HowNotToSearch from "@/app/data/how_not_to_summon_a_demon_lord_search.json";
+import axios from "axios";
 
 const AsyncTypeahead = withAsync(Typeahead);
 
@@ -55,14 +56,11 @@ const MultiSelectDropdown = ({ onSelect }) => {
         }
         console.log("items", items);
       } else {
-        // Make API call in production mode
-        // Replace with your production API call logic
-        // items = await fetchSearchResults(query);
         const options = {
           method: "GET",
           url: `https://imdb8.p.rapidapi.com/title/v2/find`,
           params: {
-            title: "game of",
+            title: query,
             limit: "20",
             sortArg: "moviemeter,asc",
           },
@@ -73,7 +71,7 @@ const MultiSelectDropdown = ({ onSelect }) => {
         };
         const response = await axios.request(options);
         console.log(response.data);
-        items = response.results.map((result) => ({
+        items = response.data.results.map((result) => ({
           id: result.id,
           title: result.title,
           image: result.image

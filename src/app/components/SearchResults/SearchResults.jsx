@@ -5,7 +5,6 @@ import actors from "./Actors";
 import Results from "./Results";
 import SameNameElements from "./SameNameElements";
 import { Row } from "react-bootstrap";
-import { all } from "axios";
 
 const SearchResults = ({ selectedValues, buttonClicked }) => {
   const [results, setResults] = useState([]);
