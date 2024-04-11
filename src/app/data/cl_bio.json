@@ -1,0 +1,40 @@
+{
+  "@type": "imdb.api.name.bio",
+  "akas": [
+    "Cherami Leigh Kuehn",
+    "Cherami Leigh Kuhn",
+    "Cheramie Leigh",
+    "Ceelee Rose"
+  ],
+  "id": "/name/nm0473873/",
+  "image": {
+    "height": 4954,
+    "id": "/name/nm0473873/images/rm91851777",
+    "url": "https://m.media-amazon.com/images/M/MV5BNmQ2NjA4NTItYzY4NS00ZTQwLWJhZDctY2RhNmM1Y2E4MjMxXkEyXkFqcGdeQXVyMTUyMzE5NQ@@._V1_.jpg",
+    "width": 3302
+  },
+  "legacyNameText": "Leigh, Cherami",
+  "name": "Cherami Leigh",
+  "birthDate": "1988-07-19",
+  "birthPlace": "Dallas, Texas, USA",
+  "gender": "female",
+  "heightCentimeters": 152.4,
+  "realName": "Cherami Leigh Kuehn",
+  "spouses": [
+    {
+      "attributes": "(1 child)",
+      "current": true,
+      "fromDate": "2014-04-13",
+      "id": "/name/nm4026566/",
+      "name": "Jon Christie"
+    }
+  ],
+  "miniBios": [
+    {
+      "author": "ahmetkozan",
+      "id": "/name/nm0473873/bio/mb0622226",
+      "language": "en",
+      "text": "Cherami Leigh Kuehn (born July 19, 1988) is an American actress and voice artist who has provided voices for a number of English-language versions of Japanese anime series and video games with Funimation, Bang Zoom! Entertainment and Studiopolis.\n\nLeigh began acting at the age of six. She studied Meisner-based Film Acting Technique with Nancy Chartier from the age of nine. As a child she played Gretchen in Finding North, Marcia in Temple Grandin, the young LeAnn Rimes in Holiday in Your Heart (1997), Stacy Anderson in The President's Man (2000), and appeared on on the television series Walker, Texas Ranger (1993) multiple times. On screen, she played Kim in Fast Food Nation (2006). In 2014, she had the lead role in Shane Dawson's Not Cool (2014). As a voice artist, her roles have included Sae Kashiwagi in Peach Girl, Cecily Campbell in The Sacred Blacksmith, Tamaki Kawazoe in Bamboo Blade, Lucy Heartfilia in Fairy Tail, Patty Thompson in Soul Eater, and Asuna Yuuki in Sword Art Online.\n\nLeigh attended Hebron High School in Carrollton, Texas and studied theater at Collin College in Plano. She worked for Radio Disney as a DJ and also voice-over promotions and commercials for ABC Radio for 10 years. In 2013 she moved to Los Angeles, and continued voice acting on video games and anime as well as take on live-action acting roles. She married fellow actor Jon Christie on April 13, 2014, whom she had dated since 2010."
+    }
+  ]
+}

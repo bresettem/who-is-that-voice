@@ -1,0 +1,91 @@
+/* Define the variable for film image width */
+:root {
+  --film-image-width: 13rem; /* Adjust the value as needed */
+}
+
+.profile-photo {
+  max-width: var(--film-image-width);
+}
+.film-item {
+  position: relative; /* Enable positioning for overlays */
+  overflow: hidden; /* Clip content to avoid overflow */
+  display: grid; /* Enable grid layout */
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(13rem, 1fr)
+  ); /* Adjust width as needed */
+  grid-gap: 20px; /* Set spacing between images */
+}
+
+.film-image {
+  /* Existing styles... */
+  max-width: var(--film-image-width);
+}
+
+.film-overlay {
+  max-width: var(--film-image-width);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.7); /* Darker semi-transparent black */
+  padding: 5px 5px 5px; /* Increased bottom padding */
+  color: white; /* White text */
+  display: flex;
+  justify-content: center;
+  align-items: flex-end; /* Align title to the bottom */
+  transition: background-color 0.3s ease-in-out; /* Smooth transition */
+  z-index: 2; /* Higher z-index to appear above film-info-overlay */
+  width: calc(var(--film-image-width) + 2 * 15px); /* Adjust based on padding */
+}
+
+.film-item:hover .film-overlay {
+  background-color: rgba(0, 0, 0, 0.5); /* Lighter background on hover */
+}
+
+.film-info-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent black */
+  opacity: 0; /* Initially invisible */
+  transition: opacity 0.3s ease-in-out; /* Smooth transition */
+  z-index: 1; /* Lower z-index to appear below film-overlay (or use pointer-events) */
+  width: calc(var(--film-image-width) + 2 * 15px); /* Adjust based on padding */
+}
+
+.film-item:hover .film-info-overlay {
+  opacity: 1; /* Overlay becomes visible on hover */
+}
+
+.film-info {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0; /* Now positioned to cover the entire card */
+  padding: 20px 15px 40px; /* Increased bottom padding */
+  color: white; /* Assuming film-info sits on a dark background */
+  background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black background */
+  opacity: 0; /* Initially invisible */
+  transition: opacity 0.3s ease-in-out; /* Smooth transition */
+  text-align: left; /* Left-align the film info content */
+  max-width: var(--film-image-width);
+}
+
+.film-item:hover .film-info {
+  opacity: 1; /* Film info becomes visible on hover */
+}
+
+.film-item::after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 20px; /* Adjust padding size as needed */
+  background-color: inherit;
+}

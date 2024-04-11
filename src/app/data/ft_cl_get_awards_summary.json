@@ -1,0 +1,27 @@
+{
+  "data": {
+    "name": {
+      "prestigiousAwardSummary": {
+        "__typename": "PrestigiousAwardSummary",
+        "awardNomination": {
+          "award": {
+            "eventEdition": {
+              "event": {
+                "id": "ev0000123"
+              }
+            },
+            "text": "BAFTA Games Award"
+          }
+        },
+        "wins": 0,
+        "nominations": 1
+      },
+      "totalWins": {
+        "total": 7
+      },
+      "totalNominations": {
+        "total": 22
+      }
+    }
+  }
+}

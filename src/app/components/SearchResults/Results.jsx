@@ -1,9 +1,23 @@
 import React, { useState } from "react";
-import { Card, Row, Col, ListGroup } from "react-bootstrap";
+import { Card, Row, Col, ListGroup, Button } from "react-bootstrap";
 import PaginationComponent, { itemsPerPage } from "./PaginationComponent";
+import ProfileModal from "@/app/components/Profile/ProfileModal";
 
+import Link from "next/link";
 const Results = ({ data }) => {
   const [activePage, setActivePage] = useState(1);
+  const [showModal, setShowModal] = useState(false);
+  const [selectedItemId, setSelectedItemId] = useState(null);
+
+  const handleShowModal = (event, id) => {
+    event.preventDefault();
+    setSelectedItemId(id);
+    setShowModal(true);
+  };
+
+  const handleCloseModal = () => {
+    setShowModal(false);
+  };
 
   const handlePageChange = (page) => {
     setActivePage(page);
@@ -20,10 +34,19 @@ const Results = ({ data }) => {
         {currentData.map((item) => (
           <Col key={item.id} xs={12} lg={3} className="mb-4">
             <Card>
-              <Card.Img variant="top" src={item.image} className="img-fluid" />
+              <Card.Img
+                variant="top"
+                src={item.image}
+                className="img-fluid"
+                alt={item.name}
+              />
               <div className="position-relative">
                 <Card.ImgOverlay className="overlay-bottom">
-                  <Card.Title>{item.name && item.name}</Card.Title>
+                  <Card.Title>
+                    <Link href="#" onClick={(e) => handleShowModal(e, item.id)}>
+                      {item.name && item.name}
+                    </Link>
+                  </Card.Title>
                 </Card.ImgOverlay>
               </div>
               <Card.Body>
@@ -59,6 +82,11 @@ const Results = ({ data }) => {
         totalPages={totalPages}
         activePage={activePage}
         onPageChange={handlePageChange}
+      />
+      <ProfileModal
+        show={showModal}
+        handleClose={handleCloseModal}
+        itemId={selectedItemId}
       />
     </>
   );
