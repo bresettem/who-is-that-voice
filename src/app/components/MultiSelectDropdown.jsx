@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, useRef } from "react";
 import { Typeahead, withAsync } from "react-bootstrap-typeahead";
-import { Button, InputGroup, Col } from "react-bootstrap";
+import { Button, InputGroup, Col, Image } from "react-bootstrap";
 import "react-bootstrap-typeahead/css/Typeahead.css";
 import SearchResults from "./SearchResults/SearchResults";
 import FTSearch from "@/app/data/ft_search.json";
@@ -108,7 +108,7 @@ const MultiSelectDropdown = ({ onSelect }) => {
 
   const renderMenuItemChildren = (option) => (
     <>
-      <img
+      <Image
         alt={option.title}
         src={option.image}
         style={{

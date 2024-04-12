@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import { Card, Row, Col, ListGroup, Button } from "react-bootstrap";
+import { Card, Row, Col } from "react-bootstrap";
 import PaginationComponent, { itemsPerPage } from "./PaginationComponent";
 import ProfileModal from "@/app/components/Profile/ProfileModal";
-
 import Link from "next/link";
+
 const Results = ({ data }) => {
   const [activePage, setActivePage] = useState(1);
   const [showModal, setShowModal] = useState(false);
