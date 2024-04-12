@@ -6,7 +6,9 @@ import {
   Image,
   Row,
   Col,
-  Spinner,
+  ToggleButton,
+  ToggleButtonGroup,
+  Table,
 } from "react-bootstrap";
 import getAwards from "@/app/components/Profile/GetAwards";
 import getBio from "@/app/components/Profile/GetBio";
@@ -23,12 +25,10 @@ const ProfileModal = ({ handleClose, show, itemId }) => {
   const [films, setFilms] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const [filmsPerPage] = useState(12);
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState(null);
+  const [viewMode, setViewMode] = useState("images");
 
   useEffect(() => {
     const fetchData = async () => {
-      setLoading(true);
       try {
         let fetchedAwards = {};
         let fetchedBio = {};
@@ -38,19 +38,17 @@ const ProfileModal = ({ handleClose, show, itemId }) => {
           fetchedAwards = ClAwards;
           fetchedBio = ClBio;
           fetchedFilms = CLFilms.filmography;
-          console.log("films:", fetchedFilms);
         } else {
           fetchedAwards = await getAwards(itemId);
           fetchedBio = await getBio(itemId);
           fetchedFilms = await getFilmography(itemId);
         }
+
         setAwards(fetchedAwards);
         setBio(fetchedBio);
         setFilms(fetchedFilms);
       } catch (error) {
-        setError(error.message);
-      } finally {
-        setLoading(false);
+        console.error("Error fetching data:", error);
       }
     };
 
@@ -61,13 +59,19 @@ const ProfileModal = ({ handleClose, show, itemId }) => {
 
   const { prestigiousAwardSummary, totalWins, totalNominations } = awards;
   const { awardNomination } = prestigiousAwardSummary || {};
+
   const { name, birthDate, birthPlace, gender, heightCentimeters, image } = bio;
 
+  // Pagination
   const indexOfLastFilm = currentPage * filmsPerPage;
   const indexOfFirstFilm = indexOfLastFilm - filmsPerPage;
   const currentFilms = films.slice(indexOfFirstFilm, indexOfLastFilm);
 
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
+
+  const handleViewModeChange = (value) => {
+    setViewMode(value);
+  };
 
   return (
     <Modal show={show} onHide={handleClose} size="lg">
@@ -75,58 +79,71 @@ const ProfileModal = ({ handleClose, show, itemId }) => {
         <Modal.Title>{name}</Modal.Title>
       </Modal.Header>
       <Modal.Body>
-        {loading ? (
-          <div className="text-center">
-            <Spinner animation="border" role="status">
-              <span className="sr-only">Loading...</span>
-            </Spinner>
-          </div>
-        ) : error ? (
-          <div className="text-danger">{error}</div>
-        ) : (
-          <>
-            <Row>
-              <Col md={4}>
-                {image && (
-                  <Image
-                    src={image.url}
-                    alt={name}
-                    fluid
-                    rounded
-                    thumbnail
-                    className="mb-3 profile-photo "
-                  />
-                )}
-              </Col>
-              <Col md={6}>
-                <div>
-                  <p>
-                    <strong>Birth Date:</strong> {birthDate}
-                  </p>
-                  <p>
-                    <strong>Birth Place:</strong> {birthPlace}
-                  </p>
-                  <p>
-                    <strong>Gender:</strong> {gender}
-                  </p>
-                  <p>
-                    <strong>Height:</strong> {heightCentimeters} cm (
-                    {Math.round(heightCentimeters * 0.0328084 * 100) / 100}{" "}
-                    feet)
-                  </p>
-                </div>
-                <div>
-                  <h5>Prestigious Award Summary</h5>
-                  <p>Award Nomination: {awardNomination?.award?.text}</p>
-                  <Badge variant="success">{totalWins?.total} Wins</Badge>{" "}
-                  <Badge variant="warning">
-                    {totalNominations?.total} Nominations
-                  </Badge>
-                </div>
-              </Col>
-            </Row>
-            <Row>
-              {currentFilms.map((film, index) => (
+        <Row>
+          <Col md={4}>
+            <Image
+              src={image?.url || "https://via.placeholder.com/150"}
+              alt={name}
+              rounded
+              className="mb-3 profile-photo"
+            />
+          </Col>
+          <Col md={8}>
+            <div>
+              <p>
+                <strong>Birth Date:</strong> {birthDate}
+              </p>
+              <p>
+                <strong>Birth Place:</strong> {birthPlace}
+              </p>
+              <p>
+                <strong>Gender:</strong> {gender}
+              </p>
+              <p>
+                <strong>Height:</strong> {heightCentimeters} cm (
+                {Math.round(heightCentimeters * 0.0328084 * 100) / 100} feet)
+              </p>
+            </div>
+            <div>
+              <h5>Prestigious Award Summary</h5>
+              <p>Award Nomination: {awardNomination?.award?.text}</p>
+              <Badge variant="success">{totalWins?.total} Wins</Badge>{" "}
+              <Badge variant="warning">
+                {totalNominations?.total} Nominations
+              </Badge>
+            </div>
+          </Col>
+        </Row>
+        <Row>
+          <Col md={4} className="mb-3">
+            <ToggleButtonGroup
+              type="radio"
+              name="viewMode"
+              value={viewMode}
+              onChange={handleViewModeChange}
+            >
+              <ToggleButton
+                id="toggle-1"
+                value="images"
+                variant="outline-primary"
+              >
+                Images
+              </ToggleButton>
+              <ToggleButton
+                id="toggle-2"
+                value="list"
+                variant="outline-secondary"
+              >
+                List
+              </ToggleButton>
+            </ToggleButtonGroup>
+          </Col>
+        </Row>
+        {viewMode === "images" ? (
+          <Row>
+            {currentFilms
+              .sort((a, b) => b.year - a.year)
+              .map((film, index) => (
                 <Col md={4} key={index}>
                   <div className="film-item mb-3">
                     <Image
@@ -142,53 +159,57 @@ const ProfileModal = ({ handleClose, show, itemId }) => {
                     <div className="film-overlay">
                       <h5>{film.title}</h5>
                     </div>
-                    <div className="film-info">
-                      {film.titleType && (
-                        <>
-                          <strong>Title Type: </strong>
-                          {film.titleType}
-                          <br />
-                        </>
-                      )}
-                      {film.year && (
-                        <>
-                          <strong>Year: </strong>
-                          {film.year}
-                          <br />
-                        </>
-                      )}
-                      {film.category && (
-                        <>
-                          <strong>Category: </strong>
-                          {film.category}
-                          <br />
-                        </>
-                      )}
-                      {film.characters && (
-                        <>
-                          <strong>Characters: </strong>
-                          {film.characters.join(", ")}
-                          <br />
-                        </>
-                      )}
-                      {film.status && (
-                        <>
-                          <strong>Status: </strong> {film.status}
-                        </>
-                      )}
+                    <div className="film-info rounded ">
+                      <strong>Title Type:</strong> {film.titleType} {film.year}
+                      <br />
+                      <strong>Characters:</strong>{" "}
+                      {film.characters && film.characters.join(", ")}
+                      <br />
+                      <strong>Status:</strong> {film.status}
                     </div>
                   </div>
                 </Col>
               ))}
-            </Row>
-            <CustomPagination
-              filmsPerPage={filmsPerPage}
-              totalFilms={films.length}
-              currentPage={currentPage}
-              paginate={paginate}
-            />
-          </>
+          </Row>
+        ) : (
+          <Row>
+            <Table striped bordered hover responsive>
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Title</th>
+                  <th>Type</th>
+                  <th>Year</th>
+                  <th>Characters</th>
+                  <th>Status</th>
+                </tr>
+              </thead>
+              <tbody>
+                {currentFilms
+                  .sort((a, b) => b.year - a.year)
+                  .map((film, index) => {
+                    const filmIndex = indexOfFirstFilm + index + 1; // Calculate the film index
+                    return (
+                      <tr key={index}>
+                        <td>{filmIndex}</td>
+                        <td>{film.title}</td>
+                        <td>{film.titleType}</td>
+                        <td>{film.year}</td>
+                        <td>{film.characters && film.characters.join(", ")}</td>
+                        <td>{film.status}</td>
+                      </tr>
+                    );
+                  })}
+              </tbody>
+            </Table>
+          </Row>
         )}
+        <CustomPagination
+          filmsPerPage={filmsPerPage}
+          totalFilms={films.length}
+          currentPage={currentPage}
+          paginate={paginate}
+        />
       </Modal.Body>
       <Modal.Footer>
         <Button variant="secondary" onClick={handleClose}>
