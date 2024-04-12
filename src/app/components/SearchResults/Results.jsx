@@ -37,7 +37,7 @@ const Results = ({ data }) => {
               <Card.Img
                 variant="top"
                 src={item.image}
-                className="img-fluid"
+                className=""
                 alt={item.name}
               />
               <div className="position-relative">

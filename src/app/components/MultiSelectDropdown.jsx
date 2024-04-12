@@ -125,7 +125,7 @@ const MultiSelectDropdown = ({ onSelect }) => {
 
   return (
     <>
-      <Col xs lg="6">
+      <Col xs={12} lg="6">
         <InputGroup className="mb-3">
           <AsyncTypeahead
             ref={typeaheadRef}
@@ -136,7 +136,7 @@ const MultiSelectDropdown = ({ onSelect }) => {
               (option) => !values.some((value) => value.id === option.id)
             )}
             labelKey="title"
-            placeholder="Select options"
+            placeholder="Series name or movie"
             isLoading={isLoading}
             onChange={handleOnChange}
             onSearch={handleSearch}

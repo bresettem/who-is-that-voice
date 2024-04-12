@@ -80,15 +80,15 @@ const ProfileModal = ({ handleClose, show, itemId }) => {
       </Modal.Header>
       <Modal.Body>
         <Row>
-          <Col md={4}>
+          <Col xs={12} md={4} className="text-center mb-3">
             <Image
               src={image?.url || "https://via.placeholder.com/150"}
               alt={name}
               rounded
-              className="mb-3 profile-photo"
+              className="profile-photo img-fluid"
             />
           </Col>
-          <Col md={8}>
+          <Col xs={12} md={8}>
             <div>
               <p>
                 <strong>Birth Date:</strong> {birthDate}
@@ -114,8 +114,8 @@ const ProfileModal = ({ handleClose, show, itemId }) => {
             </div>
           </Col>
         </Row>
-        <Row>
-          <Col md={4} className="mb-3">
+        <Row className="mb-3">
+          <Col xs={12} md={8} className="text-center">
             <ToggleButtonGroup
               type="radio"
               name="viewMode"
@@ -144,7 +144,7 @@ const ProfileModal = ({ handleClose, show, itemId }) => {
             {currentFilms
               .sort((a, b) => b.year - a.year)
               .map((film, index) => (
-                <Col md={4} key={index}>
+                <Col xs={12} sm={6} md={4} key={index}>
                   <div className="film-item mb-3">
                     <Image
                       src={
@@ -154,12 +154,12 @@ const ProfileModal = ({ handleClose, show, itemId }) => {
                       }
                       alt={film.title}
                       rounded
-                      className="film-image"
+                      className="film-image img-fluid"
                     />
                     <div className="film-overlay">
                       <h5>{film.title}</h5>
                     </div>
-                    <div className="film-info rounded ">
+                    <div className="film-info rounded">
                       <strong>Title Type:</strong> {film.titleType} {film.year}
                       <br />
                       <strong>Characters:</strong>{" "}

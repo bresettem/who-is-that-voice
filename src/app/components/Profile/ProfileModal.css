@@ -5,6 +5,7 @@
 .profile-photo {
   max-width: var(--film-image-width);
 }
+
 .film-item {
   position: relative;
   overflow: hidden;
@@ -20,8 +21,8 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(0, 0, 0, 0.7);
-  /padding: 5px 5px 5px;
+  background-color: rgba(var(--overlay-background-color), 0.7);
+  padding: 5px 5px 5px;
   color: white;
   display: flex;
   justify-content: center;
@@ -32,7 +33,7 @@
 }
 
 .film-item:hover .film-overlay {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(var(--overlay-background-color), 0.5);
 }
 
 .film-info-overlay {
@@ -41,7 +42,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(var(--overlay-background-color), 0.3);
   opacity: 0;
   transition: opacity 0.3s ease-in-out;
   z-index: 1;
@@ -60,7 +61,7 @@
   bottom: 0;
   padding: 20px 15px 40px;
   color: white;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(var(--overlay-background-color), 0.8);
   opacity: 0;
   transition: opacity 0.3s ease-in-out;
   text-align: left;
@@ -80,4 +81,22 @@
   right: 0;
   height: 20px;
   background-color: inherit;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 991px) {
+  :root {
+    --film-image-width: 10rem;
+  }
+}
+@media (max-width: 768px) {
+  :root {
+    --film-image-width: 9rem;
+  }
+}
+
+@media (max-width: 576px) {
+  :root {
+    --film-image-width: 8rem;
+  }
 }
