@@ -102,9 +102,9 @@ body {
   color: rgb(var(--blue-700)) !important;
 }
 [data-bs-theme="dark"] {
-  /* .btn-close {
+  .rbt-close {
     --bs-btn-close-white-filter: none !important;
-  } */
+  }
   .form-control {
     background-color: rgb(var(--blue-900)) !important;
   }
