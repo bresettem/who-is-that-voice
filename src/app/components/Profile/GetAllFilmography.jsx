@@ -28,7 +28,7 @@ const getBio = async (keyword) => {
     }
 
     // Return the fetched data
-    return response.data;
+    return response.data.filmography;
   } catch (error) {
     // Log and rethrow any errors
     console.error("Error fetching awards:", error);
