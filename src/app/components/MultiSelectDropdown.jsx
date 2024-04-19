@@ -26,8 +26,6 @@ const MultiSelectDropdown = ({ onSelect }) => {
       let items = [];
 
       if (process.env.NODE_ENV === "development") {
-        // await new Promise((resolve) => setTimeout(resolve, 3000));
-
         console.log("query", query);
         if (query.toLowerCase().includes("how")) {
           items.push(

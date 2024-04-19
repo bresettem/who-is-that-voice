@@ -38,7 +38,6 @@ const ProfileModal = ({ handleClose, show, itemId }) => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        await new Promise((resolve) => setTimeout(resolve, 1000));
         let fetchedAwards = {};
         let fetchedBio = {};
         let fetchedFilms = [];
@@ -79,7 +78,7 @@ const ProfileModal = ({ handleClose, show, itemId }) => {
 
   const paginate = (pageNumber) => {
     setCurrentPage(pageNumber);
-    setLoadingNextPage(true); // Set loading for next page to true
+    setLoadingNextPage(true);
   };
 
   const handleViewModeChange = (value) => {
@@ -87,13 +86,7 @@ const ProfileModal = ({ handleClose, show, itemId }) => {
   };
 
   useEffect(() => {
-    // Simulate loading for next page delay
-    const timeout = setTimeout(() => {
-      setLoadingNextPage(false);
-    }, 1000); // Adjust delay time as needed
-
-    // Clean up timeout to prevent memory leaks
-    return () => clearTimeout(timeout);
+    setLoadingNextPage(false);
   }, [currentPage]);
 
   return (
