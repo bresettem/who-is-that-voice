@@ -1,0 +1,28 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(var(--blue-1000));
+  color: #fff;
+  padding: 20px 0;
+  z-index: 1000;
+}
+
+.footer p {
+  margin-bottom: 0;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+}
+
+[data-bs-theme="dark"] .footer {
+  background-color: rgb(var(--blue-1000));
+  color: rgb(var(--blue-100));
+}
+
+[data-bs-theme="light"] .footer {
+  background-color: rgb(var(--blue-300));
+  color: rgb(var(--blue-1000));
+}
