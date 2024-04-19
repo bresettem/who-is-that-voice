@@ -17,6 +17,7 @@ const Results = ({ data }) => {
 
   const handleCloseModal = () => {
     setShowModal(false);
+    setSelectedItemId(null);
   };
 
   const handlePageChange = (page) => {
@@ -31,8 +32,8 @@ const Results = ({ data }) => {
   return (
     <>
       <Row>
-        {currentData.map((item) => (
-          <Col key={item.id} xs={12} lg={3} className="mb-4">
+        {currentData.map((item, index) => (
+          <Col key={`${item.id}-${index}`} xs={12} lg={3} className="mb-4">
             <Card>
               <Card.Img
                 variant="top"
@@ -51,12 +52,8 @@ const Results = ({ data }) => {
               </div>
               <Card.Body>
                 <Row>
-                  {item.characters.map((character) => (
-                    <Col
-                      key={`${item.id}-${character.title}`}
-                      xs={12}
-                      className="mb-2"
-                    >
+                  {item.characters.map((character, index) => (
+                    <Col key={`${item.id}-${index}`} xs={12} className="mb-2">
                       <Card>
                         <Card.Body>
                           <Card.Title>{character.title}</Card.Title>

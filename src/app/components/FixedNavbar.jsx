@@ -17,6 +17,9 @@ export default function FixedNavbar() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="https://old.whoisthatvoice.com/" target="_blank">
+              Old
+            </Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

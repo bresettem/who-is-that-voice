@@ -17,6 +17,7 @@ export default function Home() {
       <div className="text-center mt-4 col-md-6 mx-auto"></div>
       <Container>
         <Row className="justify-content-md-center">
+          {console.log("selectedOptions", selectedOptions)}
           <MultiSelectTypeahead onSelect={handleOptionSelection} />
           <DarkModeButton />
         </Row>
