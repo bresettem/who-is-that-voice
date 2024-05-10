@@ -204,3 +204,7 @@ body {
 .dropdown {
   z-index: 2000;
 }
+
+body {
+  padding-bottom: 15vh; /* Due to the fixed footer */
+}

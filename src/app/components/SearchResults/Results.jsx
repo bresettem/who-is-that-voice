@@ -28,7 +28,7 @@ const Results = ({ data }) => {
   const endIndex = Math.min(startIndex + itemsPerPage, data.length);
   const currentData = data.slice(startIndex, endIndex);
   const totalPages = Math.ceil(data.length / itemsPerPage);
-
+  console.log("totalPages", totalPages);
   return (
     <>
       <Row>
