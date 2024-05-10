@@ -24,12 +24,10 @@ const SearchResults = ({ selectedValues, buttonClicked }) => {
           });
 
           const resolvedActors = await Promise.all(actorPromises);
-          console.log("resolvedActors", resolvedActors);
 
           const sameNameElements = await Promise.all(
             SameNameElements(resolvedActors)
           );
-          console.log("sameNameElements", sameNameElements);
           setResults(sameNameElements);
         } catch (error) {
           console.error("Error fetching actors:", error);
@@ -53,7 +51,7 @@ const SearchResults = ({ selectedValues, buttonClicked }) => {
             {loading ? (
               <Skeleton width={200} />
             ) : results.length > 0 ? (
-              `Selected values: ${results.length}`
+              `Actors: ${results.length}`
             ) : (
               "No results found."
             )}

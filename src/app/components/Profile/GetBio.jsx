@@ -21,7 +21,6 @@ const getBio = async (keyword) => {
     };
 
     const response = await axios.request(options);
-    console.log("response", response);
     // Check if the response is successful
     if (response.status !== 200) {
       throw new Error(`Failed to fetch awards. Status: ${response.status}`);

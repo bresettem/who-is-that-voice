@@ -6,6 +6,7 @@ import "react-bootstrap-typeahead/css/Typeahead.css";
 import SearchResults from "./SearchResults/SearchResults";
 import FTSearch from "@/app/data/ft_search.json";
 import HowNotToSearch from "@/app/data/how_not_to_summon_a_demon_lord_search.json";
+import MmSearch from "@/app/data/mm_search.json";
 import axios from "axios";
 
 const AsyncTypeahead = withAsync(Typeahead);
@@ -26,7 +27,6 @@ const MultiSelectDropdown = ({ onSelect }) => {
       let items = [];
 
       if (process.env.NODE_ENV === "development") {
-        console.log("query", query);
         if (query.toLowerCase().includes("how")) {
           items.push(
             ...HowNotToSearch.results.map((result) => ({
@@ -51,10 +51,22 @@ const MultiSelectDropdown = ({ onSelect }) => {
             }))
           );
         }
+
+        // If the query contains "Mic", include the mic data
+        if (query.toLowerCase().includes("mic")) {
+          items.push(
+            ...MmSearch.results.map((result) => ({
+              id: result.id,
+              title: result.title,
+              image: result.image
+                ? result.image.url
+                : "https://placekitten.com/200/300",
+            }))
+          );
+        }
         if (items.length === 0) {
           throw new Error("Items is empty");
         }
-        console.log("items", items);
       } else {
         const options = {
           method: "GET",
@@ -70,7 +82,6 @@ const MultiSelectDropdown = ({ onSelect }) => {
           },
         };
         const response = await axios.request(options);
-        console.log(response.data);
         items = response.data.results.map((result) => ({
           id: result.id,
           title: result.title,
@@ -82,7 +93,6 @@ const MultiSelectDropdown = ({ onSelect }) => {
       if (items.length === 0) {
         throw new Error("Items is empty");
       }
-      console.log("items", items);
       setOptions(items);
     } catch (error) {
       console.error("Error fetching data:", error);
@@ -96,7 +106,6 @@ const MultiSelectDropdown = ({ onSelect }) => {
   };
 
   const handleButtonClick = () => {
-    console.log("values", values);
     setButtonClicked(true);
     onSelect(values);
     setButtonDisabled(true);

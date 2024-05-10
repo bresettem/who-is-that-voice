@@ -8,13 +8,10 @@ const sameNameElements = (data) => {
   try {
     // Flatten the array of arrays into a single array
     const flattenedData = data.flat();
-    console.log("flattenedData", flattenedData);
     // Group elements by name using reduce
     const groupedData = flattenedData.reduce((acc, curr) => {
       const existingItem = acc.find((x) => x.name === curr.name);
       if (existingItem) {
-        console.log("acc", acc);
-
         existingItem.characters.push({
           title: curr.title,
           // character: curr.characters[0].character, // assuming only one character in characters array
@@ -48,7 +45,6 @@ const sameNameElements = (data) => {
     );
 
     // Return the result
-    console.log("correctData", correctData);
     correctData.sort((a, b) => {
       let aEpisodeNum;
       let bEpisodeNum;

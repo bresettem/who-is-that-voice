@@ -1,0 +1,80 @@
+{
+  "@meta": {
+    "operation": "AdvancedTitleSearch",
+    "requestId": "c47271a4-de14-4d74-a903-d781aab69b8f",
+    "serviceTimeMs": 29.629748
+  },
+  "@type": "imdb.api.search.advanced.response",
+  "results": [
+    {
+      "id": "/title/tt0784896/",
+      "image": {
+        "height": 1000,
+        "id": "/title/tt0784896/images/rm3927331840",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTBhYWVjZTYtNTkzMS00ZTM0LWI4NjItOTU5YzMxYWI2YWQ5XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_.jpg",
+        "width": 680
+      },
+      "title": "Mickey Mouse Clubhouse",
+      "titleType": "tvSeries",
+      "year": 2006
+    },
+    {
+      "id": "/title/tt0974599/",
+      "image": {
+        "height": 565,
+        "id": "/title/tt0974599/images/rm3396142081",
+        "url": "https://m.media-amazon.com/images/M/MV5BZGQwNWZiYTMtOTYwNi00MGZlLTlhODAtNjFiN2I3ZGFiZmM4XkEyXkFqcGdeQXVyMTQ4NTcxNTI0._V1_.jpg",
+        "width": 402
+      },
+      "title": "Mickey's Great Clubhouse Hunt",
+      "titleType": "video",
+      "year": 2007
+    },
+    {
+      "id": "/title/tt28689687/",
+      "title": "Mickey Mouse Clubhouse 2.0",
+      "titleType": "tvSeries"
+    },
+    {
+      "id": "/title/tt12735334/",
+      "title": "Mickey Mouse Destroys His Clubhouse",
+      "titleType": "tvEpisode",
+      "year": 2016
+    },
+    {
+      "id": "/title/tt12746384/",
+      "title": "Mickey Mouse's Clubhouse Catastrophe",
+      "titleType": "tvEpisode",
+      "year": 2017
+    },
+    {
+      "episode": 22,
+      "id": "/title/tt15163132/",
+      "season": 2,
+      "title": "Mario and Tony: Mickey Mouse Clubhouse",
+      "titleType": "tvEpisode",
+      "year": 2008
+    },
+    {
+      "episode": 43,
+      "id": "/title/tt1755599/",
+      "image": {
+        "height": 810,
+        "id": "/title/tt1755599/images/rm2507803905",
+        "url": "https://m.media-amazon.com/images/M/MV5BMmUzNTRkMzctZTY3Mi00ZDc0LWI4MDMtNjFhNzBhZDkxNTBlXkEyXkFqcGdeQXVyMTU2NTczMDY0._V1_.jpg",
+        "width": 1440
+      },
+      "season": 2,
+      "title": "Mickey Mouse Clubhouse: Mickey's Adventures in Wonderland",
+      "titleType": "tvEpisode",
+      "year": 2009
+    },
+    {
+      "id": "/title/tt19330228/",
+      "title": "Ben Shapiro's Mickey Mouse Clubhouse",
+      "titleType": "podcastEpisode",
+      "year": 2021
+    }
+  ],
+  "totalMatches": 8
+}

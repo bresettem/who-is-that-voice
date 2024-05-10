@@ -52,23 +52,33 @@ const Results = ({ data }) => {
               </div>
               <Card.Body>
                 <Row>
-                  {item.characters.map((character, index) => (
-                    <Col key={`${item.id}-${index}`} xs={12} className="mb-2">
-                      <Card>
-                        <Card.Body>
-                          <Card.Title>{character.title}</Card.Title>
-                          <Card.Text>
-                            <strong>Characters:</strong>{" "}
-                            {character.characters.join(", ")}
-                            <br />
-                            <strong>Episode Number:</strong>{" "}
-                            {character.episodeNum}
-                            <br />
-                          </Card.Text>
-                        </Card.Body>
-                      </Card>
-                    </Col>
-                  ))}
+                  {item.characters &&
+                    item.characters.map((character, index) => (
+                      <Col key={`${item.id}-${index}`} xs={12} className="mb-2">
+                        <Card>
+                          <Card.Body>
+                            <Card.Title>{character.title}</Card.Title>
+                            <Card.Text>
+                              {character.characters.length > 0 && (
+                                <>
+                                  <strong>Characters: </strong>
+                                  {character.characters.join(", ")}
+                                  <br />
+                                </>
+                              )}
+                              {character.episodeNum > 0 && (
+                                <>
+                                  <strong>Episode Number: </strong>
+                                  {character.episodeNum}
+                                </>
+                              )}
+
+                              <br />
+                            </Card.Text>
+                          </Card.Body>
+                        </Card>
+                      </Col>
+                    ))}
                 </Row>
               </Card.Body>
             </Card>

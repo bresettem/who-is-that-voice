@@ -1,0 +1,6012 @@
+{
+  "id": "/title/tt0784896/",
+  "base": {
+    "id": "/title/tt0784896/",
+    "image": {
+      "height": 1000,
+      "id": "/title/tt0784896/images/rm3927331840",
+      "url": "https://m.media-amazon.com/images/M/MV5BNTBhYWVjZTYtNTkzMS00ZTM0LWI4NjItOTU5YzMxYWI2YWQ5XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_.jpg",
+      "width": 680
+    },
+    "runningTimeInMinutes": 30,
+    "nextEpisode": "/title/tt13342002/",
+    "numberOfEpisodes": 133,
+    "seriesEndYear": 2016,
+    "seriesStartYear": 2006,
+    "title": "",
+    "titleType": "tvSeries",
+    "year": 2006
+  },
+  "cast": [
+    {
+      "disambiguation": "I",
+      "id": "/name/nm0030615/",
+      "image": {
+        "height": 1143,
+        "id": "/name/nm0030615/images/rm3225954816",
+        "url": "https://m.media-amazon.com/images/M/MV5BMWVhZTk5ZWYtYTY5Ny00YzhmLTllN2QtMGUwOTM5ZDQzNGFjXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+        "width": 800
+      },
+      "legacyNameText": "Anselmo, Tony (I)",
+      "name": "Tony Anselmo",
+      "category": "actor",
+      "characters": ["Donald Duck", "Donald", "Ghost Donald"],
+      "endYear": 2016,
+      "episodeCount": 125,
+      "roles": [
+        {
+          "character": "Donald Duck",
+          "characterId": "/character/ch0000719/"
+        },
+        {
+          "character": "Donald"
+        },
+        {
+          "character": "Ghost Donald"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "akas": [
+        "Tori Jensen",
+        "Tresshouse MacHorror",
+        "Tress MacNeile",
+        "Tress MacNeill",
+        "Ress MacNeille",
+        "Terrifying Tress MacNeille",
+        "Terroress MacNeille",
+        "Terror MacNeille",
+        "Tress MacNeille?!",
+        "Tress MacNiell",
+        "Terror MacNihil",
+        "Tress MacNihil",
+        "Teratoid MacNihilist",
+        "Terror MacNihilist",
+        "Terror MacNihl",
+        "Tress MacTerror",
+        "Teratoid Macinhilist",
+        "Tress Macneille",
+        "Tress McNeil",
+        "Tress McNeille",
+        "Tress McNihillist",
+        "Trussed Big Meal",
+        "Tress Mac Neille",
+        "The Real Tress MacNeille"
+      ],
+      "id": "/name/nm0534134/",
+      "image": {
+        "height": 2048,
+        "id": "/name/nm0534134/images/rm274442752",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQxMTQ1NzY5N15BMl5BanBnXkFtZTcwMDY5NDUwOA@@._V1_.jpg",
+        "width": 1331
+      },
+      "legacyNameText": "MacNeille, Tress",
+      "name": "Tress MacNeille",
+      "category": "actress",
+      "characters": [
+        "Daisy Duck",
+        "Chip",
+        "Daisy",
+        "Baby Red Bird",
+        "Dale",
+        "Mommy Red Bird",
+        "Ghost Daisy",
+        "Mrs. Claus",
+        "Slide Announcer"
+      ],
+      "endYear": 2016,
+      "episodeCount": 124,
+      "roles": [
+        {
+          "character": "Daisy Duck",
+          "characterId": "/character/ch0000629/"
+        },
+        {
+          "character": "Chip",
+          "characterId": "/character/ch0029147/"
+        },
+        {
+          "character": "Daisy"
+        },
+        {
+          "character": "Baby Red Bird",
+          "characterId": "/character/ch0308939/"
+        },
+        {
+          "character": "Dale",
+          "characterId": "/character/ch0029145/"
+        },
+        {
+          "character": "Mommy Red Bird",
+          "characterId": "/character/ch0325286/"
+        },
+        {
+          "character": "Ghost Daisy"
+        },
+        {
+          "character": "Mrs. Claus",
+          "characterId": "/character/ch0234931/"
+        },
+        {
+          "character": "Slide Announcer"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "akas": ["William Farmer", "Bill Faruer"],
+      "disambiguation": "I",
+      "id": "/name/nm0267724/",
+      "image": {
+        "height": 1024,
+        "id": "/name/nm0267724/images/rm578199041",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzc3NzE3OWYtNzUxNS00YTdhLWE2MTUtMGZkOGUwNDUyOTNkXkEyXkFqcGdeQXVyMjM4MTM4NzI@._V1_.jpg",
+        "width": 682
+      },
+      "legacyNameText": "Farmer, Bill (I)",
+      "name": "Bill Farmer",
+      "category": "actor",
+      "characters": [
+        "Goofy",
+        "Pluto",
+        "Goofbor",
+        "Goofbot",
+        "Goofy Monster",
+        "Martian Pluto"
+      ],
+      "endYear": 2016,
+      "episodeCount": 124,
+      "roles": [
+        {
+          "character": "Goofy",
+          "characterId": "/character/ch0027779/"
+        },
+        {
+          "character": "Pluto",
+          "characterId": "/character/ch0027779/"
+        },
+        {
+          "character": "Goofbor"
+        },
+        {
+          "character": "Goofbot"
+        },
+        {
+          "character": "Goofy Monster",
+          "characterId": "/character/ch0027852/"
+        },
+        {
+          "character": "Martian Pluto"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "akas": [
+        "Touched By An Anvil",
+        "The Rotting Ruins of Russi",
+        "Rabid Russi Taylor",
+        "Rancid Russi Taylor",
+        "Russi 'I'm In The Well' Taylor",
+        "Russi Big Tombs Taylor",
+        "Russi Gooey Brains Are Tasty With Fava Beans And A Nice Chianti Taylor",
+        "Russie Taylor"
+      ],
+      "id": "/name/nm0853122/",
+      "image": {
+        "height": 2048,
+        "id": "/name/nm0853122/images/rm2769136384",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk1ODEwNTIxNV5BMl5BanBnXkFtZTcwNjA4ODkxOA@@._V1_.jpg",
+        "width": 1436
+      },
+      "legacyNameText": "Taylor, Russi",
+      "name": "Russi Taylor",
+      "category": "actress",
+      "characters": ["Minnie Mouse", "Martian Minnie", "Q'ttles", "Quoodles"],
+      "endYear": 2016,
+      "episodeCount": 124,
+      "roles": [
+        {
+          "character": "Minnie Mouse",
+          "characterId": "/character/ch0000681/"
+        },
+        {
+          "character": "Martian Minnie"
+        },
+        {
+          "character": "Q'ttles"
+        },
+        {
+          "character": "Quoodles"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "akas": ["Wayne A. Allwine"],
+      "id": "/name/nm0021656/",
+      "image": {
+        "height": 2048,
+        "id": "/name/nm0021656/images/rm3365906944",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAxMzAzODAzOF5BMl5BanBnXkFtZTcwMDQwMTk5Nw@@._V1_.jpg",
+        "width": 1465
+      },
+      "legacyNameText": "Allwine, Wayne",
+      "name": "Wayne Allwine",
+      "category": "actor",
+      "characters": ["Mickey Mouse"],
+      "endYear": 2012,
+      "episodeCount": 100,
+      "roles": [
+        {
+          "character": "Mickey Mouse",
+          "characterId": "/character/ch0000630/"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "akas": [
+        "Jim Jonah Cumkings",
+        "Jim Cumming",
+        "J. Jonah Cummings",
+        "James J. Cummings",
+        "James Cummings",
+        "Jim J. Cummings",
+        "Jim Jonah Cummings",
+        "Jimmy Cummings",
+        "Jonah Cummings",
+        "Tim Cummings"
+      ],
+      "disambiguation": "I",
+      "id": "/name/nm0191906/",
+      "image": {
+        "height": 412,
+        "id": "/name/nm0191906/images/rm2059086337",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTBiMWViYmEtOGJkMS00YzUxLThkN2EtMjY3ZWY1ZGZmZTQzXkEyXkFqcGdeQXVyMjQ3ODY3ODM@._V1_.jpg",
+        "width": 384
+      },
+      "legacyNameText": "Cummings, Jim (I)",
+      "name": "Jim Cummings",
+      "category": "actor",
+      "characters": [
+        "Pete",
+        "Clyde",
+        "Daddy Yeti",
+        "Humphrey the Bear",
+        "Sparky"
+      ],
+      "endYear": 2016,
+      "episodeCount": 97,
+      "roles": [
+        {
+          "character": "Pete",
+          "characterId": "/character/ch0048116/"
+        },
+        {
+          "character": "Clyde"
+        },
+        {
+          "character": "Daddy Yeti"
+        },
+        {
+          "character": "Humphrey the Bear",
+          "characterId": "/character/ch0053616/"
+        },
+        {
+          "character": "Sparky"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "akas": ["Cory Barton", "Corry Burton", "Cory Burton"],
+      "disambiguation": "I",
+      "id": "/name/nm0123553/",
+      "image": {
+        "height": 280,
+        "id": "/name/nm0123553/images/rm2577640448",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY1MTkzNTA2NV5BMl5BanBnXkFtZTcwMzUyODc3OA@@._V1_.jpg",
+        "width": 216
+      },
+      "legacyNameText": "Burton, Corey (I)",
+      "name": "Corey Burton",
+      "category": "actor",
+      "characters": [
+        "Ludwig Von Drake",
+        "Dale",
+        "Professor Ludwig Von Drake",
+        "Prof. Ludwig von Drake",
+        "Prof. Ludwig Von Drake",
+        "Ludwing Von Drake",
+        "Prof. Ludwig von Drakenstein",
+        "Prof. Ludwing von Drake",
+        "Professor Ludwig von Drake"
+      ],
+      "endYear": 2016,
+      "episodeCount": 74,
+      "roles": [
+        {
+          "character": "Ludwig Von Drake",
+          "characterId": "/character/ch0000632/"
+        },
+        {
+          "character": "Dale",
+          "characterId": "/character/ch0029145/"
+        },
+        {
+          "character": "Professor Ludwig Von Drake",
+          "characterId": "/character/ch0000632/"
+        },
+        {
+          "character": "Prof. Ludwig von Drake",
+          "characterId": "/character/ch0000632/"
+        },
+        {
+          "character": "Prof. Ludwig Von Drake",
+          "characterId": "/character/ch0000632/"
+        },
+        {
+          "character": "Ludwing Von Drake"
+        },
+        {
+          "character": "Prof. Ludwig von Drakenstein",
+          "characterId": "/character/ch0000632/"
+        },
+        {
+          "character": "Prof. Ludwing von Drake",
+          "characterId": "/character/ch0000632/"
+        },
+        {
+          "character": "Professor Ludwig von Drake",
+          "characterId": "/character/ch0000632/"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "id": "/name/nm0934589/",
+      "image": {
+        "height": 301,
+        "id": "/name/nm0934589/images/rm1888590336",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM0MzgwNjQ5MV5BMl5BanBnXkFtZTYwNDk0NTEz._V1_.jpg",
+        "width": 315
+      },
+      "legacyNameText": "Winchell, April",
+      "name": "April Winchell",
+      "category": "actress",
+      "characters": ["Clarabelle Cow", "Clarabelle", "Madam Clarabelle"],
+      "endYear": 2016,
+      "episodeCount": 57,
+      "roles": [
+        {
+          "character": "Clarabelle Cow",
+          "characterId": "/character/ch0000677/"
+        },
+        {
+          "character": "Clarabelle",
+          "characterId": "/character/ch0000677/"
+        },
+        {
+          "character": "Madam Clarabelle"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "id": "/name/nm3645102/",
+      "legacyNameText": "Iwan, Bret",
+      "name": "Bret Iwan",
+      "category": "actor",
+      "characters": ["Mickey Mouse", "Count Micula", "Martian Mickey"],
+      "endYear": 2016,
+      "episodeCount": 27,
+      "roles": [
+        {
+          "character": "Mickey Mouse",
+          "characterId": "/character/ch0000630/"
+        },
+        {
+          "character": "Count Micula"
+        },
+        {
+          "character": "Martian Mickey"
+        }
+      ],
+      "startYear": 2010
+    },
+    {
+      "akas": [
+        "Robert F. Paulsen III",
+        "Robert F. Paulsen",
+        "Robert Paulsen",
+        "Rob Paulsens",
+        "Robb Paulson",
+        "Rob Paulson",
+        "Raphael"
+      ],
+      "disambiguation": "I",
+      "id": "/name/nm0667326/",
+      "image": {
+        "height": 2048,
+        "id": "/name/nm0667326/images/rm4099713536",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTAzODc1MTk4MzheQTJeQWpwZ15BbWU3MDY4NjU1MDg@._V1_.jpg",
+        "width": 1380
+      },
+      "legacyNameText": "Paulsen, Rob (I)",
+      "name": "Rob Paulsen",
+      "category": "actor",
+      "characters": ["Toodles"],
+      "endYear": 2016,
+      "episodeCount": 23,
+      "roles": [
+        {
+          "character": "Toodles",
+          "characterId": "/character/ch0323836/"
+        }
+      ],
+      "startYear": 2010
+    },
+    {
+      "akas": [
+        "Jack Beanstalk",
+        "Dr. Frankenwelker",
+        "Frank W. Welker",
+        "Franklin Welker",
+        "Tom Welker"
+      ],
+      "disambiguation": "I",
+      "id": "/name/nm0919798/",
+      "image": {
+        "height": 640,
+        "id": "/name/nm0919798/images/rm29019392",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM2MzU2ODYxMV5BMl5BanBnXkFtZTgwMzQ3MjcwMjE@._V1_.jpg",
+        "width": 480
+      },
+      "legacyNameText": "Welker, Frank (I)",
+      "name": "Frank Welker",
+      "category": "actor",
+      "characters": [
+        "Bella",
+        "Figaro",
+        "Butch",
+        "Butch the Bulldog",
+        "Grasshopper Wilbur",
+        "Mr. Pettibone",
+        "Mr. Pettybone",
+        "Salty the Seal",
+        "Additional Voices",
+        "Big Gooey Red Fish",
+        "Fiona the Frog"
+      ],
+      "endYear": 2014,
+      "episodeCount": 22,
+      "roles": [
+        {
+          "character": "Bella",
+          "characterId": "/character/ch0323835/"
+        },
+        {
+          "character": "Figaro",
+          "characterId": "/character/ch0044514/"
+        },
+        {
+          "character": "Butch",
+          "characterId": "/character/ch0135898/"
+        },
+        {
+          "character": "Butch the Bulldog",
+          "characterId": "/character/ch0083116/"
+        },
+        {
+          "character": "Grasshopper Wilbur",
+          "characterId": "/character/ch0308938/"
+        },
+        {
+          "character": "Mr. Pettibone",
+          "characterId": "/character/ch0161867/"
+        },
+        {
+          "character": "Mr. Pettybone",
+          "characterId": "/character/ch0161867/"
+        },
+        {
+          "character": "Salty the Seal",
+          "characterId": "/character/ch0146788/"
+        },
+        {
+          "character": "Additional Voices"
+        },
+        {
+          "character": "Big Gooey Red Fish"
+        },
+        {
+          "character": "Fiona the Frog"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "akas": [
+        "Bradley D. Baker",
+        "Bradley Dee Baker",
+        "D. Bradley Baker",
+        "D. Baker",
+        "Dee B. Baker",
+        "Dee Bradly Baker",
+        "Dee Baker",
+        "Dee Barker",
+        "Di Bredli Beyker",
+        "Olmec"
+      ],
+      "id": "/name/nm0048389/",
+      "image": {
+        "height": 1536,
+        "id": "/name/nm0048389/images/rm655604480",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk4MzkzMzk0MF5BMl5BanBnXkFtZTcwNDIwMjM4NA@@._V1_.jpg",
+        "width": 1024
+      },
+      "legacyNameText": "Baker, Dee Bradley",
+      "name": "Dee Bradley Baker",
+      "category": "actor",
+      "characters": [
+        "Boo Boo Chicken",
+        "Boo-Boo Chicken",
+        "Santa Claus",
+        "Baby Yeti",
+        "Donald, Jr.",
+        "Penelope the Pony",
+        "Seahorses",
+        "Snowman",
+        "Various"
+      ],
+      "endYear": 2015,
+      "episodeCount": 19,
+      "roles": [
+        {
+          "character": "Boo Boo Chicken",
+          "characterId": "/character/ch0091842/"
+        },
+        {
+          "character": "Boo-Boo Chicken",
+          "characterId": "/character/ch0091842/"
+        },
+        {
+          "character": "Santa Claus",
+          "characterId": "/character/ch0004985/"
+        },
+        {
+          "character": "Baby Yeti"
+        },
+        {
+          "character": "Donald, Jr."
+        },
+        {
+          "character": "Penelope the Pony"
+        },
+        {
+          "character": "Seahorses"
+        },
+        {
+          "character": "Snowman"
+        },
+        {
+          "character": "Various"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "akas": ["Bill Roberts", "W.Z. Ryan", "William Z. Ryan", "Wil Ryan"],
+      "disambiguation": "I",
+      "id": "/name/nm0752900/",
+      "image": {
+        "height": 864,
+        "id": "/name/nm0752900/images/rm3138104064",
+        "url": "https://m.media-amazon.com/images/M/MV5BNzIzNDcxOTU4OV5BMl5BanBnXkFtZTcwMDk5NzkxOA@@._V1_.jpg",
+        "width": 576
+      },
+      "legacyNameText": "Ryan, Will (I)",
+      "name": "Will Ryan",
+      "category": "actor",
+      "characters": ["Willie the Giant"],
+      "endYear": 2014,
+      "episodeCount": 16,
+      "roles": [
+        {
+          "character": "Willie the Giant",
+          "characterId": "/character/ch0045028/"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "id": "/name/nm2845226/",
+      "legacyNameText": "Diamond, Dena",
+      "name": "Dena Diamond",
+      "category": "actress",
+      "characters": ["Picture Puzzle, Combination Lock, Girl"],
+      "endYear": 2010,
+      "episodeCount": 3,
+      "roles": [
+        {
+          "character": "Picture Puzzle, Combination Lock, Girl"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "id": "/name/nm1469295/",
+      "legacyNameText": "Tate, Emma",
+      "name": "Emma Tate",
+      "category": "actress",
+      "characters": ["Quoodles", "Baby Red Bird"],
+      "endYear": 2014,
+      "episodeCount": 3,
+      "roles": [
+        {
+          "character": "Quoodles"
+        },
+        {
+          "character": "Baby Red Bird",
+          "characterId": "/character/ch0308939/"
+        }
+      ],
+      "startYear": 2011
+    },
+    {
+      "akas": [
+        "Elizabeth Waterworth Santo",
+        "Lizzie Waterworth Santo",
+        "Elizabeth Waterworth",
+        "Lizzie Waterworth-Sante",
+        "Elizabeth Waterworth-Santo",
+        "Lizzie Waterworth-Santo",
+        "Lizzie Waterworth-Santos",
+        "Lizzie Waterworth-Sato"
+      ],
+      "id": "/name/nm2784764/",
+      "legacyNameText": "Waterworth, Lizzie",
+      "name": "Lizzie Waterworth",
+      "category": "actress",
+      "characters": ["Toodles"],
+      "endYear": 2014,
+      "episodeCount": 3,
+      "roles": [
+        {
+          "character": "Toodles",
+          "characterId": "/character/ch0323836/"
+        }
+      ],
+      "startYear": 2011
+    },
+    {
+      "akas": [
+        "Maurce La Marche",
+        "Maurice La Marche",
+        "Maurice La'Marche",
+        "Maurice \"The Funk of 40000 Voices\" LaMarche",
+        "Maurice LaMarchee",
+        "Maurice LaMarrrrghhh!!",
+        "Maurice LaMarsh",
+        "Maurice Lamarche",
+        "Mo"
+      ],
+      "id": "/name/nm0005606/",
+      "image": {
+        "height": 838,
+        "id": "/name/nm0005606/images/rm2284032000",
+        "url": "https://m.media-amazon.com/images/M/MV5BMmI2N2FlYzEtMzEyMi00NWQ1LTk0MjYtNzI2MGRjMmYxZDM2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+        "width": 667
+      },
+      "legacyNameText": "LaMarche, Maurice",
+      "name": "Maurice LaMarche",
+      "category": "actor",
+      "characters": ["Mortimer Mouse"],
+      "endYear": 2013,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Mortimer Mouse",
+          "characterId": "/character/ch0053684/"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "akas": ["Arturo Bonilla"],
+      "id": "/name/nm0094603/",
+      "image": {
+        "height": 7746,
+        "id": "/name/nm0094603/images/rm799101440",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTkxYjExZjYtNDkwZC00ZGM2LWIxMmMtNTg5NTQ4MzFiNmI1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+        "width": 5225
+      },
+      "legacyNameText": "Bonilla, Art",
+      "name": "Art Bonilla",
+      "category": "actor",
+      "characters": ["Dance MC"],
+      "endYear": 2015,
+      "episodeCount": 2,
+      "roles": [
+        {
+          "character": "Dance MC"
+        }
+      ],
+      "startYear": 2011
+    },
+    {
+      "akas": ["Jen Mendes"],
+      "id": "/name/nm1584511/",
+      "image": {
+        "height": 1415,
+        "id": "/name/nm1584511/images/rm1547691265",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDBjNzUzMjgtZWZkNS00ZjFhLTk4ZmItN2RiMjExMzFmMDVkXkEyXkFqcGdeQXVyNjA0ODQxMjU@._V1_.jpg",
+        "width": 920
+      },
+      "legacyNameText": "Cetrone, Jennifer",
+      "name": "Jennifer Cetrone",
+      "category": "actress",
+      "characters": ["Kooky Lady"],
+      "endYear": 2015,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Kooky Lady"
+        }
+      ],
+      "startYear": 2015
+    },
+    {
+      "akas": ["Iris Rainer Dart", "Iris Ratner"],
+      "id": "/name/nm0201727/",
+      "legacyNameText": "Rainer, Iris",
+      "name": "Iris Rainer",
+      "category": "actress",
+      "endYear": 2011,
+      "episodeCount": 1,
+      "startYear": 2011
+    },
+    {
+      "id": "/name/nm5997756/",
+      "legacyNameText": "Cukulin, Erica",
+      "name": "Erica Cukulin",
+      "category": "actress",
+      "endYear": 2008,
+      "episodeCount": 1,
+      "startYear": 2008
+    },
+    {
+      "id": "/name/nm2182679/",
+      "legacyNameText": "Shaskan, Reyna",
+      "name": "Reyna Shaskan",
+      "category": "actress",
+      "endYear": 2008,
+      "episodeCount": 1,
+      "startYear": 2008
+    },
+    {
+      "id": "/name/nm4671866/",
+      "legacyNameText": "Baruch, Laura",
+      "name": "Laura Baruch",
+      "category": "actress",
+      "endYear": 2008,
+      "episodeCount": 1,
+      "startYear": 2008
+    },
+    {
+      "akas": ["Bob Stott", "Robert Stutt", "Rob Stutt"],
+      "id": "/name/nm0832785/",
+      "image": {
+        "height": 375,
+        "id": "/name/nm0832785/images/rm2576491776",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjNmZmYxYTYtMWZiZi00MzFjLTlmNGMtODViMWRlMzk2YzJkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+        "width": 500
+      },
+      "legacyNameText": "Stutt, Bob",
+      "name": "Bob Stutt",
+      "category": "actor",
+      "characters": ["Baby Sheep"],
+      "endYear": 2006,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Baby Sheep"
+        }
+      ],
+      "startYear": 2006
+    },
+    {
+      "akas": [
+        "Zephyr Banks",
+        "Nika Futterman Frost",
+        "Nika Frost",
+        "Nike Frost",
+        "Nikka Futterman",
+        "Nica",
+        "Nika",
+        "Mimi Rampart"
+      ],
+      "id": "/name/nm0296546/",
+      "image": {
+        "height": 719,
+        "id": "/name/nm0296546/images/rm3973429248",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk0MzA4ODQ1OV5BMl5BanBnXkFtZTcwMzEyNDY4NA@@._V1_.jpg",
+        "width": 697
+      },
+      "legacyNameText": "Futterman, Nika",
+      "name": "Nika Futterman",
+      "category": "actress",
+      "characters": ["Cuckoo Loca"],
+      "endYear": 2011,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Cuckoo Loca",
+          "characterId": "/character/ch0572540/"
+        }
+      ],
+      "startYear": 2011
+    },
+    {
+      "id": "/name/nm0001813/",
+      "image": {
+        "height": 2048,
+        "id": "/name/nm0001813/images/rm2241135872",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMxODU1ODExNl5BMl5BanBnXkFtZTgwOTk2MDA4MDI@._V1_.jpg",
+        "width": 1657
+      },
+      "legacyNameText": "Van Dyke, Dick",
+      "name": "Dick Van Dyke",
+      "category": "actor",
+      "characters": ["Captain Goof Beard", "Grandpappy Goof"],
+      "endYear": 2014,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Captain Goof Beard"
+        },
+        {
+          "character": "Grandpappy Goof"
+        }
+      ],
+      "startYear": 2014
+    },
+    {
+      "akas": ["Gracie Kaufman"],
+      "disambiguation": "I",
+      "id": "/name/nm4272103/",
+      "image": {
+        "height": 6720,
+        "id": "/name/nm4272103/images/rm1762938625",
+        "url": "https://m.media-amazon.com/images/M/MV5BZWVjZGM0OGItNDA5NS00YzIxLThlMmYtNmNiNWFkYTJiMmM3XkEyXkFqcGdeQXVyMjQ3OTA3NTc@._V1_.jpg",
+        "width": 4480
+      },
+      "legacyNameText": "Kaufman, Grace (I)",
+      "name": "Grace Kaufman",
+      "category": "actress",
+      "characters": ["Melody Mouse"],
+      "endYear": 2014,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Melody Mouse",
+          "characterId": "/character/ch0591896/"
+        }
+      ],
+      "startYear": 2014
+    },
+    {
+      "id": "/name/nm3150970/",
+      "legacyNameText": "Robbins, Avalon",
+      "name": "Avalon Robbins",
+      "category": "actress",
+      "characters": ["Millie Mouse"],
+      "endYear": 2014,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Millie Mouse",
+          "characterId": "/character/ch0591897/"
+        }
+      ],
+      "startYear": 2014
+    },
+    {
+      "akas": [
+        "Kuroe Gurêsu Morettsu",
+        "Chloe Grace Moretz",
+        "Chloe Moretz",
+        "Chloë Moretz"
+      ],
+      "id": "/name/nm1631269/",
+      "image": {
+        "height": 1262,
+        "id": "/name/nm1631269/images/rm3002216705",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjBlZTljOTctZmJjZS00YzE0LWE5NTUtMzA2MTE1MGQwMDFhXkEyXkFqcGdeQXVyMTYxNjg0Njgy._V1_.jpg",
+        "width": 1010
+      },
+      "legacyNameText": "Moretz, Chloë Grace",
+      "name": "Chloë Grace Moretz",
+      "category": "actress",
+      "characters": ["Boodles"],
+      "endYear": 2015,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Boodles"
+        }
+      ],
+      "startYear": 2015
+    },
+    {
+      "akas": [
+        "David McDonald",
+        "David John Tennant",
+        "That F#!king Liar David Tennant"
+      ],
+      "disambiguation": "I",
+      "id": "/name/nm0855039/",
+      "image": {
+        "height": 653,
+        "id": "/name/nm0855039/images/rm3461598720",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTEzOTA4NTAzOTReQTJeQWpwZ15BbWU4MDg1ODc4NzEx._V1_.jpg",
+        "width": 452
+      },
+      "legacyNameText": "Tennant, David (I)",
+      "name": "David Tennant",
+      "category": "actor",
+      "characters": ["Igor the Door"],
+      "endYear": 2015,
+      "episodeCount": 1,
+      "roles": [
+        {
+          "character": "Igor the Door"
+        }
+      ],
+      "startYear": 2015
+    }
+  ],
+  "crew": {
+    "editor": [
+      {
+        "akas": ["Andy Sorcini"],
+        "id": "/name/nm0814767/",
+        "legacyNameText": "Sorcini, Andrew",
+        "name": "Andrew Sorcini",
+        "category": "editor",
+        "endYear": 2007,
+        "episodeCount": 19,
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0249617/",
+        "legacyNameText": "Edmunson, Susan",
+        "name": "Susan Edmunson",
+        "category": "editor",
+        "endYear": 2014,
+        "episodeCount": 12,
+        "startYear": 2012
+      },
+      {
+        "id": "/name/nm1992890/",
+        "legacyNameText": "Kramer, Reid",
+        "name": "Reid Kramer",
+        "category": "editor",
+        "endYear": 2011,
+        "episodeCount": 7,
+        "startYear": 2006
+      }
+    ],
+    "casting_director": [
+      {
+        "akas": ["Brian L. Mathias"],
+        "disambiguation": "I",
+        "id": "/name/nm1043559/",
+        "image": {
+          "height": 1280,
+          "id": "/name/nm1043559/images/rm4018081793",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTRiNTFlMjgtNzI0MS00NjlmLWI3NTgtNzAwNzZlZjAyNzQ2XkEyXkFqcGdeQXVyMjc5MzgxOA@@._V1_.jpg",
+          "width": 961
+        },
+        "legacyNameText": "Mathias, Brian (I)",
+        "name": "Brian Mathias",
+        "category": "casting_director",
+        "endYear": 2016,
+        "episodeCount": 42,
+        "startYear": 2011
+      },
+      {
+        "akas": ["Nick Kelly"],
+        "disambiguation": "I",
+        "id": "/name/nm0911660/",
+        "image": {
+          "height": 2048,
+          "id": "/name/nm0911660/images/rm2230560768",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc3Njk3MjczOV5BMl5BanBnXkFtZTcwOTk0MDIyOA@@._V1_.jpg",
+          "width": 1331
+        },
+        "legacyNameText": "Ward, Kelly (I)",
+        "name": "Kelly Ward",
+        "category": "casting_director",
+        "endYear": 2008,
+        "episodeCount": 27,
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "David H. Wright III",
+          "David Harry Wright III",
+          "David M. Wright III",
+          "David Wright III",
+          "David H. Wright"
+        ],
+        "disambiguation": "II",
+        "id": "/name/nm0942324/",
+        "image": {
+          "height": 305,
+          "id": "/name/nm0942324/images/rm2179260928",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTk3NTg2MzQyM15BMl5BanBnXkFtZTgwMTU4MTgwNzE@._V1_.jpg",
+          "width": 205
+        },
+        "legacyNameText": "Wright, David (II)",
+        "name": "David Wright",
+        "category": "casting_director",
+        "endYear": 2011,
+        "episodeCount": 26,
+        "startYear": 2010
+      },
+      {
+        "akas": ["Bobs Ganaway", "Roberts Gannaway"],
+        "id": "/name/nm0304432/",
+        "legacyNameText": "Gannaway, Bobs",
+        "name": "Bobs Gannaway",
+        "category": "casting_director",
+        "endYear": 2006,
+        "episodeCount": 2,
+        "startYear": 2006
+      }
+    ],
+    "art_department": [
+      {
+        "id": "/name/nm4568139/",
+        "legacyNameText": "Veeramaneni, Pavan",
+        "name": "Pavan Veeramaneni",
+        "category": "art_department",
+        "endYear": 2010,
+        "episodeCount": 71,
+        "job": "lighting artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jo Jo Aguilar", "JoJo Aguilar", "Joseph Aguilar"],
+        "id": "/name/nm2744479/",
+        "legacyNameText": "Aguilar, Jojo",
+        "name": "Jojo Aguilar",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 35,
+        "job": "props",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jo Jo Aguilar", "JoJo Aguilar", "Joseph Aguilar"],
+        "id": "/name/nm2744479/",
+        "legacyNameText": "Aguilar, Jojo",
+        "name": "Jojo Aguilar",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 35,
+        "job": "prop designer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jo Jo Aguilar", "JoJo Aguilar", "Joseph Aguilar"],
+        "id": "/name/nm2744479/",
+        "legacyNameText": "Aguilar, Jojo",
+        "name": "Jojo Aguilar",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 35,
+        "job": "location designer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jo Jo Aguilar", "JoJo Aguilar", "Joseph Aguilar"],
+        "id": "/name/nm2744479/",
+        "legacyNameText": "Aguilar, Jojo",
+        "name": "Jojo Aguilar",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 35,
+        "job": "prop design",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Rossen Varbonov"],
+        "id": "/name/nm1008374/",
+        "legacyNameText": "Varbanov, Rossen",
+        "name": "Rossen Varbanov",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 33,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Rossen Varbonov"],
+        "id": "/name/nm1008374/",
+        "legacyNameText": "Varbanov, Rossen",
+        "name": "Rossen Varbanov",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 33,
+        "job": "storybook artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Rossen Varbonov"],
+        "id": "/name/nm1008374/",
+        "legacyNameText": "Varbanov, Rossen",
+        "name": "Rossen Varbanov",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 33,
+        "job": "storyboard",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Rossen Varbonov"],
+        "id": "/name/nm1008374/",
+        "legacyNameText": "Varbanov, Rossen",
+        "name": "Rossen Varbanov",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 33,
+        "job": "storybook by",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Broni", "Bronislav Likomanov", "Broniszlav Likomanov"],
+        "id": "/name/nm1228091/",
+        "legacyNameText": "Likomanov, Broni",
+        "name": "Broni Likomanov",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 30,
+        "job": "storyboard supervisor",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Broni", "Bronislav Likomanov", "Broniszlav Likomanov"],
+        "id": "/name/nm1228091/",
+        "legacyNameText": "Likomanov, Broni",
+        "name": "Broni Likomanov",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 30,
+        "job": "storyboard artist",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Broni", "Bronislav Likomanov", "Broniszlav Likomanov"],
+        "id": "/name/nm1228091/",
+        "legacyNameText": "Likomanov, Broni",
+        "name": "Broni Likomanov",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 30,
+        "job": "storyboard",
+        "startYear": 2008
+      },
+      {
+        "akas": [
+          "Ray Maurin",
+          "Roy Meuren",
+          "Roy C. Meurin",
+          "Roy Muren",
+          "Roy Murin"
+        ],
+        "id": "/name/nm0582879/",
+        "legacyNameText": "Meurin, Roy",
+        "name": "Roy Meurin",
+        "category": "art_department",
+        "endYear": 2012,
+        "episodeCount": 26,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Ray Maurin",
+          "Roy Meuren",
+          "Roy C. Meurin",
+          "Roy Muren",
+          "Roy Murin"
+        ],
+        "id": "/name/nm0582879/",
+        "legacyNameText": "Meurin, Roy",
+        "name": "Roy Meurin",
+        "category": "art_department",
+        "endYear": 2012,
+        "episodeCount": 26,
+        "job": "storyboard",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Ray Maurin",
+          "Roy Meuren",
+          "Roy C. Meurin",
+          "Roy Muren",
+          "Roy Murin"
+        ],
+        "id": "/name/nm0582879/",
+        "legacyNameText": "Meurin, Roy",
+        "name": "Roy Meurin",
+        "category": "art_department",
+        "endYear": 2012,
+        "episodeCount": 26,
+        "job": "storyboard revisionist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1834814/",
+        "legacyNameText": "Frye, Chad",
+        "name": "Chad Frye",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 20,
+        "job": "storybook artist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1834814/",
+        "legacyNameText": "Frye, Chad",
+        "name": "Chad Frye",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 20,
+        "job": "storyboard revisionist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1834814/",
+        "legacyNameText": "Frye, Chad",
+        "name": "Chad Frye",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 20,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1834814/",
+        "legacyNameText": "Frye, Chad",
+        "name": "Chad Frye",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 20,
+        "job": "storybook by",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1834814/",
+        "legacyNameText": "Frye, Chad",
+        "name": "Chad Frye",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 20,
+        "job": "storyboard",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Larry Leeker", "Lawrence J. Leker", "Lawrence Leker"],
+        "id": "/name/nm0500858/",
+        "legacyNameText": "Leker, Larry",
+        "name": "Larry Leker",
+        "category": "art_department",
+        "endYear": 2015,
+        "episodeCount": 19,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Larry Leeker", "Lawrence J. Leker", "Lawrence Leker"],
+        "id": "/name/nm0500858/",
+        "legacyNameText": "Leker, Larry",
+        "name": "Larry Leker",
+        "category": "art_department",
+        "endYear": 2015,
+        "episodeCount": 19,
+        "job": "storyboard",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Robert M. Foster", "Robert Foster"],
+        "disambiguation": "VI",
+        "id": "/name/nm1643329/",
+        "legacyNameText": "Foster, Bob (VI)",
+        "name": "Bob Foster",
+        "category": "art_department",
+        "endYear": 2012,
+        "episodeCount": 19,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Robert M. Foster", "Robert Foster"],
+        "disambiguation": "VI",
+        "id": "/name/nm1643329/",
+        "legacyNameText": "Foster, Bob (VI)",
+        "name": "Bob Foster",
+        "category": "art_department",
+        "endYear": 2012,
+        "episodeCount": 19,
+        "job": "storyboard",
+        "startYear": 2006
+      },
+      {
+        "akas": ["David Bennett"],
+        "disambiguation": "X",
+        "id": "/name/nm1933611/",
+        "legacyNameText": "Bennett, Dave (X)",
+        "name": "Dave Bennett",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 18,
+        "job": "storyboard artist",
+        "startYear": 2010
+      },
+      {
+        "id": "/name/nm0757544/",
+        "legacyNameText": "Salandra, Eugene",
+        "name": "Eugene Salandra",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 17,
+        "job": "storyboard artist",
+        "startYear": 2008
+      },
+      {
+        "id": "/name/nm1200117/",
+        "legacyNameText": "Soriano, Jonard",
+        "name": "Jonard Soriano",
+        "category": "art_department",
+        "endYear": 2011,
+        "episodeCount": 16,
+        "job": "location designer",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1200117/",
+        "legacyNameText": "Soriano, Jonard",
+        "name": "Jonard Soriano",
+        "category": "art_department",
+        "endYear": 2011,
+        "episodeCount": 16,
+        "job": "prop designer",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1200117/",
+        "legacyNameText": "Soriano, Jonard",
+        "name": "Jonard Soriano",
+        "category": "art_department",
+        "endYear": 2011,
+        "episodeCount": 16,
+        "job": "prop design",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Lenard Robinson",
+          "Lenord S. Robinson",
+          "Leonard Robinson",
+          "Leonord Robinson"
+        ],
+        "id": "/name/nm0732846/",
+        "legacyNameText": "Robinson, Lenord",
+        "name": "Lenord Robinson",
+        "category": "art_department",
+        "endYear": 2009,
+        "episodeCount": 16,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Lenard Robinson",
+          "Lenord S. Robinson",
+          "Leonard Robinson",
+          "Leonord Robinson"
+        ],
+        "id": "/name/nm0732846/",
+        "legacyNameText": "Robinson, Lenord",
+        "name": "Lenord Robinson",
+        "category": "art_department",
+        "endYear": 2009,
+        "episodeCount": 16,
+        "job": "storyboard",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1954878/",
+        "legacyNameText": "Beall, David (I)",
+        "name": "David Beall",
+        "category": "art_department",
+        "endYear": 2010,
+        "episodeCount": 15,
+        "job": "location designer",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1954878/",
+        "legacyNameText": "Beall, David (I)",
+        "name": "David Beall",
+        "category": "art_department",
+        "endYear": 2010,
+        "episodeCount": 15,
+        "job": "location design",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1954878/",
+        "legacyNameText": "Beall, David (I)",
+        "name": "David Beall",
+        "category": "art_department",
+        "endYear": 2010,
+        "episodeCount": 15,
+        "job": "prop designer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jeffrey Wong"],
+        "disambiguation": "II",
+        "id": "/name/nm0939137/",
+        "legacyNameText": "Wong, Jeff (II)",
+        "name": "Jeff Wong",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 15,
+        "job": "prop designer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jeffrey Wong"],
+        "disambiguation": "II",
+        "id": "/name/nm0939137/",
+        "legacyNameText": "Wong, Jeff (II)",
+        "name": "Jeff Wong",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 15,
+        "job": "prop design",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Kirk Hansen"],
+        "disambiguation": "I",
+        "id": "/name/nm0361315/",
+        "legacyNameText": "Hanson, Kirk (I)",
+        "name": "Kirk Hanson",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 15,
+        "job": "storyboard artist",
+        "startYear": 2008
+      },
+      {
+        "id": "/name/nm2119119/",
+        "legacyNameText": "Baytos, Lisa",
+        "name": "Lisa Baytos",
+        "category": "art_department",
+        "endYear": 2010,
+        "episodeCount": 14,
+        "job": "storyboard revisionist",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm0186038/",
+        "legacyNameText": "Craig, Tony (II)",
+        "name": "Tony Craig",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 14,
+        "job": "storyboard artist",
+        "startYear": 2008
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm0186038/",
+        "legacyNameText": "Craig, Tony (II)",
+        "name": "Tony Craig",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 14,
+        "job": "main title storyboard",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Barbara Dourmashkin-Case", "Dana Lansberg"],
+        "id": "/name/nm0485125/",
+        "legacyNameText": "Landsberg, Dana",
+        "name": "Dana Landsberg",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 11,
+        "job": "character designer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Sy G. Thomas", "Sy G Thomas"],
+        "disambiguation": "I",
+        "id": "/name/nm1633505/",
+        "legacyNameText": "Thomas, Sy (I)",
+        "name": "Sy Thomas",
+        "category": "art_department",
+        "endYear": 2007,
+        "episodeCount": 11,
+        "job": "background painter",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1656799/",
+        "legacyNameText": "Dondis, Roger",
+        "name": "Roger Dondis",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 11,
+        "job": "storyboard artist",
+        "startYear": 2011
+      },
+      {
+        "id": "/name/nm1656799/",
+        "legacyNameText": "Dondis, Roger",
+        "name": "Roger Dondis",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 11,
+        "job": "storyboard supervisor",
+        "startYear": 2011
+      },
+      {
+        "id": "/name/nm1656799/",
+        "legacyNameText": "Dondis, Roger",
+        "name": "Roger Dondis",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 11,
+        "job": "storyboard",
+        "startYear": 2011
+      },
+      {
+        "akas": ["Terence Hudson", "Terry Hunson"],
+        "disambiguation": "I",
+        "id": "/name/nm0399975/",
+        "legacyNameText": "Hudson, Terry (I)",
+        "name": "Terry Hudson",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 11,
+        "job": "prop design",
+        "startYear": 2012
+      },
+      {
+        "akas": ["Terence Hudson", "Terry Hunson"],
+        "disambiguation": "I",
+        "id": "/name/nm0399975/",
+        "legacyNameText": "Hudson, Terry (I)",
+        "name": "Terry Hudson",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 11,
+        "job": "prop designer",
+        "startYear": 2012
+      },
+      {
+        "id": "/name/nm0918465/",
+        "legacyNameText": "Weinstein, Phil",
+        "name": "Phil Weinstein",
+        "category": "art_department",
+        "endYear": 2012,
+        "episodeCount": 10,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0918465/",
+        "legacyNameText": "Weinstein, Phil",
+        "name": "Phil Weinstein",
+        "category": "art_department",
+        "endYear": 2012,
+        "episodeCount": 10,
+        "job": "storyboard",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1691413/",
+        "legacyNameText": "Dorf, Jason",
+        "name": "Jason Dorf",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 8,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1691413/",
+        "legacyNameText": "Dorf, Jason",
+        "name": "Jason Dorf",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 8,
+        "job": "storyboard",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Thomas W. Morgan", "Thomas Morgan"],
+        "disambiguation": "III",
+        "id": "/name/nm1864000/",
+        "legacyNameText": "Morgan, Tom (III)",
+        "name": "Tom Morgan",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 8,
+        "job": "storyboard artist",
+        "startYear": 2012
+      },
+      {
+        "id": "/name/nm1853576/",
+        "legacyNameText": "Berkey, Bruce",
+        "name": "Bruce Berkey",
+        "category": "art_department",
+        "endYear": 2007,
+        "episodeCount": 7,
+        "job": "location designer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["David A. William", "David A. Williams", "David Williams"],
+        "disambiguation": "V",
+        "id": "/name/nm1131745/",
+        "legacyNameText": "Williams, Dave (V)",
+        "name": "Dave Williams",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 7,
+        "job": "storyboard artist",
+        "startYear": 2010
+      },
+      {
+        "akas": ["Donovan R. Cook III", "Donovan R. Cook", "Van Cook"],
+        "id": "/name/nm0177015/",
+        "image": {
+          "height": 341,
+          "id": "/name/nm0177015/images/rm629578240",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTQyODEyMDk1NF5BMl5BanBnXkFtZTYwOTYyOTAz._V1_.jpg",
+          "width": 450
+        },
+        "legacyNameText": "Cook, Donovan",
+        "name": "Donovan Cook",
+        "category": "art_department",
+        "endYear": 2011,
+        "episodeCount": 6,
+        "job": "storyboard: song sequence",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Kirk Van Wermer", "Kirk VanWormer", "Kirk van Wormer"],
+        "id": "/name/nm0888320/",
+        "image": {
+          "height": 3088,
+          "id": "/name/nm0888320/images/rm3208592385",
+          "url": "https://m.media-amazon.com/images/M/MV5BY2E1MWM2MGMtOGI0ZC00MGY3LWFlZDEtNDE2YWJiZmQ2ZWUxXkEyXkFqcGdeQXVyMjQ0MTM1NjE@._V1_.jpg",
+          "width": 2316
+        },
+        "legacyNameText": "Van Wormer, Kirk",
+        "name": "Kirk Van Wormer",
+        "category": "art_department",
+        "endYear": 2011,
+        "episodeCount": 6,
+        "job": "storyboard artist",
+        "startYear": 2008
+      },
+      {
+        "id": "/name/nm0521425/",
+        "image": {
+          "height": 7017,
+          "id": "/name/nm0521425/images/rm4195224321",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjZlZWUxOGUtZWM2MC00NWYyLTk5MWEtY2Q5ZDQ2ZTVkM2Y4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+          "width": 4683
+        },
+        "legacyNameText": "Loter, Steve",
+        "name": "Steve Loter",
+        "category": "art_department",
+        "endYear": 2012,
+        "episodeCount": 6,
+        "job": "storyboard artist",
+        "startYear": 2010
+      },
+      {
+        "id": "/name/nm0521425/",
+        "image": {
+          "height": 7017,
+          "id": "/name/nm0521425/images/rm4195224321",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjZlZWUxOGUtZWM2MC00NWYyLTk5MWEtY2Q5ZDQ2ZTVkM2Y4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+          "width": 4683
+        },
+        "legacyNameText": "Loter, Steve",
+        "name": "Steve Loter",
+        "category": "art_department",
+        "endYear": 2012,
+        "episodeCount": 6,
+        "job": "storyboard",
+        "startYear": 2010
+      },
+      {
+        "akas": ["Tyler W. Gentry", "Tyler Williams Gentry", "Tyler Gentry"],
+        "id": "/name/nm0313195/",
+        "legacyNameText": "Gentry, Tyler William",
+        "name": "Tyler William Gentry",
+        "category": "art_department",
+        "endYear": 2014,
+        "episodeCount": 6,
+        "job": "prop designer",
+        "startYear": 2013
+      },
+      {
+        "akas": ["Tyler W. Gentry", "Tyler Williams Gentry", "Tyler Gentry"],
+        "id": "/name/nm0313195/",
+        "legacyNameText": "Gentry, Tyler William",
+        "name": "Tyler William Gentry",
+        "category": "art_department",
+        "endYear": 2014,
+        "episodeCount": 6,
+        "job": "Lead Prop Designer",
+        "startYear": 2013
+      },
+      {
+        "akas": ["Carole Holiday", "Carol Holliday"],
+        "id": "/name/nm0390511/",
+        "legacyNameText": "Holliday, Carole",
+        "name": "Carole Holliday",
+        "category": "art_department",
+        "endYear": 2015,
+        "episodeCount": 5,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Carole Holiday", "Carol Holliday"],
+        "id": "/name/nm0390511/",
+        "legacyNameText": "Holliday, Carole",
+        "name": "Carole Holliday",
+        "category": "art_department",
+        "endYear": 2015,
+        "episodeCount": 5,
+        "job": "storyboard",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Sharon Polnik", "Sharon Rolnick", "Sharon Rolnik"],
+        "id": "/name/nm0287492/",
+        "legacyNameText": "Forward, Sharon",
+        "name": "Sharon Forward",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 5,
+        "job": "storyboard",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Sharon Polnik", "Sharon Rolnick", "Sharon Rolnik"],
+        "id": "/name/nm0287492/",
+        "legacyNameText": "Forward, Sharon",
+        "name": "Sharon Forward",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 5,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Flamarian Ferreira",
+          "Flammarian Ferreira",
+          "Flammarion Ferreira",
+          "Fla Ferreira",
+          "J. Ferreira",
+          "Flammarion Ferreria",
+          "Flammarion Ferriera"
+        ],
+        "id": "/name/nm0274319/",
+        "legacyNameText": "Ferreira, Flamarion",
+        "name": "Flamarion Ferreira",
+        "category": "art_department",
+        "endYear": 2007,
+        "episodeCount": 5,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Flamarian Ferreira",
+          "Flammarian Ferreira",
+          "Flammarion Ferreira",
+          "Fla Ferreira",
+          "J. Ferreira",
+          "Flammarion Ferreria",
+          "Flammarion Ferriera"
+        ],
+        "id": "/name/nm0274319/",
+        "legacyNameText": "Ferreira, Flamarion",
+        "name": "Flamarion Ferreira",
+        "category": "art_department",
+        "endYear": 2007,
+        "episodeCount": 5,
+        "job": "storyboard",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "V",
+        "id": "/name/nm3612518/",
+        "legacyNameText": "Muller, Steven (V)",
+        "name": "Steven Muller",
+        "category": "art_department",
+        "endYear": 2006,
+        "episodeCount": 5,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Henry Tucker"],
+        "id": "/name/nm0875879/",
+        "image": {
+          "height": 513,
+          "id": "/name/nm0875879/images/rm2386997505",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmI3NGIzOTYtZjU4NC00OThmLWFlNmUtMDNiOGZlZDU1OGY4XkEyXkFqcGdeQXVyNDE5MTk5NQ@@._V1_.jpg",
+          "width": 750
+        },
+        "legacyNameText": "Tucker, Hank",
+        "name": "Hank Tucker",
+        "category": "art_department",
+        "endYear": 2010,
+        "episodeCount": 5,
+        "job": "storyboard artist",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Henry Tucker"],
+        "id": "/name/nm0875879/",
+        "image": {
+          "height": 513,
+          "id": "/name/nm0875879/images/rm2386997505",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmI3NGIzOTYtZjU4NC00OThmLWFlNmUtMDNiOGZlZDU1OGY4XkEyXkFqcGdeQXVyNDE5MTk5NQ@@._V1_.jpg",
+          "width": 750
+        },
+        "legacyNameText": "Tucker, Hank",
+        "name": "Hank Tucker",
+        "category": "art_department",
+        "endYear": 2010,
+        "episodeCount": 5,
+        "job": "storyboard",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Octavio Rodriguez", "Octavio Rodriquez"],
+        "id": "/name/nm3185614/",
+        "image": {
+          "height": 683,
+          "id": "/name/nm3185614/images/rm3448026625",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzE1OWY0NGUtYTJiNi00OTE3LWJiZWEtZjc1YjBlNGM4Zjk0XkEyXkFqcGdeQXVyMTg2MTA2NTU@._V1_.jpg",
+          "width": 1024
+        },
+        "legacyNameText": "Rodriguez, Octavio E.",
+        "name": "Octavio E. Rodriguez",
+        "category": "art_department",
+        "endYear": 2010,
+        "episodeCount": 5,
+        "job": "storyboard artist",
+        "startYear": 2009
+      },
+      {
+        "akas": ["Octavio Rodriguez", "Octavio Rodriquez"],
+        "id": "/name/nm3185614/",
+        "image": {
+          "height": 683,
+          "id": "/name/nm3185614/images/rm3448026625",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzE1OWY0NGUtYTJiNi00OTE3LWJiZWEtZjc1YjBlNGM4Zjk0XkEyXkFqcGdeQXVyMTg2MTA2NTU@._V1_.jpg",
+          "width": 1024
+        },
+        "legacyNameText": "Rodriguez, Octavio E.",
+        "name": "Octavio E. Rodriguez",
+        "category": "art_department",
+        "endYear": 2010,
+        "episodeCount": 5,
+        "job": "storybook artist",
+        "startYear": 2009
+      },
+      {
+        "akas": ["Kelly Spencer James", "Kelly Spencer"],
+        "disambiguation": "I",
+        "id": "/name/nm1205511/",
+        "legacyNameText": "James, Kelly (I)",
+        "name": "Kelly James",
+        "category": "art_department",
+        "endYear": 2012,
+        "episodeCount": 5,
+        "job": "storyboard artist",
+        "startYear": 2010
+      },
+      {
+        "akas": ["Chris Osuki", "Christopher K. Otsuki", "Christopher Otsuki"],
+        "id": "/name/nm0652999/",
+        "legacyNameText": "Otsuki, Chris",
+        "name": "Chris Otsuki",
+        "category": "art_department",
+        "endYear": 2011,
+        "episodeCount": 5,
+        "job": "storyboard artist",
+        "startYear": 2010
+      },
+      {
+        "akas": ["Chris Osuki", "Christopher K. Otsuki", "Christopher Otsuki"],
+        "id": "/name/nm0652999/",
+        "legacyNameText": "Otsuki, Chris",
+        "name": "Chris Otsuki",
+        "category": "art_department",
+        "endYear": 2011,
+        "episodeCount": 5,
+        "job": "storyboard",
+        "startYear": 2010
+      },
+      {
+        "id": "/name/nm2119963/",
+        "legacyNameText": "Schoentag, Dorothea",
+        "name": "Dorothea Schoentag",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 5,
+        "job": "background painter",
+        "startYear": 2013
+      },
+      {
+        "id": "/name/nm2119963/",
+        "legacyNameText": "Schoentag, Dorothea",
+        "name": "Dorothea Schoentag",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 5,
+        "job": "background paint",
+        "startYear": 2013
+      },
+      {
+        "akas": ["Doug McCarthy"],
+        "disambiguation": "I",
+        "id": "/name/nm0565119/",
+        "legacyNameText": "McCarthy, Douglas (I)",
+        "name": "Douglas McCarthy",
+        "category": "art_department",
+        "endYear": 2015,
+        "episodeCount": 5,
+        "job": "storyboard artist",
+        "startYear": 2013
+      },
+      {
+        "akas": ["Russell Paris Mills", "Russell Mills"],
+        "disambiguation": "I",
+        "id": "/name/nm0589278/",
+        "legacyNameText": "Mills, Rusty (I)",
+        "name": "Rusty Mills",
+        "category": "art_department",
+        "endYear": 2006,
+        "episodeCount": 4,
+        "job": "storyboard revisionist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Kuni Tomita Bowen", "Kuni Bowen", "Kuni Zama"],
+        "disambiguation": "I",
+        "id": "/name/nm0100871/",
+        "legacyNameText": "Tomita, Kuni (I)",
+        "name": "Kuni Tomita",
+        "category": "art_department",
+        "endYear": 2006,
+        "episodeCount": 4,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Kuni Tomita Bowen", "Kuni Bowen", "Kuni Zama"],
+        "disambiguation": "I",
+        "id": "/name/nm0100871/",
+        "legacyNameText": "Tomita, Kuni (I)",
+        "name": "Kuni Tomita",
+        "category": "art_department",
+        "endYear": 2006,
+        "episodeCount": 4,
+        "job": "storyboard",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Thom Kins",
+          "George W. Thompkins",
+          "Kenneth Thompkins",
+          "Kenny E. Thompkins",
+          "Kent Thompkins",
+          "Kenny Tompkins"
+        ],
+        "id": "/name/nm0859796/",
+        "legacyNameText": "Thompkins, Kenny",
+        "name": "Kenny Thompkins",
+        "category": "art_department",
+        "endYear": 2011,
+        "episodeCount": 4,
+        "job": "storybook artist",
+        "startYear": 2008
+      },
+      {
+        "akas": [
+          "Thom Kins",
+          "George W. Thompkins",
+          "Kenneth Thompkins",
+          "Kenny E. Thompkins",
+          "Kent Thompkins",
+          "Kenny Tompkins"
+        ],
+        "id": "/name/nm0859796/",
+        "legacyNameText": "Thompkins, Kenny",
+        "name": "Kenny Thompkins",
+        "category": "art_department",
+        "endYear": 2011,
+        "episodeCount": 4,
+        "job": "prop designer",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Holly Forsythe"],
+        "id": "/name/nm0287049/",
+        "legacyNameText": "Forsyth, Holly",
+        "name": "Holly Forsyth",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 4,
+        "job": "storyboard artist",
+        "startYear": 2013
+      },
+      {
+        "akas": ["Shawna Cha", "Shawna Gallego"],
+        "id": "/name/nm0149227/",
+        "legacyNameText": "Cha-Gallego, Shawna",
+        "name": "Shawna Cha-Gallego",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 3,
+        "job": "storyboard revisionist",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm0030615/",
+        "image": {
+          "height": 1143,
+          "id": "/name/nm0030615/images/rm3225954816",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWVhZTk5ZWYtYTY5Ny00YzhmLTllN2QtMGUwOTM5ZDQzNGFjXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+          "width": 800
+        },
+        "legacyNameText": "Anselmo, Tony (I)",
+        "name": "Tony Anselmo",
+        "category": "art_department",
+        "endYear": 2006,
+        "episodeCount": 3,
+        "job": "storyboard revisionist",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm0030615/",
+        "image": {
+          "height": 1143,
+          "id": "/name/nm0030615/images/rm3225954816",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWVhZTk5ZWYtYTY5Ny00YzhmLTllN2QtMGUwOTM5ZDQzNGFjXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+          "width": 800
+        },
+        "legacyNameText": "Anselmo, Tony (I)",
+        "name": "Tony Anselmo",
+        "category": "art_department",
+        "endYear": 2006,
+        "episodeCount": 3,
+        "job": "prop design",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Victor A. Cook", "Vic Cook", "Chris 'Doc' Wyatt"],
+        "id": "/name/nm0177328/",
+        "legacyNameText": "Cook, Victor",
+        "name": "Victor Cook",
+        "category": "art_department",
+        "endYear": 2006,
+        "episodeCount": 3,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Victor A. Cook", "Vic Cook", "Chris 'Doc' Wyatt"],
+        "id": "/name/nm0177328/",
+        "legacyNameText": "Cook, Victor",
+        "name": "Victor Cook",
+        "category": "art_department",
+        "endYear": 2006,
+        "episodeCount": 3,
+        "job": "storyboard",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Ferdinand Reyes"],
+        "disambiguation": "I",
+        "id": "/name/nm0721282/",
+        "legacyNameText": "Reyes, Fred (I)",
+        "name": "Fred Reyes",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 3,
+        "job": "storyboard revisionist",
+        "startYear": 2010
+      },
+      {
+        "akas": [
+          "Carin Anne Anderson",
+          "Carin-Anne Anderson",
+          "Carin-Ann Anderson",
+          "Carrie-Anne Anderson",
+          "Carin Greco"
+        ],
+        "id": "/name/nm0026480/",
+        "legacyNameText": "Greco, Carin-Anne",
+        "name": "Carin-Anne Greco",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 3,
+        "job": "storyboard artist",
+        "startYear": 2013
+      },
+      {
+        "akas": [
+          "Andrei Svislosky",
+          "A. Svislotskiy",
+          "Andrey Svislotskiy",
+          "Andrei Svislotsky"
+        ],
+        "id": "/name/nm0841319/",
+        "legacyNameText": "Svislotski, Andrei",
+        "name": "Andrei Svislotski",
+        "category": "art_department",
+        "endYear": 2015,
+        "episodeCount": 3,
+        "job": "storyboard artist",
+        "startYear": 2013
+      },
+      {
+        "akas": ["Victor Randy Cartwright"],
+        "id": "/name/nm0142200/",
+        "image": {
+          "height": 576,
+          "id": "/name/nm0142200/images/rm1418202368",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjFmZTYyN2EtOTkwNi00OWExLTg2MzItNWU1ZmUzNjA1MDY2XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_.jpg",
+          "width": 720
+        },
+        "legacyNameText": "Cartwright, Randy",
+        "name": "Randy Cartwright",
+        "category": "art_department",
+        "endYear": 2015,
+        "episodeCount": 3,
+        "job": "storyboard supervisor",
+        "startYear": 2014
+      },
+      {
+        "akas": ["Kyle Robert Menke"],
+        "id": "/name/nm0579668/",
+        "legacyNameText": "Menke, Kyle",
+        "name": "Kyle Menke",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 2,
+        "job": "storyboard artist",
+        "startYear": 2013
+      },
+      {
+        "id": "/name/nm0012368/",
+        "legacyNameText": "Adomitis, Troy",
+        "name": "Troy Adomitis",
+        "category": "art_department",
+        "endYear": 2014,
+        "episodeCount": 2,
+        "job": "storyboard artist",
+        "startYear": 2013
+      },
+      {
+        "akas": ["Robert L. Kline", "Robert Kline"],
+        "disambiguation": "I",
+        "id": "/name/nm0459602/",
+        "legacyNameText": "Kline, Bob (I)",
+        "name": "Bob Kline",
+        "category": "art_department",
+        "endYear": 2014,
+        "episodeCount": 2,
+        "job": "storyboard artist",
+        "startYear": 2013
+      },
+      {
+        "akas": ["Michael Kunkel"],
+        "id": "/name/nm0475211/",
+        "legacyNameText": "Kunkel, Mike",
+        "name": "Mike Kunkel",
+        "category": "art_department",
+        "endYear": 2014,
+        "episodeCount": 2,
+        "job": "storyboard artist",
+        "startYear": 2013
+      },
+      {
+        "akas": ["Lonnie Lloyd Thompson", "Lonnie Thompson"],
+        "disambiguation": "II",
+        "id": "/name/nm0516064/",
+        "legacyNameText": "Lloyd, Lonnie (II)",
+        "name": "Lonnie Lloyd",
+        "category": "art_department",
+        "endYear": 2015,
+        "episodeCount": 2,
+        "job": "storyboard artist",
+        "startYear": 2014
+      },
+      {
+        "akas": [
+          "Robert L. McKnight II",
+          "Robert McKnight",
+          "Bob Mckight",
+          "Bob Mcknight"
+        ],
+        "disambiguation": "I",
+        "id": "/name/nm0995266/",
+        "legacyNameText": "McKnight, Bob (I)",
+        "name": "Bob McKnight",
+        "category": "art_department",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "storyboard revisionist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Robert Pratt"],
+        "id": "/name/nm0695532/",
+        "legacyNameText": "Pratt, Robb",
+        "name": "Robb Pratt",
+        "category": "art_department",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Nancy Uline"],
+        "id": "/name/nm1983732/",
+        "legacyNameText": "Ulene, Nancy",
+        "name": "Nancy Ulene",
+        "category": "art_department",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "color stylist",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Natasha Dukelski-Selfridge",
+          "Natasha A. Selfridge",
+          "Natasha Dukelski Selfridge",
+          "Natasha Dukelsky Selfridge"
+        ],
+        "id": "/name/nm0972117/",
+        "legacyNameText": "Selfridge, Natasha",
+        "name": "Natasha Selfridge",
+        "category": "art_department",
+        "endYear": 2008,
+        "episodeCount": 1,
+        "job": "storyboard revisionist",
+        "startYear": 2008
+      },
+      {
+        "akas": [
+          "Nick Filipi",
+          "Nick Filippi",
+          "Nick Fillipi",
+          "Nick Fillippi"
+        ],
+        "disambiguation": "I",
+        "id": "/name/nm1006989/",
+        "legacyNameText": "Filippi, Nicholas (I)",
+        "name": "Nicholas Filippi",
+        "category": "art_department",
+        "endYear": 2009,
+        "episodeCount": 1,
+        "job": "storyboard artist",
+        "startYear": 2009
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1637425/",
+        "legacyNameText": "Lacko, Robert (I)",
+        "name": "Robert Lacko",
+        "category": "art_department",
+        "endYear": 2011,
+        "episodeCount": 1,
+        "job": "prop designer",
+        "startYear": 2011
+      },
+      {
+        "akas": ["Kataneh V"],
+        "id": "/name/nm4500522/",
+        "legacyNameText": "Vahdani, Kataneh",
+        "name": "Kataneh Vahdani",
+        "category": "art_department",
+        "endYear": 2014,
+        "episodeCount": 1,
+        "job": "storyboard revisionist",
+        "startYear": 2014
+      },
+      {
+        "akas": ["Kurt R. Anderson"],
+        "disambiguation": "III",
+        "id": "/name/nm0027046/",
+        "legacyNameText": "Anderson, Kurt (III)",
+        "name": "Kurt Anderson",
+        "category": "art_department",
+        "endYear": 2015,
+        "episodeCount": 1,
+        "job": "storyboard artist",
+        "startYear": 2015
+      },
+      {
+        "akas": [
+          "Jill Colbert-Trousdale",
+          "Jill Colbert Trousdale",
+          "Jill Trousdale"
+        ],
+        "id": "/name/nm0170282/",
+        "legacyNameText": "Colbert, Jill",
+        "name": "Jill Colbert",
+        "category": "art_department",
+        "endYear": 2015,
+        "episodeCount": 1,
+        "job": "storyboard artist",
+        "startYear": 2015
+      },
+      {
+        "akas": ["Timothy Maltby"],
+        "disambiguation": "I",
+        "id": "/name/nm1207195/",
+        "legacyNameText": "Maltby, Tim (I)",
+        "name": "Tim Maltby",
+        "category": "art_department",
+        "endYear": 2015,
+        "episodeCount": 1,
+        "job": "storyboard artist",
+        "startYear": 2015
+      },
+      {
+        "akas": ["Chong Suk Lee", "Chong Suk-Lee"],
+        "disambiguation": "II",
+        "id": "/name/nm1623901/",
+        "legacyNameText": "Lee, Chong (II)",
+        "name": "Chong Lee",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 1,
+        "job": "storyboard artist",
+        "startYear": 2016
+      },
+      {
+        "akas": ["Landon Ruddy", "Lindon Ruddy"],
+        "id": "/name/nm0748672/",
+        "legacyNameText": "Ruddy, Lyndon",
+        "name": "Lyndon Ruddy",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 1,
+        "job": "storyboard revisionist",
+        "startYear": 2016
+      },
+      {
+        "akas": ["Robert St-Pierre", "Bob St. Pierre", "Robert J. St. Pierre"],
+        "id": "/name/nm0820817/",
+        "legacyNameText": "St. Pierre, Robert",
+        "name": "Robert St. Pierre",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 1,
+        "job": "location designer",
+        "startYear": 2016
+      },
+      {
+        "akas": ["Jill Sturdivant"],
+        "id": "/name/nm0830518/",
+        "legacyNameText": "Stirdivant, Jill",
+        "name": "Jill Stirdivant",
+        "category": "art_department",
+        "endYear": 2016,
+        "episodeCount": 1,
+        "job": "color stylist",
+        "startYear": 2016
+      }
+    ],
+    "miscellaneous": [
+      {
+        "akas": ["Nick Kelly"],
+        "disambiguation": "I",
+        "id": "/name/nm0911660/",
+        "image": {
+          "height": 2048,
+          "id": "/name/nm0911660/images/rm2230560768",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc3Njk3MjczOV5BMl5BanBnXkFtZTcwOTk0MDIyOA@@._V1_.jpg",
+          "width": 1331
+        },
+        "legacyNameText": "Ward, Kelly (I)",
+        "name": "Kelly Ward",
+        "category": "miscellaneous",
+        "endYear": 2016,
+        "episodeCount": 125,
+        "job": "dialogue director",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Stacey Lynn Zimmerman"],
+        "disambiguation": "I",
+        "id": "/name/nm3220510/",
+        "legacyNameText": "Zimmerman, Stacey (I)",
+        "name": "Stacey Zimmerman",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 60,
+        "job": "production coordinator",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Bobs Ganaway", "Roberts Gannaway"],
+        "id": "/name/nm0304432/",
+        "legacyNameText": "Gannaway, Bobs",
+        "name": "Bobs Gannaway",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 21,
+        "job": "director: main title",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Bobs Ganaway", "Roberts Gannaway"],
+        "id": "/name/nm0304432/",
+        "legacyNameText": "Gannaway, Bobs",
+        "name": "Bobs Gannaway",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 21,
+        "job": "developed for television by",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Bobs Ganaway", "Roberts Gannaway"],
+        "id": "/name/nm0304432/",
+        "legacyNameText": "Gannaway, Bobs",
+        "name": "Bobs Gannaway",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 21,
+        "job": "dialogue director",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Bobs Ganaway", "Roberts Gannaway"],
+        "id": "/name/nm0304432/",
+        "legacyNameText": "Gannaway, Bobs",
+        "name": "Bobs Gannaway",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 21,
+        "job": "developed for television",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Bobs Ganaway", "Roberts Gannaway"],
+        "id": "/name/nm0304432/",
+        "legacyNameText": "Gannaway, Bobs",
+        "name": "Bobs Gannaway",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 21,
+        "job": "main title director",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Debbia Jaffe Gower", "Debbie Jaffe Gower"],
+        "disambiguation": "II",
+        "id": "/name/nm3155360/",
+        "legacyNameText": "Jaffe, Debbie (II)",
+        "name": "Debbie Jaffe",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 18,
+        "job": "educational consultant",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Ed.M. Karen D. Leavitt", "Karen Leavitt"],
+        "id": "/name/nm2608442/",
+        "legacyNameText": "Leavitt, Karen D.",
+        "name": "Karen D. Leavitt",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 18,
+        "job": "educational consultant",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm3182173/",
+        "legacyNameText": "Cano, Carmen (II)",
+        "name": "Carmen Cano",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 16,
+        "job": "production assistant",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Robert E. King"],
+        "disambiguation": "XI",
+        "id": "/name/nm1984219/",
+        "legacyNameText": "King, Robert (XI)",
+        "name": "Robert King",
+        "category": "miscellaneous",
+        "endYear": 2010,
+        "episodeCount": 16,
+        "job": "technical director",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Sandra Irlen Tosta"],
+        "id": "/name/nm3156507/",
+        "legacyNameText": "Irlen, Sandy",
+        "name": "Sandy Irlen",
+        "category": "miscellaneous",
+        "endYear": 2008,
+        "episodeCount": 15,
+        "job": "educational consultant",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Teresa Gilroy",
+          "Theresa M. Gilroy",
+          "Theresa Gilroy",
+          "Theressa Gilroy",
+          "Theresa Gilroy-Nielson",
+          "Theresa Gilroy Nielsen",
+          "Theresa M. Gilroy Nielsen"
+        ],
+        "id": "/name/nm0319679/",
+        "legacyNameText": "Gilroy-Nielsen, Theresa",
+        "name": "Theresa Gilroy-Nielsen",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 14,
+        "job": "track reader",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Ph.D. Iris Sroka"],
+        "id": "/name/nm2612338/",
+        "legacyNameText": "Sroka, Iris",
+        "name": "Iris Sroka",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 14,
+        "job": "educational consultant",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "IV",
+        "id": "/name/nm2617733/",
+        "legacyNameText": "Watson, Julie (IV)",
+        "name": "Julie Watson",
+        "category": "miscellaneous",
+        "endYear": 2008,
+        "episodeCount": 14,
+        "job": "educational consultant",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Sara Goldberg", "Sara Sherman"],
+        "id": "/name/nm2662763/",
+        "image": {
+          "height": 3000,
+          "id": "/name/nm2662763/images/rm3594334720",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWEzNmExZjctNDQ3NC00NDU3LTkzYWMtOWE0YTM4MWFiY2RiXkEyXkFqcGdeQXVyMjQxNDU1NjI@._V1_.jpg",
+          "width": 2000
+        },
+        "legacyNameText": "Sherman, Sara Jane",
+        "name": "Sara Jane Sherman",
+        "category": "miscellaneous",
+        "endYear": 2008,
+        "episodeCount": 13,
+        "job": "talent coordinator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0325741/",
+        "legacyNameText": "Goldman, Bart",
+        "name": "Bart Goldman",
+        "category": "miscellaneous",
+        "endYear": 2007,
+        "episodeCount": 11,
+        "job": "technical director",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Rebecca Honig Friedman", "Rebecca Honig"],
+        "id": "/name/nm2089976/",
+        "legacyNameText": "Honig-Friedman, Rebecca",
+        "name": "Rebecca Honig-Friedman",
+        "category": "miscellaneous",
+        "endYear": 2007,
+        "episodeCount": 11,
+        "job": "educational consultant",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Alex Teslik"],
+        "id": "/name/nm1010118/",
+        "legacyNameText": "Teslik III, Alex",
+        "name": "Alex Teslik III",
+        "category": "miscellaneous",
+        "endYear": 2007,
+        "episodeCount": 11,
+        "job": "supervising technical director",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Anna Boyadjian-Sigal",
+          "Anna Boyadjian Sigal",
+          "Anna Boydjian Sigal"
+        ],
+        "id": "/name/nm1986235/",
+        "legacyNameText": "Boyadjian, Anna",
+        "name": "Anna Boyadjian",
+        "category": "miscellaneous",
+        "endYear": 2007,
+        "episodeCount": 10,
+        "job": "production controller",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Amanda C. Raymond"],
+        "disambiguation": "I",
+        "id": "/name/nm3180244/",
+        "image": {
+          "height": 802,
+          "id": "/name/nm3180244/images/rm1155861761",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGJkZDkzODUtMWFiNC00Y2U5LWI5MDQtZjdiYjlkODVjMWZhXkEyXkFqcGdeQXVyMjI0MDY5MA@@._V1_.jpg",
+          "width": 535
+        },
+        "legacyNameText": "Raymond, Amanda (I)",
+        "name": "Amanda Raymond",
+        "category": "miscellaneous",
+        "endYear": 2007,
+        "episodeCount": 10,
+        "job": "production secretary",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Mara Kimi Ancheta"],
+        "id": "/name/nm3058958/",
+        "legacyNameText": "Ancheta, Mara",
+        "name": "Mara Ancheta",
+        "category": "miscellaneous",
+        "endYear": 2006,
+        "episodeCount": 9,
+        "job": "digital coordinator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1959830/",
+        "legacyNameText": "Arcuri, Carla",
+        "name": "Carla Arcuri",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 9,
+        "job": "production coordinator",
+        "startYear": 2010
+      },
+      {
+        "id": "/name/nm0238397/",
+        "legacyNameText": "Drown, Aaron",
+        "name": "Aaron Drown",
+        "category": "miscellaneous",
+        "endYear": 2007,
+        "episodeCount": 8,
+        "job": "talent coordinator",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jessie Greenberg"],
+        "id": "/name/nm5574618/",
+        "legacyNameText": "Juwono, Jessie",
+        "name": "Jessie Juwono",
+        "category": "miscellaneous",
+        "endYear": 2015,
+        "episodeCount": 8,
+        "job": "production secretary",
+        "startYear": 2013
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm3193751/",
+        "legacyNameText": "Deemer, Bryan (I)",
+        "name": "Bryan Deemer",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 7,
+        "job": "technical director",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Nivine Said Rizk",
+          "Nivine M. Said",
+          "Nivine Said",
+          "Nivine Said-Rizk"
+        ],
+        "id": "/name/nm3195371/",
+        "legacyNameText": "Rizk, Nivine",
+        "name": "Nivine Rizk",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 7,
+        "job": "production controller",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Mike Seidenberg"],
+        "id": "/name/nm0782402/",
+        "legacyNameText": "Seidenberg, Mark",
+        "name": "Mark Seidenberg",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 7,
+        "job": "story editor",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Mike Penketh"],
+        "id": "/name/nm2615029/",
+        "legacyNameText": "Penketh, Michael",
+        "name": "Michael Penketh",
+        "category": "miscellaneous",
+        "endYear": 2007,
+        "episodeCount": 7,
+        "job": "production coordinator",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "VII",
+        "id": "/name/nm3223879/",
+        "legacyNameText": "Olson, Michael (VII)",
+        "name": "Michael Olson",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 6,
+        "job": "production secretary",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Geoffrey M. Ong", "Geoffrey Ong", "Geoff Ong"],
+        "id": "/name/nm2121140/",
+        "legacyNameText": "Ong, Geoffrey Mateo",
+        "name": "Geoffrey Mateo Ong",
+        "category": "miscellaneous",
+        "endYear": 2008,
+        "episodeCount": 4,
+        "job": "production coordinator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm3220422/",
+        "legacyNameText": "Rabin, Beth",
+        "name": "Beth Rabin",
+        "category": "miscellaneous",
+        "endYear": 2008,
+        "episodeCount": 4,
+        "job": "educational consultant",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm4200731/",
+        "legacyNameText": "Archuleta, Christine",
+        "name": "Christine Archuleta",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 3,
+        "job": "educational consultant",
+        "startYear": 2010
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm0342654/",
+        "legacyNameText": "Griswold, Christine (I)",
+        "name": "Christine Griswold",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 3,
+        "job": "educational consultant",
+        "startYear": 2010
+      },
+      {
+        "id": "/name/nm2349977/",
+        "legacyNameText": "Henry-Parker, Heather",
+        "name": "Heather Henry-Parker",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 3,
+        "job": "talent coordinator",
+        "startYear": 2010
+      },
+      {
+        "akas": ["Willie E. Sims", "Willie Sims"],
+        "id": "/name/nm3188643/",
+        "legacyNameText": "Sims Jr., Willie E.",
+        "name": "Willie E. Sims Jr.",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 3,
+        "job": "production assistant",
+        "startYear": 2010
+      },
+      {
+        "id": "/name/nm0970520/",
+        "legacyNameText": "Wogatzke, Denise",
+        "name": "Denise Wogatzke",
+        "category": "miscellaneous",
+        "endYear": 2011,
+        "episodeCount": 3,
+        "job": "technical director",
+        "startYear": 2010
+      },
+      {
+        "id": "/name/nm3456389/",
+        "legacyNameText": "Burkhard, Ryan",
+        "name": "Ryan Burkhard",
+        "category": "miscellaneous",
+        "endYear": 2014,
+        "episodeCount": 3,
+        "job": "digital coordinator",
+        "startYear": 2013
+      },
+      {
+        "id": "/name/nm3165344/",
+        "legacyNameText": "Ford, Dena",
+        "name": "Dena Ford",
+        "category": "miscellaneous",
+        "endYear": 2007,
+        "episodeCount": 1,
+        "job": "digital coordinator",
+        "startYear": 2007
+      }
+    ],
+    "script_department": [
+      {
+        "id": "/name/nm0455497/",
+        "legacyNameText": "Kingsland, Robin",
+        "name": "Robin Kingsland",
+        "category": "script_department",
+        "endYear": 2016,
+        "episodeCount": 127,
+        "job": "script editor",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Leona J. Becckert",
+          "Leona J. Beckert",
+          "Leona J Beckert",
+          "Leona J. Berkert",
+          "Leona J. Jernigan",
+          "Leona Jernigan"
+        ],
+        "id": "/name/nm0421998/",
+        "legacyNameText": "Beckert, Leona",
+        "name": "Leona Beckert",
+        "category": "script_department",
+        "endYear": 2011,
+        "episodeCount": 17,
+        "job": "script coordinator",
+        "startYear": 2006
+      },
+      {
+        "akas": ["James P. Finch", "James Finch"],
+        "disambiguation": "I",
+        "id": "/name/nm0277420/",
+        "legacyNameText": "Finch, Jim (I)",
+        "name": "Jim Finch",
+        "category": "script_department",
+        "endYear": 2011,
+        "episodeCount": 9,
+        "job": "continuity coordinator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0232202/",
+        "legacyNameText": "Donatelli, Barbara",
+        "name": "Barbara Donatelli",
+        "category": "script_department",
+        "endYear": 2011,
+        "episodeCount": 7,
+        "job": "continuity coordinator",
+        "startYear": 2006
+      }
+    ],
+    "director": [
+      {
+        "akas": ["Donovan R. Cook III", "Donovan R. Cook", "Van Cook"],
+        "id": "/name/nm0177015/",
+        "image": {
+          "height": 341,
+          "id": "/name/nm0177015/images/rm629578240",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTQyODEyMDk1NF5BMl5BanBnXkFtZTYwOTYyOTAz._V1_.jpg",
+          "width": 450
+        },
+        "legacyNameText": "Cook, Donovan",
+        "name": "Donovan Cook",
+        "category": "director",
+        "endYear": 2016,
+        "episodeCount": 24,
+        "startYear": 2008
+      },
+      {
+        "akas": ["Howard Parkins", "Howie Parkins"],
+        "id": "/name/nm0662810/",
+        "legacyNameText": "Parkins, Howy",
+        "name": "Howy Parkins",
+        "category": "director",
+        "endYear": 2012,
+        "episodeCount": 18,
+        "startYear": 2006
+      },
+      {
+        "akas": ["Sherrie Pollack"],
+        "id": "/name/nm0689412/",
+        "legacyNameText": "Pollack, Sherie",
+        "name": "Sherie Pollack",
+        "category": "director",
+        "endYear": 2008,
+        "episodeCount": 16,
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Bob DeLuca",
+          "Rob La Duca",
+          "Robert LaDuca",
+          "Robert Laduca",
+          "Rob LeDuca"
+        ],
+        "id": "/name/nm0480349/",
+        "legacyNameText": "LaDuca, Rob",
+        "name": "Rob LaDuca",
+        "category": "director",
+        "endYear": 2007,
+        "episodeCount": 14,
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0918465/",
+        "legacyNameText": "Weinstein, Phil",
+        "name": "Phil Weinstein",
+        "category": "director",
+        "endYear": 2016,
+        "episodeCount": 13,
+        "startYear": 2011
+      },
+      {
+        "akas": ["Broni", "Bronislav Likomanov", "Broniszlav Likomanov"],
+        "id": "/name/nm1228091/",
+        "legacyNameText": "Likomanov, Broni",
+        "name": "Broni Likomanov",
+        "category": "director",
+        "endYear": 2010,
+        "episodeCount": 6,
+        "startYear": 2008
+      },
+      {
+        "akas": ["Victor A. Cook", "Vic Cook", "Chris 'Doc' Wyatt"],
+        "id": "/name/nm0177328/",
+        "legacyNameText": "Cook, Victor",
+        "name": "Victor Cook",
+        "category": "director",
+        "endYear": 2008,
+        "episodeCount": 5,
+        "startYear": 2006
+      }
+    ],
+    "composer": [
+      {
+        "disambiguation": "II",
+        "id": "/name/nm1653721/",
+        "image": {
+          "height": 1477,
+          "id": "/name/nm1653721/images/rm3267606272",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjA2MzY3MjI4Nl5BMl5BanBnXkFtZTcwOTg3NjY1Nw@@._V1_.jpg",
+          "width": 2048
+        },
+        "legacyNameText": "Himelstein, Mike (II)",
+        "name": "Mike Himelstein",
+        "category": "composer",
+        "endYear": 2016,
+        "episodeCount": 128,
+        "startYear": 2006
+      },
+      {
+        "akas": ["Dirty Three", "Michael R. Turner"],
+        "disambiguation": "V",
+        "id": "/name/nm0877763/",
+        "legacyNameText": "Turner, Michael (V)",
+        "name": "Michael Turner",
+        "category": "composer",
+        "endYear": 2016,
+        "episodeCount": 127,
+        "startYear": 2006
+      }
+    ],
+    "sound_department": [
+      {
+        "akas": ["Kate Marciniak"],
+        "id": "/name/nm2256518/",
+        "legacyNameText": "Finan, Kate",
+        "name": "Kate Finan",
+        "category": "sound_department",
+        "endYear": 2014,
+        "episodeCount": 115,
+        "job": "supervising sound editor",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Kate Marciniak"],
+        "id": "/name/nm2256518/",
+        "legacyNameText": "Finan, Kate",
+        "name": "Kate Finan",
+        "category": "sound_department",
+        "endYear": 2014,
+        "episodeCount": 115,
+        "job": "sound effects editor",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Paul McGrath CAS", "Paul Mcgrath"],
+        "disambiguation": "IV",
+        "id": "/name/nm1593107/",
+        "legacyNameText": "McGrath, Paul (IV)",
+        "name": "Paul McGrath",
+        "category": "sound_department",
+        "endYear": 2014,
+        "episodeCount": 112,
+        "job": "original dialouge mixer: dialogue editor",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Carlos Sanches CAS", "Carlos Sanchez"],
+        "disambiguation": "I",
+        "id": "/name/nm0760851/",
+        "image": {
+          "height": 1195,
+          "id": "/name/nm0760851/images/rm1461091841",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDBlMGQ0MjAtYTc0NC00MWI4LWFjNzgtZDFiNjY0MmNmMTJlXkEyXkFqcGdeQXVyMzE0MzA0MA@@._V1_.jpg",
+          "width": 1170
+        },
+        "legacyNameText": "Sanches, Carlos (I)",
+        "name": "Carlos Sanches",
+        "category": "sound_department",
+        "endYear": 2012,
+        "episodeCount": 98,
+        "job": "re-recording mixer",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm4207628/",
+        "legacyNameText": "Coursey, Ryan (I)",
+        "name": "Ryan Coursey",
+        "category": "sound_department",
+        "endYear": 2013,
+        "episodeCount": 84,
+        "job": "assistant audio engineer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jody H. Thomas", "Jody Holwadel Thomas"],
+        "disambiguation": "I",
+        "id": "/name/nm1557793/",
+        "legacyNameText": "Thomas, Jody (I)",
+        "name": "Jody Thomas",
+        "category": "sound_department",
+        "endYear": 2011,
+        "episodeCount": 74,
+        "job": "foley artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Gerry Gonzales", "Gerry Gonzalez"],
+        "disambiguation": "II",
+        "id": "/name/nm2683402/",
+        "legacyNameText": "Gonzalez, Gerardo (II)",
+        "name": "Gerardo Gonzalez",
+        "category": "sound_department",
+        "endYear": 2011,
+        "episodeCount": 62,
+        "job": "sound effects editor",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Arnold Geher"],
+        "id": "/name/nm1236530/",
+        "legacyNameText": "Geher, Arnie",
+        "name": "Arnie Geher",
+        "category": "sound_department",
+        "endYear": 2016,
+        "episodeCount": 55,
+        "job": "original dialogue recording",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Lawrance Winer"],
+        "id": "/name/nm1647840/",
+        "legacyNameText": "Winer, Larry",
+        "name": "Larry Winer",
+        "category": "sound_department",
+        "endYear": 2016,
+        "episodeCount": 55,
+        "job": "original dialogue recording",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "V",
+        "id": "/name/nm1707290/",
+        "legacyNameText": "Oliver, Jason (V)",
+        "name": "Jason Oliver",
+        "category": "sound_department",
+        "endYear": 2011,
+        "episodeCount": 43,
+        "job": "dialogue editor",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0887662/",
+        "image": {
+          "height": 394,
+          "id": "/name/nm0887662/images/rm297179648",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTQ5MTUwMTg2Ml5BMl5BanBnXkFtZTYwNjQ3MDAz._V1_.jpg",
+          "width": 450
+        },
+        "legacyNameText": "Van Osten, Otis",
+        "name": "Otis Van Osten",
+        "category": "sound_department",
+        "endYear": 2011,
+        "episodeCount": 27,
+        "job": "supervising sound editor",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "XVII",
+        "id": "/name/nm9317690/",
+        "image": {
+          "height": 6720,
+          "id": "/name/nm9317690/images/rm3390567937",
+          "url": "https://m.media-amazon.com/images/M/MV5BODY1MGZhNzEtYzJmYy00NGY2LTljYzUtZmY5YzIzNjBkODQ2XkEyXkFqcGdeQXVyNjE2MTIwODM@._V1_.jpg",
+          "width": 4480
+        },
+        "legacyNameText": "Gomez, Jonathan (XVII)",
+        "name": "Jonathan Gomez",
+        "category": "sound_department",
+        "endYear": 2016,
+        "episodeCount": 20,
+        "job": "dialogue editor",
+        "startYear": 2012
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2635981/",
+        "legacyNameText": "Davis, Cameron (I)",
+        "name": "Cameron Davis",
+        "category": "sound_department",
+        "endYear": 2011,
+        "episodeCount": 18,
+        "job": "original dialogue recordist",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2635981/",
+        "legacyNameText": "Davis, Cameron (I)",
+        "name": "Cameron Davis",
+        "category": "sound_department",
+        "endYear": 2011,
+        "episodeCount": 18,
+        "job": "original dialogue recording engineer",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2635981/",
+        "legacyNameText": "Davis, Cameron (I)",
+        "name": "Cameron Davis",
+        "category": "sound_department",
+        "endYear": 2011,
+        "episodeCount": 18,
+        "job": "dialogue recording engineer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["James N. Harrison"],
+        "disambiguation": "V",
+        "id": "/name/nm2115830/",
+        "legacyNameText": "Harrison, Jim (V)",
+        "name": "Jim Harrison",
+        "category": "sound_department",
+        "endYear": 2011,
+        "episodeCount": 18,
+        "job": "pre-production dialogue editor",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1270248/",
+        "legacyNameText": "Sperry, Trevor",
+        "name": "Trevor Sperry",
+        "category": "sound_department",
+        "endYear": 2011,
+        "episodeCount": 18,
+        "job": "foley engineer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["John Sanacori", "John Sonacore"],
+        "id": "/name/nm1219697/",
+        "legacyNameText": "Sanacore, John",
+        "name": "John Sanacore",
+        "category": "sound_department",
+        "endYear": 2013,
+        "episodeCount": 17,
+        "job": "foley mixer",
+        "startYear": 2011
+      },
+      {
+        "akas": [
+          "Melinda Dilger",
+          "Melida Rediger",
+          "Melinda Wunsch Rediger",
+          "Melinda Wünsch Rediger",
+          "Melinda Rediger",
+          "Melinda Wunsch"
+        ],
+        "id": "/name/nm0714903/",
+        "image": {
+          "height": 1275,
+          "id": "/name/nm0714903/images/rm4057805057",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTMzMjJkNmMtNmQ2NS00YzAwLTg4YzEtNDRjNDNmMWNiMmVjXkEyXkFqcGdeQXVyMjQ3MjM5NTI@._V1_.jpg",
+          "width": 944
+        },
+        "legacyNameText": "Dilger, Melinda Wunsch",
+        "name": "Melinda Wunsch Dilger",
+        "category": "sound_department",
+        "endYear": 2011,
+        "episodeCount": 16,
+        "job": "co-sound supervisor",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1989119/",
+        "legacyNameText": "Cirino, Chris",
+        "name": "Chris Cirino",
+        "category": "sound_department",
+        "endYear": 2008,
+        "episodeCount": 14,
+        "job": "original dialogue recordist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1989119/",
+        "legacyNameText": "Cirino, Chris",
+        "name": "Chris Cirino",
+        "category": "sound_department",
+        "endYear": 2008,
+        "episodeCount": 14,
+        "job": "dialogue recording engineer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["George Craig", "George Graig"],
+        "id": "/name/nm0186013/",
+        "legacyNameText": "Craig, Skip",
+        "name": "Skip Craig",
+        "category": "sound_department",
+        "endYear": 2007,
+        "episodeCount": 12,
+        "job": "track reader",
+        "startYear": 2006
+      },
+      {
+        "akas": ["George Craig", "George Graig"],
+        "id": "/name/nm0186013/",
+        "legacyNameText": "Craig, Skip",
+        "name": "Skip Craig",
+        "category": "sound_department",
+        "endYear": 2007,
+        "episodeCount": 12,
+        "job": "track reading",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2096269/",
+        "legacyNameText": "Foster, Tyler (I)",
+        "name": "Tyler Foster",
+        "category": "sound_department",
+        "endYear": 2007,
+        "episodeCount": 11,
+        "job": "assistant audio engineer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Mark Eddel", "Mark Ettle"],
+        "id": "/name/nm0262171/",
+        "legacyNameText": "Ettel, Mark",
+        "name": "Mark Ettel",
+        "category": "sound_department",
+        "endYear": 2006,
+        "episodeCount": 10,
+        "job": "re-recording mixer",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1479400/",
+        "image": {
+          "height": 1014,
+          "id": "/name/nm1479400/images/rm2329801473",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWUwOGU0YWEtMzk0MC00YjZlLTllOWYtODg2ZGY1MTI3ZTljXkEyXkFqcGdeQXVyMjYxNjgyMzI@._V1_.jpg",
+          "width": 656
+        },
+        "legacyNameText": "Hopkins, Larry (I)",
+        "name": "Larry Hopkins",
+        "category": "sound_department",
+        "endYear": 2011,
+        "episodeCount": 7,
+        "job": "sound mixer",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm3189714/",
+        "legacyNameText": "Sokey, Michael (I)",
+        "name": "Michael Sokey",
+        "category": "sound_department",
+        "endYear": 2011,
+        "episodeCount": 7,
+        "job": "recordist",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Alex Ullirch",
+          "Alexander Ullrich",
+          "Alex Ulrich",
+          "Alex Urich"
+        ],
+        "disambiguation": "I",
+        "id": "/name/nm1054932/",
+        "legacyNameText": "Ullrich, Alex (I)",
+        "name": "Alex Ullrich",
+        "category": "sound_department",
+        "endYear": 2011,
+        "episodeCount": 7,
+        "job": "foley artist",
+        "startYear": 2011
+      },
+      {
+        "id": "/name/nm2976766/",
+        "legacyNameText": "Corwin, Scott",
+        "name": "Scott Corwin",
+        "category": "sound_department",
+        "endYear": 2008,
+        "episodeCount": 4,
+        "job": "assistant audio engineer",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Eddie Cupcupin",
+          "Edmond Cupcupin",
+          "Edmundo Cupcupin",
+          "Edwin Cupcupin",
+          "Ed Cupcupin",
+          "Michael Cupcupin"
+        ],
+        "id": "/name/nm0192543/",
+        "legacyNameText": "Cupcupin, Edmund",
+        "name": "Edmund Cupcupin",
+        "category": "sound_department",
+        "endYear": 2006,
+        "episodeCount": 3,
+        "job": "re-recording mixer",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0697787/",
+        "legacyNameText": "Prine, Eryne",
+        "name": "Eryne Prine",
+        "category": "sound_department",
+        "endYear": 2013,
+        "episodeCount": 3,
+        "job": "sound effects editor",
+        "startYear": 2013
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm3920345/",
+        "legacyNameText": "Pallan, Roger (I)",
+        "name": "Roger Pallan",
+        "category": "sound_department",
+        "endYear": 2013,
+        "episodeCount": 2,
+        "job": "sound effects editor",
+        "startYear": 2011
+      },
+      {
+        "akas": ["Jason Brennor"],
+        "disambiguation": "I",
+        "id": "/name/nm1262611/",
+        "legacyNameText": "Brennan, Jason (I)",
+        "name": "Jason Brennan",
+        "category": "sound_department",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "re-recording mixer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Peter Elliot Cole"],
+        "disambiguation": "I",
+        "id": "/name/nm0170730/",
+        "legacyNameText": "Cole, Peter (I)",
+        "name": "Peter Cole",
+        "category": "sound_department",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "re-recording mixer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jeffrey Shiffman"],
+        "disambiguation": "III",
+        "id": "/name/nm1906896/",
+        "legacyNameText": "Shiffman, Jeff (III)",
+        "name": "Jeff Shiffman",
+        "category": "sound_department",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "sound editor",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm5565262/",
+        "legacyNameText": "Ortiz, Jacob (II)",
+        "name": "Jacob Ortiz",
+        "category": "sound_department",
+        "endYear": 2014,
+        "episodeCount": 1,
+        "job": "dialogue editor",
+        "startYear": 2014
+      }
+    ],
+    "animation_department": [
+      {
+        "id": "/name/nm4568139/",
+        "legacyNameText": "Veeramaneni, Pavan",
+        "name": "Pavan Veeramaneni",
+        "category": "animation_department",
+        "endYear": 2010,
+        "episodeCount": 71,
+        "job": "lighting artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Steve Santillan"],
+        "id": "/name/nm2923423/",
+        "legacyNameText": "Santillan, Steve A.",
+        "name": "Steve A. Santillan",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 49,
+        "job": "background artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Steve Santillan"],
+        "id": "/name/nm2923423/",
+        "legacyNameText": "Santillan, Steve A.",
+        "name": "Steve A. Santillan",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 49,
+        "job": "background painter",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Steve Santillan"],
+        "id": "/name/nm2923423/",
+        "legacyNameText": "Santillan, Steve A.",
+        "name": "Steve A. Santillan",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 49,
+        "job": "background paint",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm10570732/",
+        "legacyNameText": "Bhattacharya, Plabon",
+        "name": "Plabon Bhattacharya",
+        "category": "animation_department",
+        "endYear": 2009,
+        "episodeCount": 39,
+        "job": "Rigging Artist: DQ Entertainment",
+        "startYear": 2008
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm0186038/",
+        "legacyNameText": "Craig, Tony (II)",
+        "name": "Tony Craig",
+        "category": "animation_department",
+        "endYear": 2007,
+        "episodeCount": 27,
+        "job": "main title storyboarded by",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm0186038/",
+        "legacyNameText": "Craig, Tony (II)",
+        "name": "Tony Craig",
+        "category": "animation_department",
+        "endYear": 2007,
+        "episodeCount": 27,
+        "job": "timing director",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm6762272/",
+        "legacyNameText": "Gajula, Ravinder",
+        "name": "Ravinder Gajula",
+        "category": "animation_department",
+        "endYear": 2007,
+        "episodeCount": 27,
+        "job": "animator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm10267402/",
+        "legacyNameText": "Yogesh, Paradkar",
+        "name": "Paradkar Yogesh",
+        "category": "animation_department",
+        "endYear": 2007,
+        "episodeCount": 27,
+        "job": "animator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm8174095/",
+        "legacyNameText": "Chintapatla, Krishna Mohan",
+        "name": "Krishna Mohan Chintapatla",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 27,
+        "job": "senior animator",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Donovan R. Cook III", "Donovan R. Cook", "Van Cook"],
+        "id": "/name/nm0177015/",
+        "image": {
+          "height": 341,
+          "id": "/name/nm0177015/images/rm629578240",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTQyODEyMDk1NF5BMl5BanBnXkFtZTYwOTYyOTAz._V1_.jpg",
+          "width": 450
+        },
+        "legacyNameText": "Cook, Donovan",
+        "name": "Donovan Cook",
+        "category": "animation_department",
+        "endYear": 2007,
+        "episodeCount": 26,
+        "job": "song sequences storyboarded by",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Kevin Petrolak"],
+        "id": "/name/nm0678001/",
+        "legacyNameText": "Petrilak, Kevin",
+        "name": "Kevin Petrilak",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 25,
+        "job": "timing director",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm10728356/",
+        "legacyNameText": "Mocam, Ted",
+        "name": "Ted Mocam",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 20,
+        "job": "animator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm10728356/",
+        "legacyNameText": "Mocam, Ted",
+        "name": "Ted Mocam",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 20,
+        "job": "layout artist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm10728356/",
+        "legacyNameText": "Mocam, Ted",
+        "name": "Ted Mocam",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 20,
+        "job": "character designer",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm10728356/",
+        "legacyNameText": "Mocam, Ted",
+        "name": "Ted Mocam",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 20,
+        "job": "slugging and sheet director",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0683680/",
+        "legacyNameText": "Piluso, Brenda",
+        "name": "Brenda Piluso",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 19,
+        "job": "timing director",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "T.C. Lennon",
+          "Terrance Lennon",
+          "Terrence C. Lennon",
+          "Terrence Lennon"
+        ],
+        "id": "/name/nm0502069/",
+        "legacyNameText": "Lennon, Terry",
+        "name": "Terry Lennon",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 16,
+        "job": "timing director",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1637425/",
+        "legacyNameText": "Lacko, Robert (I)",
+        "name": "Robert Lacko",
+        "category": "animation_department",
+        "endYear": 2011,
+        "episodeCount": 16,
+        "job": "prop artist: art",
+        "startYear": 2010
+      },
+      {
+        "akas": ["David Bennett"],
+        "disambiguation": "X",
+        "id": "/name/nm1933611/",
+        "legacyNameText": "Bennett, Dave (X)",
+        "name": "Dave Bennett",
+        "category": "animation_department",
+        "endYear": 2014,
+        "episodeCount": 15,
+        "job": "storyboard artist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm13579296/",
+        "legacyNameText": "Vijayan, Vibin",
+        "name": "Vibin Vijayan",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 15,
+        "job": "animator",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Robert Pratt"],
+        "id": "/name/nm0695532/",
+        "legacyNameText": "Pratt, Robb",
+        "name": "Robb Pratt",
+        "category": "animation_department",
+        "endYear": 2011,
+        "episodeCount": 14,
+        "job": "animation: reference",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Robert Pratt"],
+        "id": "/name/nm0695532/",
+        "legacyNameText": "Pratt, Robb",
+        "name": "Robb Pratt",
+        "category": "animation_department",
+        "endYear": 2011,
+        "episodeCount": 14,
+        "job": "animator",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Robert Pratt"],
+        "id": "/name/nm0695532/",
+        "legacyNameText": "Pratt, Robb",
+        "name": "Robb Pratt",
+        "category": "animation_department",
+        "endYear": 2011,
+        "episodeCount": 14,
+        "job": "main title animation by",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Robert Pratt"],
+        "id": "/name/nm0695532/",
+        "legacyNameText": "Pratt, Robb",
+        "name": "Robb Pratt",
+        "category": "animation_department",
+        "endYear": 2011,
+        "episodeCount": 14,
+        "job": "reference animation",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Greg T. Guler", "Greggory Guler", "Gregory Guler"],
+        "id": "/name/nm0347724/",
+        "legacyNameText": "Guler, Greg",
+        "name": "Greg Guler",
+        "category": "animation_department",
+        "endYear": 2007,
+        "episodeCount": 14,
+        "job": "character designer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Greg T. Guler", "Greggory Guler", "Gregory Guler"],
+        "id": "/name/nm0347724/",
+        "legacyNameText": "Guler, Greg",
+        "name": "Greg Guler",
+        "category": "animation_department",
+        "endYear": 2007,
+        "episodeCount": 14,
+        "job": "character design",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Nikith R C", "Nikith R.C."],
+        "id": "/name/nm9301908/",
+        "legacyNameText": "Nikith",
+        "name": "Nikith",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 14,
+        "job": "lighting artist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm12906635/",
+        "legacyNameText": "Sharma, Akhilesh k",
+        "name": "Akhilesh k Sharma",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 14,
+        "job": "animator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm11390149/",
+        "legacyNameText": "Ganji, Ramakrishna",
+        "name": "Ramakrishna Ganji",
+        "category": "animation_department",
+        "endYear": 2011,
+        "episodeCount": 14,
+        "job": "senior rigger",
+        "startYear": 2011
+      },
+      {
+        "akas": [
+          "Shannon M. Fallis-Kane",
+          "Shannon Mary Fallis-Kane",
+          "Shannon Michael Fallis-Kane",
+          "Shannon Fallis-Kane",
+          "Shannon M. Fallis-Kine",
+          "Shannon Kane"
+        ],
+        "id": "/name/nm0969421/",
+        "legacyNameText": "Kane, Shannon Fallis",
+        "name": "Shannon Fallis Kane",
+        "category": "animation_department",
+        "endYear": 2011,
+        "episodeCount": 13,
+        "job": "animatic scanner",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jang G. Kim", "Jang-Gil Kim", "Janggil Kim", "Jang Kim"],
+        "id": "/name/nm0453501/",
+        "legacyNameText": "Kim, Jang Gil",
+        "name": "Jang Gil Kim",
+        "category": "animation_department",
+        "endYear": 2008,
+        "episodeCount": 13,
+        "job": "timing director",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Bert Medall", "Burton Medall", "Burton Mendall"],
+        "id": "/name/nm0575395/",
+        "legacyNameText": "Medall, Burt",
+        "name": "Burt Medall",
+        "category": "animation_department",
+        "endYear": 2008,
+        "episodeCount": 13,
+        "job": "timing director",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Nancy Uline"],
+        "id": "/name/nm1983732/",
+        "legacyNameText": "Ulene, Nancy",
+        "name": "Nancy Ulene",
+        "category": "animation_department",
+        "endYear": 2007,
+        "episodeCount": 13,
+        "job": "color stylist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm5557480/",
+        "legacyNameText": "Majumder, Krishnakoli",
+        "name": "Krishnakoli Majumder",
+        "category": "animation_department",
+        "endYear": 2010,
+        "episodeCount": 11,
+        "job": "animator",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jeff Gatrall", "Jeffrey Gattrall", "Jeff Gratrall"],
+        "id": "/name/nm0309721/",
+        "legacyNameText": "Gatrall, Jeffrey",
+        "name": "Jeffrey Gatrall",
+        "category": "animation_department",
+        "endYear": 2007,
+        "episodeCount": 11,
+        "job": "animation timing director",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jeff Gatrall", "Jeffrey Gattrall", "Jeff Gratrall"],
+        "id": "/name/nm0309721/",
+        "legacyNameText": "Gatrall, Jeffrey",
+        "name": "Jeffrey Gatrall",
+        "category": "animation_department",
+        "endYear": 2007,
+        "episodeCount": 11,
+        "job": "timing director",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm10269512/",
+        "legacyNameText": "Ganguly, Mahesh",
+        "name": "Mahesh Ganguly",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 10,
+        "job": "lead animator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm4498405/",
+        "legacyNameText": "Petkova, Nadia",
+        "name": "Nadia Petkova",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 10,
+        "job": "animator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm3805273/",
+        "legacyNameText": "P.J., Jayaprakash",
+        "name": "Jayaprakash P.J.",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 9,
+        "job": "surfacing artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jill Sturdivant"],
+        "id": "/name/nm0830518/",
+        "legacyNameText": "Stirdivant, Jill",
+        "name": "Jill Stirdivant",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 9,
+        "job": "color stylist",
+        "startYear": 2010
+      },
+      {
+        "id": "/name/nm2805879/",
+        "legacyNameText": "Das, Jayant",
+        "name": "Jayant Das",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 7,
+        "job": "texture artist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm2805879/",
+        "legacyNameText": "Das, Jayant",
+        "name": "Jayant Das",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 7,
+        "job": "surfacing artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Mylene Santos"],
+        "id": "/name/nm3362853/",
+        "legacyNameText": "Santos, Mylene L.",
+        "name": "Mylene L. Santos",
+        "category": "animation_department",
+        "endYear": 2012,
+        "episodeCount": 6,
+        "job": "animator",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Mylene Santos"],
+        "id": "/name/nm3362853/",
+        "legacyNameText": "Santos, Mylene L.",
+        "name": "Mylene L. Santos",
+        "category": "animation_department",
+        "endYear": 2012,
+        "episodeCount": 6,
+        "job": "animation supervisor",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Jose J. Zelaya", "Jose Zelaya"],
+        "id": "/name/nm1151823/",
+        "legacyNameText": "Zelaya, José",
+        "name": "José Zelaya",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 6,
+        "job": "character design",
+        "startYear": 2013
+      },
+      {
+        "akas": ["Chandrasekaran G."],
+        "id": "/name/nm5645709/",
+        "legacyNameText": "Chandrasekaran",
+        "name": "Chandrasekaran",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 5,
+        "job": "animation supervisor",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Russell Paris Mills", "Russell Mills"],
+        "disambiguation": "I",
+        "id": "/name/nm0589278/",
+        "legacyNameText": "Mills, Rusty (I)",
+        "name": "Rusty Mills",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 5,
+        "job": "timing director",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Russell Paris Mills", "Russell Mills"],
+        "disambiguation": "I",
+        "id": "/name/nm0589278/",
+        "legacyNameText": "Mills, Rusty (I)",
+        "name": "Rusty Mills",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 5,
+        "job": "animation timing director",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm12724567/",
+        "legacyNameText": "Alblooshi, Mansour",
+        "name": "Mansour Alblooshi",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 5,
+        "job": "layout artist",
+        "startYear": 2016
+      },
+      {
+        "akas": ["Barbara Dourmashkin-Case", "Dana Lansberg"],
+        "id": "/name/nm0485125/",
+        "legacyNameText": "Landsberg, Dana",
+        "name": "Dana Landsberg",
+        "category": "animation_department",
+        "endYear": 2011,
+        "episodeCount": 4,
+        "job": "character designer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["David Rodriguez"],
+        "disambiguation": "I",
+        "id": "/name/nm0735283/",
+        "legacyNameText": "Rodriguez, David A. (I)",
+        "name": "David A. Rodriguez",
+        "category": "animation_department",
+        "endYear": 2008,
+        "episodeCount": 4,
+        "job": "color stylist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm10267398/",
+        "legacyNameText": "Paradkar, Yogesh",
+        "name": "Yogesh Paradkar",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 4,
+        "job": "animator",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Stephen Socki", "Steven Socki"],
+        "id": "/name/nm0811973/",
+        "image": {
+          "height": 428,
+          "id": "/name/nm0811973/images/rm952192513",
+          "url": "https://m.media-amazon.com/images/M/MV5BODYxZTY0MGEtNWY5MC00MjBkLTkzMDYtOGU3NzljYWVhNjBlXkEyXkFqcGdeQXVyNjQzMzI2Njc@._V1_CR33,0,285,428_.jpg",
+          "width": 285
+        },
+        "legacyNameText": "Socki, Steve",
+        "name": "Steve Socki",
+        "category": "animation_department",
+        "endYear": 2009,
+        "episodeCount": 4,
+        "job": "timing director",
+        "startYear": 2008
+      },
+      {
+        "id": "/name/nm2119963/",
+        "legacyNameText": "Schoentag, Dorothea",
+        "name": "Dorothea Schoentag",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 4,
+        "job": "background painter",
+        "startYear": 2009
+      },
+      {
+        "akas": ["Huey-Min Huang", "Jamie Huey-Min Huang", "Jamie Huang"],
+        "id": "/name/nm0398996/",
+        "legacyNameText": "Huang, Jamie H.",
+        "name": "Jamie H. Huang",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 4,
+        "job": "timing director",
+        "startYear": 2010
+      },
+      {
+        "akas": [
+          "Thom Kins",
+          "George W. Thompkins",
+          "Kenneth Thompkins",
+          "Kenny E. Thompkins",
+          "Kent Thompkins",
+          "Kenny Tompkins"
+        ],
+        "id": "/name/nm0859796/",
+        "legacyNameText": "Thompkins, Kenny",
+        "name": "Kenny Thompkins",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 4,
+        "job": "character design",
+        "startYear": 2013
+      },
+      {
+        "id": "/name/nm1174959/",
+        "legacyNameText": "Armendariz, Sergio",
+        "name": "Sergio Armendariz",
+        "category": "animation_department",
+        "endYear": 2008,
+        "episodeCount": 3,
+        "job": "animatic scanner",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm3726677/",
+        "legacyNameText": "Chundakkad, Renjith",
+        "name": "Renjith Chundakkad",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 3,
+        "job": "animator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm5817419/",
+        "legacyNameText": "Lanke, Sudhakar",
+        "name": "Sudhakar Lanke",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 3,
+        "job": "animator",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Robert St-Pierre", "Bob St. Pierre", "Robert J. St. Pierre"],
+        "id": "/name/nm0820817/",
+        "legacyNameText": "St. Pierre, Robert",
+        "name": "Robert St. Pierre",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 3,
+        "job": "location designer",
+        "startYear": 2013
+      },
+      {
+        "id": "/name/nm3720054/",
+        "legacyNameText": "C.M., Riyad",
+        "name": "Riyad C.M.",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 2,
+        "job": "animator",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Sy G. Thomas", "Sy G Thomas"],
+        "disambiguation": "I",
+        "id": "/name/nm1633505/",
+        "legacyNameText": "Thomas, Sy (I)",
+        "name": "Sy Thomas",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 2,
+        "job": "background paint",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Anson N. Andrews"],
+        "id": "/name/nm5557384/",
+        "legacyNameText": "Andrews, Anson",
+        "name": "Anson Andrews",
+        "category": "animation_department",
+        "endYear": 2009,
+        "episodeCount": 2,
+        "job": "animator: animation",
+        "startYear": 2009
+      },
+      {
+        "akas": ["Richard Leon", "Rich Leon", "Ric Leon"],
+        "disambiguation": "I",
+        "id": "/name/nm0502527/",
+        "legacyNameText": "Leon, Rick (I)",
+        "name": "Rick Leon",
+        "category": "animation_department",
+        "endYear": 2011,
+        "episodeCount": 2,
+        "job": "timing director",
+        "startYear": 2010
+      },
+      {
+        "id": "/name/nm12287610/",
+        "legacyNameText": "Gautam, Nikhil",
+        "name": "Nikhil Gautam",
+        "category": "animation_department",
+        "endYear": 2013,
+        "episodeCount": 2,
+        "job": "animator",
+        "startYear": 2011
+      },
+      {
+        "id": "/name/nm6249735/",
+        "legacyNameText": "Giridhar Kumar, Kotteti",
+        "name": "Kotteti Giridhar Kumar",
+        "category": "animation_department",
+        "endYear": 2013,
+        "episodeCount": 2,
+        "job": "animator",
+        "startYear": 2012
+      },
+      {
+        "akas": [
+          "Flamarian Ferreira",
+          "Flammarian Ferreira",
+          "Flammarion Ferreira",
+          "Fla Ferreira",
+          "J. Ferreira",
+          "Flammarion Ferreria",
+          "Flammarion Ferriera"
+        ],
+        "id": "/name/nm0274319/",
+        "legacyNameText": "Ferreira, Flamarion",
+        "name": "Flamarion Ferreira",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 2,
+        "job": "location designer",
+        "startYear": 2013
+      },
+      {
+        "akas": ["Mircea Manta", "Mircea Kyle Mantta", "Mircea Manttaa"],
+        "id": "/name/nm0544191/",
+        "legacyNameText": "Mantta, Mircea",
+        "name": "Mircea Mantta",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 2,
+        "job": "timing director",
+        "startYear": 2013
+      },
+      {
+        "akas": [
+          "Michael Lyman",
+          "Mike Lyman",
+          "R. Michael Lyman",
+          "R. Michel Lyman",
+          "Robert Michael Lyman",
+          "Robert Lyman",
+          "Mike Lymann",
+          "Michael Lymon",
+          "R. Michel Lymon"
+        ],
+        "id": "/name/nm0528158/",
+        "legacyNameText": "Lyman, Michel",
+        "name": "Michel Lyman",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 2,
+        "job": "timing director",
+        "startYear": 2016
+      },
+      {
+        "akas": ["Joanna Combellick", "Joanna G. Romersa"],
+        "id": "/name/nm0739605/",
+        "legacyNameText": "Romersa, Joanna",
+        "name": "Joanna Romersa",
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 2,
+        "job": "timing director",
+        "startYear": 2016
+      },
+      {
+        "akas": ["Jo Jo Aguilar", "JoJo Aguilar", "Joseph Aguilar"],
+        "id": "/name/nm2744479/",
+        "legacyNameText": "Aguilar, Jojo",
+        "name": "Jojo Aguilar",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "location designer",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm0030615/",
+        "image": {
+          "height": 1143,
+          "id": "/name/nm0030615/images/rm3225954816",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWVhZTk5ZWYtYTY5Ny00YzhmLTllN2QtMGUwOTM5ZDQzNGFjXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+          "width": 800
+        },
+        "legacyNameText": "Anselmo, Tony (I)",
+        "name": "Tony Anselmo",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "character designer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Dick Arons", "Rich C. Arons", "Richard Arons"],
+        "id": "/name/nm0036946/",
+        "legacyNameText": "Arons, Rich",
+        "name": "Rich Arons",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "animation timing director",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1954878/",
+        "legacyNameText": "Beall, David (I)",
+        "name": "David Beall",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "location designer",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm8125501/",
+        "legacyNameText": "Jindal, Rohit (I)",
+        "name": "Rohit Jindal",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "animator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm4223429/",
+        "legacyNameText": "Mane, Kondaiah",
+        "name": "Kondaiah Mane",
+        "category": "animation_department",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "sr. animator",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm7485312/",
+        "legacyNameText": "Omman, Jibi (I)",
+        "name": "Jibi Omman",
+        "category": "animation_department",
+        "endYear": 2008,
+        "episodeCount": 1,
+        "job": "animator",
+        "startYear": 2008
+      },
+      {
+        "id": "/name/nm5220842/",
+        "legacyNameText": "Rathore, Suryabhan Singh",
+        "name": "Suryabhan Singh Rathore",
+        "category": "animation_department",
+        "endYear": 2009,
+        "episodeCount": 1,
+        "job": "animator",
+        "startYear": 2009
+      },
+      {
+        "id": "/name/nm11799933/",
+        "legacyNameText": "Sahu, Chittaranjan",
+        "name": "Chittaranjan Sahu",
+        "category": "animation_department",
+        "endYear": 2011,
+        "episodeCount": 1,
+        "job": "supervisor",
+        "startYear": 2011
+      },
+      {
+        "id": "/name/nm8002012/",
+        "legacyNameText": "Mhatre, Pranesh",
+        "name": "Pranesh Mhatre",
+        "category": "animation_department",
+        "endYear": 2012,
+        "episodeCount": 1,
+        "job": "animator",
+        "startYear": 2012
+      },
+      {
+        "id": "/name/nm1656799/",
+        "legacyNameText": "Dondis, Roger",
+        "name": "Roger Dondis",
+        "category": "animation_department",
+        "endYear": 2013,
+        "episodeCount": 1,
+        "job": "storyboard supervisor",
+        "startYear": 2013
+      },
+      {
+        "akas": ["Tyler W. Gentry", "Tyler Williams Gentry", "Tyler Gentry"],
+        "id": "/name/nm0313195/",
+        "legacyNameText": "Gentry, Tyler William",
+        "name": "Tyler William Gentry",
+        "category": "animation_department",
+        "endYear": 2015,
+        "episodeCount": 1,
+        "job": "prop artist",
+        "startYear": 2015
+      },
+      {
+        "akas": ["Vamsi Mudraboina"],
+        "id": "/name/nm6603599/",
+        "legacyNameText": "Mudraboina, Vamsi Krishna",
+        "name": "Vamsi Krishna Mudraboina",
+        "attr": ["uncredited"],
+        "category": "animation_department",
+        "endYear": 2007,
+        "episodeCount": 15,
+        "job": "modeling & texturing",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Howard Parkins", "Howie Parkins"],
+        "id": "/name/nm0662810/",
+        "legacyNameText": "Parkins, Howy",
+        "name": "Howy Parkins",
+        "attr": ["uncredited"],
+        "category": "animation_department",
+        "endYear": 2013,
+        "episodeCount": 2,
+        "job": "animation supervisor",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Dennis Grecco"],
+        "id": "/name/nm0337443/",
+        "legacyNameText": "Greco, Dennis",
+        "name": "Dennis Greco",
+        "attr": ["uncredited"],
+        "category": "animation_department",
+        "endYear": 2016,
+        "episodeCount": 1,
+        "job": "background design",
+        "startYear": 2016
+      }
+    ],
+    "casting_department": [
+      {
+        "id": "/name/nm4643184/",
+        "legacyNameText": "Rondou, Lauren",
+        "name": "Lauren Rondou",
+        "category": "casting_department",
+        "endYear": 2011,
+        "episodeCount": 26,
+        "job": "casting assistant",
+        "startYear": 2010
+      },
+      {
+        "akas": ["Abbie D'Andrea"],
+        "id": "/name/nm4025009/",
+        "image": {
+          "height": 3571,
+          "id": "/name/nm4025009/images/rm922515969",
+          "url": "https://m.media-amazon.com/images/M/MV5BOWU0ZjExYmYtYmVhYy00YzlhLWFlNDktOGFjYzY1YWZjNTNjXkEyXkFqcGdeQXVyMTA4ODM2MDU0._V1_.jpg",
+          "width": 5352
+        },
+        "legacyNameText": "Waters, Abbie",
+        "name": "Abbie Waters",
+        "category": "casting_department",
+        "endYear": 2011,
+        "episodeCount": 26,
+        "job": "casting coordinator",
+        "startYear": 2010
+      },
+      {
+        "akas": ["Sara Goldberg", "Sara Sherman"],
+        "id": "/name/nm2662763/",
+        "image": {
+          "height": 3000,
+          "id": "/name/nm2662763/images/rm3594334720",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWEzNmExZjctNDQ3NC00NDU3LTkzYWMtOWE0YTM4MWFiY2RiXkEyXkFqcGdeQXVyMjQxNDU1NjI@._V1_.jpg",
+          "width": 2000
+        },
+        "legacyNameText": "Sherman, Sara Jane",
+        "name": "Sara Jane Sherman",
+        "category": "casting_department",
+        "endYear": 2006,
+        "episodeCount": 13,
+        "job": "casting coordinator",
+        "startYear": 2006
+      }
+    ],
+    "editorial_department": [
+      {
+        "id": "/name/nm1955619/",
+        "legacyNameText": "Rozman, Brad",
+        "name": "Brad Rozman",
+        "category": "editorial_department",
+        "endYear": 2011,
+        "episodeCount": 21,
+        "job": "animatic editor",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1955619/",
+        "legacyNameText": "Rozman, Brad",
+        "name": "Brad Rozman",
+        "category": "editorial_department",
+        "endYear": 2011,
+        "episodeCount": 21,
+        "job": "assistant film editor",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1955619/",
+        "legacyNameText": "Rozman, Brad",
+        "name": "Brad Rozman",
+        "category": "editorial_department",
+        "endYear": 2011,
+        "episodeCount": 21,
+        "job": "assistant editor",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Treasure Dawn Rawson"],
+        "id": "/name/nm2591071/",
+        "legacyNameText": "Rawson, Treasure",
+        "name": "Treasure Rawson",
+        "category": "editorial_department",
+        "endYear": 2011,
+        "episodeCount": 17,
+        "job": "post-production coordinator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1992890/",
+        "legacyNameText": "Kramer, Reid",
+        "name": "Reid Kramer",
+        "category": "editorial_department",
+        "endYear": 2008,
+        "episodeCount": 13,
+        "job": "animatic editor",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1992890/",
+        "legacyNameText": "Kramer, Reid",
+        "name": "Reid Kramer",
+        "category": "editorial_department",
+        "endYear": 2008,
+        "episodeCount": 13,
+        "job": "assistant film editor",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Mark A. Bollinger", "Mark Allen Bollinger"],
+        "disambiguation": "I",
+        "id": "/name/nm0093163/",
+        "legacyNameText": "Bollinger, Mark (I)",
+        "name": "Mark Bollinger",
+        "category": "editorial_department",
+        "endYear": 2007,
+        "episodeCount": 11,
+        "job": "post-production coordinator",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0918465/",
+        "legacyNameText": "Weinstein, Phil",
+        "name": "Phil Weinstein",
+        "category": "editorial_department",
+        "endYear": 2012,
+        "episodeCount": 9,
+        "job": "post-production director",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0918465/",
+        "legacyNameText": "Weinstein, Phil",
+        "name": "Phil Weinstein",
+        "category": "editorial_department",
+        "endYear": 2012,
+        "episodeCount": 9,
+        "job": "post production director",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "III",
+        "id": "/name/nm1980744/",
+        "legacyNameText": "Coyle, Sean (III)",
+        "name": "Sean Coyle",
+        "category": "editorial_department",
+        "endYear": 2011,
+        "episodeCount": 7,
+        "job": "animatic editor",
+        "startYear": 2009
+      },
+      {
+        "disambiguation": "III",
+        "id": "/name/nm1980744/",
+        "legacyNameText": "Coyle, Sean (III)",
+        "name": "Sean Coyle",
+        "category": "editorial_department",
+        "endYear": 2011,
+        "episodeCount": 7,
+        "job": "assistant editor",
+        "startYear": 2009
+      },
+      {
+        "akas": ["Ann M. Hoyt"],
+        "id": "/name/nm1380343/",
+        "legacyNameText": "Hoyt, Ann",
+        "name": "Ann Hoyt",
+        "category": "editorial_department",
+        "endYear": 2006,
+        "episodeCount": 6,
+        "job": "animatic editor",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "V",
+        "id": "/name/nm6808511/",
+        "legacyNameText": "Molina, Tony (V)",
+        "name": "Tony Molina",
+        "category": "editorial_department",
+        "endYear": 2016,
+        "episodeCount": 5,
+        "job": "assistant editor",
+        "startYear": 2013
+      },
+      {
+        "akas": [
+          "Shannon M. Fallis-Kane",
+          "Shannon Mary Fallis-Kane",
+          "Shannon Michael Fallis-Kane",
+          "Shannon Fallis-Kane",
+          "Shannon M. Fallis-Kine",
+          "Shannon Kane"
+        ],
+        "id": "/name/nm0969421/",
+        "legacyNameText": "Kane, Shannon Fallis",
+        "name": "Shannon Fallis Kane",
+        "category": "editorial_department",
+        "endYear": 2008,
+        "episodeCount": 2,
+        "job": "scanner",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Bob Birchard", "Robert Birchard"],
+        "id": "/name/nm0083306/",
+        "legacyNameText": "Birchard, Robert S.",
+        "name": "Robert S. Birchard",
+        "category": "editorial_department",
+        "endYear": 2007,
+        "episodeCount": 1,
+        "job": "animatic editor",
+        "startYear": 2007
+      },
+      {
+        "id": "/name/nm0249617/",
+        "legacyNameText": "Edmunson, Susan",
+        "name": "Susan Edmunson",
+        "category": "editorial_department",
+        "endYear": 2010,
+        "episodeCount": 1,
+        "job": "animatic editor",
+        "startYear": 2010
+      },
+      {
+        "akas": ["Robyn Alexander Cole"],
+        "id": "/name/nm3949930/",
+        "legacyNameText": "Cole, Robyn A.",
+        "name": "Robyn A. Cole",
+        "attr": ["uncredited"],
+        "category": "editorial_department",
+        "endYear": 2014,
+        "episodeCount": 1,
+        "job": "description editor",
+        "startYear": 2014
+      }
+    ],
+    "music_department": [
+      {
+        "id": "/name/nm2845226/",
+        "legacyNameText": "Diamond, Dena",
+        "name": "Dena Diamond",
+        "category": "music_department",
+        "endYear": 2016,
+        "episodeCount": 131,
+        "job": "additional music",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm2845226/",
+        "legacyNameText": "Diamond, Dena",
+        "name": "Dena Diamond",
+        "category": "music_department",
+        "endYear": 2016,
+        "episodeCount": 131,
+        "job": "music",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Seth O'Hickory", "Mike Rubin"],
+        "disambiguation": "V",
+        "id": "/name/nm0641404/",
+        "legacyNameText": "Rubin, Michael (V)",
+        "name": "Michael Rubin",
+        "category": "music_department",
+        "endYear": 2011,
+        "episodeCount": 3,
+        "job": "composer: additional music",
+        "startYear": 2010
+      },
+      {
+        "id": "/name/nm1620610/",
+        "image": {
+          "height": 5000,
+          "id": "/name/nm1620610/images/rm888603136",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2FkMzU3YzMtZmNmMS00MGQ4LTk5MzgtZTEyYmVmNjM0NTA2XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+          "width": 6000
+        },
+        "legacyNameText": "They Might Be Giants",
+        "name": "They Might Be Giants",
+        "category": "music_department",
+        "endYear": 2011,
+        "episodeCount": 3,
+        "job": "composer: theme",
+        "startYear": 2010
+      },
+      {
+        "id": "/name/nm1620610/",
+        "image": {
+          "height": 5000,
+          "id": "/name/nm1620610/images/rm888603136",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2FkMzU3YzMtZmNmMS00MGQ4LTk5MzgtZTEyYmVmNjM0NTA2XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+          "width": 6000
+        },
+        "legacyNameText": "They Might Be Giants",
+        "name": "They Might Be Giants",
+        "category": "music_department",
+        "endYear": 2011,
+        "episodeCount": 3,
+        "job": "performer: theme",
+        "startYear": 2010
+      },
+      {
+        "id": "/name/nm1620610/",
+        "image": {
+          "height": 5000,
+          "id": "/name/nm1620610/images/rm888603136",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2FkMzU3YzMtZmNmMS00MGQ4LTk5MzgtZTEyYmVmNjM0NTA2XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+          "width": 6000
+        },
+        "legacyNameText": "They Might Be Giants",
+        "name": "They Might Be Giants",
+        "category": "music_department",
+        "endYear": 2011,
+        "episodeCount": 3,
+        "job": "composer: additional song",
+        "startYear": 2010
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1341071/",
+        "legacyNameText": "Poss, Jason (I)",
+        "name": "Jason Poss",
+        "category": "music_department",
+        "endYear": 2006,
+        "episodeCount": 2,
+        "job": "music transcription",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1479400/",
+        "image": {
+          "height": 1014,
+          "id": "/name/nm1479400/images/rm2329801473",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWUwOGU0YWEtMzk0MC00YjZlLTllOWYtODg2ZGY1MTI3ZTljXkEyXkFqcGdeQXVyMjYxNjgyMzI@._V1_.jpg",
+          "width": 656
+        },
+        "legacyNameText": "Hopkins, Larry (I)",
+        "name": "Larry Hopkins",
+        "category": "music_department",
+        "endYear": 2010,
+        "episodeCount": 1,
+        "job": "music editor",
+        "startYear": 2010
+      }
+    ],
+    "thanks": [
+      {
+        "akas": ["Wayne A. Allwine"],
+        "id": "/name/nm0021656/",
+        "image": {
+          "height": 2048,
+          "id": "/name/nm0021656/images/rm3365906944",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjAxMzAzODAzOF5BMl5BanBnXkFtZTcwMDQwMTk5Nw@@._V1_.jpg",
+          "width": 1465
+        },
+        "legacyNameText": "Allwine, Wayne",
+        "name": "Wayne Allwine",
+        "category": "thanks",
+        "endYear": 2009,
+        "episodeCount": 1,
+        "job": "in memory of",
+        "startYear": 2009
+      }
+    ],
+    "art_director": [
+      {
+        "akas": ["Sy G. Thomas", "Sy G Thomas"],
+        "disambiguation": "I",
+        "id": "/name/nm1633505/",
+        "legacyNameText": "Thomas, Sy (I)",
+        "name": "Sy Thomas",
+        "category": "art_director",
+        "endYear": 2016,
+        "episodeCount": 50,
+        "startYear": 2006
+      }
+    ],
+    "producer": [
+      {
+        "akas": ["Bobs Ganaway", "Roberts Gannaway"],
+        "id": "/name/nm0304432/",
+        "legacyNameText": "Gannaway, Bobs",
+        "name": "Bobs Gannaway",
+        "category": "producer",
+        "endYear": 2016,
+        "episodeCount": 50,
+        "freeTextAttributes": ["showrunner"],
+        "job": "executive producer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Bobs Ganaway", "Roberts Gannaway"],
+        "id": "/name/nm0304432/",
+        "legacyNameText": "Gannaway, Bobs",
+        "name": "Bobs Gannaway",
+        "category": "producer",
+        "endYear": 2016,
+        "episodeCount": 50,
+        "job": "executive producer",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1656354/",
+        "image": {
+          "height": 2562,
+          "id": "/name/nm1656354/images/rm2714047489",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzYyMzZkNGItNTBiMS00MTE1LThkYWUtNDcwOTRjY2M2ZDMxXkEyXkFqcGdeQXVyMzg2MTEwNg@@._V1_.jpg",
+          "width": 1844
+        },
+        "legacyNameText": "Valdes, Leslie (I)",
+        "name": "Leslie Valdes",
+        "category": "producer",
+        "endYear": 2007,
+        "episodeCount": 26,
+        "job": "producer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Brad Bowlen"],
+        "id": "/name/nm0101195/",
+        "legacyNameText": "Bowlen, Bradley",
+        "name": "Bradley Bowlen",
+        "category": "producer",
+        "endYear": 2012,
+        "episodeCount": 20,
+        "job": "line producer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Mike Seidenberg"],
+        "id": "/name/nm0782402/",
+        "legacyNameText": "Seidenberg, Mark",
+        "name": "Mark Seidenberg",
+        "category": "producer",
+        "endYear": 2016,
+        "episodeCount": 10,
+        "job": "producer",
+        "startYear": 2006
+      },
+      {
+        "akas": [
+          "Bob DeLuca",
+          "Rob La Duca",
+          "Robert LaDuca",
+          "Robert Laduca",
+          "Rob LeDuca"
+        ],
+        "id": "/name/nm0480349/",
+        "legacyNameText": "LaDuca, Rob",
+        "name": "Rob LaDuca",
+        "category": "producer",
+        "endYear": 2016,
+        "episodeCount": 9,
+        "job": "executive producer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["John Carrillo"],
+        "id": "/name/nm1548442/",
+        "legacyNameText": "Carrillo, John I.",
+        "name": "John I. Carrillo",
+        "category": "producer",
+        "endYear": 2016,
+        "episodeCount": 4,
+        "job": "animation producer",
+        "startYear": 2010
+      },
+      {
+        "akas": ["John Carrillo"],
+        "id": "/name/nm1548442/",
+        "legacyNameText": "Carrillo, John I.",
+        "name": "John I. Carrillo",
+        "category": "producer",
+        "endYear": 2016,
+        "episodeCount": 4,
+        "job": "line producer",
+        "startYear": 2010
+      },
+      {
+        "akas": ["Tapas Chakravarti"],
+        "id": "/name/nm2522309/",
+        "legacyNameText": "Chakravarti, Tapaas",
+        "name": "Tapaas Chakravarti",
+        "category": "producer",
+        "endYear": 2016,
+        "episodeCount": 4,
+        "job": "service producer",
+        "startYear": 2016
+      },
+      {
+        "akas": ["Keith"],
+        "disambiguation": "I",
+        "id": "/name/nm0017285/",
+        "legacyNameText": "Alcorn, Keith (I)",
+        "name": "Keith Alcorn",
+        "category": "producer",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "co-executive producer",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm3182173/",
+        "legacyNameText": "Cano, Carmen (II)",
+        "name": "Carmen Cano",
+        "category": "producer",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "associate producer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["John A.D.", "John Davis"],
+        "disambiguation": "I",
+        "id": "/name/nm0204884/",
+        "image": {
+          "height": 1440,
+          "id": "/name/nm0204884/images/rm1710330369",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2MxNjhhMDctNjYxNS00MmI1LWE2ZWItMDY2NjMyNjI5NzVmXkEyXkFqcGdeQXVyMTY5NzM2Njg@._V1_.jpg",
+          "width": 1080
+        },
+        "legacyNameText": "Davis, John A. (I)",
+        "name": "John A. Davis",
+        "category": "producer",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "co-executive producer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Edward Fitzgerald", "Eddie Fitzpatrick"],
+        "disambiguation": "II",
+        "id": "/name/nm0280222/",
+        "legacyNameText": "Fitzgerald, Eddie (II)",
+        "name": "Eddie Fitzgerald",
+        "category": "producer",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "executive producer",
+        "startYear": 2006
+      }
+    ],
+    "writer": [
+      {
+        "akas": ["Bobs Ganaway", "Roberts Gannaway"],
+        "id": "/name/nm0304432/",
+        "legacyNameText": "Gannaway, Bobs",
+        "name": "Bobs Gannaway",
+        "attr": ["creator"],
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 104,
+        "job": "developed for television",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Bobs Ganaway", "Roberts Gannaway"],
+        "id": "/name/nm0304432/",
+        "legacyNameText": "Gannaway, Bobs",
+        "name": "Bobs Gannaway",
+        "attr": ["creator"],
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 104,
+        "job": "story by",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Bobs Ganaway", "Roberts Gannaway"],
+        "id": "/name/nm0304432/",
+        "legacyNameText": "Gannaway, Bobs",
+        "name": "Bobs Gannaway",
+        "attr": ["creator"],
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 104,
+        "job": "developed for television",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Bobs Ganaway", "Roberts Gannaway"],
+        "id": "/name/nm0304432/",
+        "legacyNameText": "Gannaway, Bobs",
+        "name": "Bobs Gannaway",
+        "attr": ["creator"],
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 104,
+        "job": "written by",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0455497/",
+        "legacyNameText": "Kingsland, Robin",
+        "name": "Robin Kingsland",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 93,
+        "job": "head writer",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0455497/",
+        "legacyNameText": "Kingsland, Robin",
+        "name": "Robin Kingsland",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 93,
+        "job": "written by",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0455497/",
+        "legacyNameText": "Kingsland, Robin",
+        "name": "Robin Kingsland",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 93,
+        "job": "story by",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0455497/",
+        "legacyNameText": "Kingsland, Robin",
+        "name": "Robin Kingsland",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 93,
+        "job": "additional dialogue",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0455497/",
+        "legacyNameText": "Kingsland, Robin",
+        "name": "Robin Kingsland",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 93,
+        "job": "original idea",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Thomas D. Hart", "Tom Hart"],
+        "disambiguation": "I",
+        "id": "/name/nm0366554/",
+        "legacyNameText": "Hart, Thomas (I)",
+        "name": "Thomas Hart",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 65,
+        "job": "written by",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Thomas D. Hart", "Tom Hart"],
+        "disambiguation": "I",
+        "id": "/name/nm0366554/",
+        "legacyNameText": "Hart, Thomas (I)",
+        "name": "Thomas Hart",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 65,
+        "job": "story",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2209990/",
+        "legacyNameText": "Mendoza, Ashley (I)",
+        "name": "Ashley Mendoza",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 43,
+        "job": "written by",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2209990/",
+        "legacyNameText": "Mendoza, Ashley (I)",
+        "name": "Ashley Mendoza",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 43,
+        "job": "story by",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2209990/",
+        "legacyNameText": "Mendoza, Ashley (I)",
+        "name": "Ashley Mendoza",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 43,
+        "job": "co-writer",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Mike Seidenberg"],
+        "id": "/name/nm0782402/",
+        "legacyNameText": "Seidenberg, Mark",
+        "name": "Mark Seidenberg",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 36,
+        "job": "story editor",
+        "startYear": 2009
+      },
+      {
+        "akas": ["Mike Seidenberg"],
+        "id": "/name/nm0782402/",
+        "legacyNameText": "Seidenberg, Mark",
+        "name": "Mark Seidenberg",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 36,
+        "job": "written by",
+        "startYear": 2009
+      },
+      {
+        "akas": ["Mike Seidenberg"],
+        "id": "/name/nm0782402/",
+        "legacyNameText": "Seidenberg, Mark",
+        "name": "Mark Seidenberg",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 36,
+        "startYear": 2009
+      },
+      {
+        "akas": ["Mike Seidenberg"],
+        "id": "/name/nm0782402/",
+        "legacyNameText": "Seidenberg, Mark",
+        "name": "Mark Seidenberg",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 36,
+        "job": "story edited by",
+        "startYear": 2009
+      },
+      {
+        "akas": ["Mike Seidenberg"],
+        "id": "/name/nm0782402/",
+        "legacyNameText": "Seidenberg, Mark",
+        "name": "Mark Seidenberg",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 36,
+        "job": "story",
+        "startYear": 2009
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1656354/",
+        "image": {
+          "height": 2562,
+          "id": "/name/nm1656354/images/rm2714047489",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzYyMzZkNGItNTBiMS00MTE1LThkYWUtNDcwOTRjY2M2ZDMxXkEyXkFqcGdeQXVyMzg2MTEwNg@@._V1_.jpg",
+          "width": 1844
+        },
+        "legacyNameText": "Valdes, Leslie (I)",
+        "name": "Leslie Valdes",
+        "category": "writer",
+        "endYear": 2007,
+        "episodeCount": 26,
+        "job": "story editor",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1656354/",
+        "image": {
+          "height": 2562,
+          "id": "/name/nm1656354/images/rm2714047489",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzYyMzZkNGItNTBiMS00MTE1LThkYWUtNDcwOTRjY2M2ZDMxXkEyXkFqcGdeQXVyMzg2MTEwNg@@._V1_.jpg",
+          "width": 1844
+        },
+        "legacyNameText": "Valdes, Leslie (I)",
+        "name": "Leslie Valdes",
+        "category": "writer",
+        "endYear": 2007,
+        "episodeCount": 26,
+        "job": "story by",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1656354/",
+        "image": {
+          "height": 2562,
+          "id": "/name/nm1656354/images/rm2714047489",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzYyMzZkNGItNTBiMS00MTE1LThkYWUtNDcwOTRjY2M2ZDMxXkEyXkFqcGdeQXVyMzg2MTEwNg@@._V1_.jpg",
+          "width": 1844
+        },
+        "legacyNameText": "Valdes, Leslie (I)",
+        "name": "Leslie Valdes",
+        "category": "writer",
+        "endYear": 2007,
+        "episodeCount": 26,
+        "job": "written by",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Kevin D. Campbell"],
+        "disambiguation": "IV",
+        "id": "/name/nm0132644/",
+        "legacyNameText": "Campbell, Kevin (IV)",
+        "name": "Kevin Campbell",
+        "category": "writer",
+        "endYear": 2012,
+        "episodeCount": 20,
+        "job": "writer",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Kevin D. Campbell"],
+        "disambiguation": "IV",
+        "id": "/name/nm0132644/",
+        "legacyNameText": "Campbell, Kevin (IV)",
+        "name": "Kevin Campbell",
+        "category": "writer",
+        "endYear": 2012,
+        "episodeCount": 20,
+        "startYear": 2008
+      },
+      {
+        "akas": ["Kevin D. Campbell"],
+        "disambiguation": "IV",
+        "id": "/name/nm0132644/",
+        "legacyNameText": "Campbell, Kevin (IV)",
+        "name": "Kevin Campbell",
+        "category": "writer",
+        "endYear": 2012,
+        "episodeCount": 20,
+        "job": "written by",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Brian Swelin"],
+        "id": "/name/nm0842391/",
+        "legacyNameText": "Swenlin, Brian",
+        "name": "Brian Swenlin",
+        "category": "writer",
+        "endYear": 2010,
+        "episodeCount": 17,
+        "job": "written by",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Brian Swelin"],
+        "id": "/name/nm0842391/",
+        "legacyNameText": "Swenlin, Brian",
+        "name": "Brian Swenlin",
+        "category": "writer",
+        "endYear": 2010,
+        "episodeCount": 17,
+        "job": "story",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm0319175/",
+        "legacyNameText": "Gillies, Don (II)",
+        "name": "Don Gillies",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 16,
+        "job": "written by",
+        "startYear": 2008
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm0319175/",
+        "legacyNameText": "Gillies, Don (II)",
+        "name": "Don Gillies",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 16,
+        "startYear": 2008
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm0319175/",
+        "legacyNameText": "Gillies, Don (II)",
+        "name": "Don Gillies",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 16,
+        "job": "story",
+        "startYear": 2008
+      },
+      {
+        "disambiguation": "II",
+        "id": "/name/nm0319175/",
+        "legacyNameText": "Gillies, Don (II)",
+        "name": "Don Gillies",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 16,
+        "job": "story by",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Philip L. Walsh"],
+        "disambiguation": "II",
+        "id": "/name/nm0909821/",
+        "legacyNameText": "Walsh, Phil (II)",
+        "name": "Phil Walsh",
+        "category": "writer",
+        "endYear": 2010,
+        "episodeCount": 13,
+        "job": "written by",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Nick Kelly"],
+        "disambiguation": "I",
+        "id": "/name/nm0911660/",
+        "image": {
+          "height": 2048,
+          "id": "/name/nm0911660/images/rm2230560768",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc3Njk3MjczOV5BMl5BanBnXkFtZTcwOTk0MDIyOA@@._V1_.jpg",
+          "width": 1331
+        },
+        "legacyNameText": "Ward, Kelly (I)",
+        "name": "Kelly Ward",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 8,
+        "job": "written by",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Nick Kelly"],
+        "disambiguation": "I",
+        "id": "/name/nm0911660/",
+        "image": {
+          "height": 2048,
+          "id": "/name/nm0911660/images/rm2230560768",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc3Njk3MjczOV5BMl5BanBnXkFtZTcwOTk0MDIyOA@@._V1_.jpg",
+          "width": 1331
+        },
+        "legacyNameText": "Ward, Kelly (I)",
+        "name": "Kelly Ward",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 8,
+        "startYear": 2006
+      },
+      {
+        "akas": ["Nick Kelly"],
+        "disambiguation": "I",
+        "id": "/name/nm0911660/",
+        "image": {
+          "height": 2048,
+          "id": "/name/nm0911660/images/rm2230560768",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc3Njk3MjczOV5BMl5BanBnXkFtZTcwOTk0MDIyOA@@._V1_.jpg",
+          "width": 1331
+        },
+        "legacyNameText": "Ward, Kelly (I)",
+        "name": "Kelly Ward",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 8,
+        "job": "story",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jess Borgeson", "Jesse Winfield"],
+        "id": "/name/nm0934897/",
+        "legacyNameText": "Winfield, Jess",
+        "name": "Jess Winfield",
+        "category": "writer",
+        "endYear": 2015,
+        "episodeCount": 6,
+        "job": "written by",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Jan Strand"],
+        "disambiguation": "I",
+        "id": "/name/nm0834669/",
+        "legacyNameText": "Strnad, Jan (I)",
+        "name": "Jan Strnad",
+        "category": "writer",
+        "endYear": 2012,
+        "episodeCount": 4,
+        "job": "written by",
+        "startYear": 2008
+      },
+      {
+        "id": "/name/nm2454343/",
+        "legacyNameText": "Borkin, Jeff",
+        "name": "Jeff Borkin",
+        "category": "writer",
+        "endYear": 2007,
+        "episodeCount": 3,
+        "job": "written by",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm2454343/",
+        "legacyNameText": "Borkin, Jeff",
+        "name": "Jeff Borkin",
+        "category": "writer",
+        "endYear": 2007,
+        "episodeCount": 3,
+        "job": "story by",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Cate Lieuwen", "Cate Liewen"],
+        "id": "/name/nm0509769/",
+        "legacyNameText": "Lieuwen, Catherine",
+        "name": "Catherine Lieuwen",
+        "category": "writer",
+        "endYear": 2006,
+        "episodeCount": 3,
+        "job": "written by",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Cate Lieuwen", "Cate Liewen"],
+        "id": "/name/nm0509769/",
+        "legacyNameText": "Lieuwen, Catherine",
+        "name": "Catherine Lieuwen",
+        "category": "writer",
+        "endYear": 2006,
+        "episodeCount": 3,
+        "job": "story by",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2222577/",
+        "legacyNameText": "Simmons, Christopher (I)",
+        "name": "Christopher Simmons",
+        "category": "writer",
+        "endYear": 2006,
+        "episodeCount": 2,
+        "job": "written by",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0238277/",
+        "legacyNameText": "Drop, Mark",
+        "name": "Mark Drop",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 2,
+        "startYear": 2015
+      },
+      {
+        "id": "/name/nm0238277/",
+        "legacyNameText": "Drop, Mark",
+        "name": "Mark Drop",
+        "category": "writer",
+        "endYear": 2016,
+        "episodeCount": 2,
+        "job": "written by",
+        "startYear": 2015
+      },
+      {
+        "id": "/name/nm1715534/",
+        "legacyNameText": "Contreras, Rosemary",
+        "name": "Rosemary Contreras",
+        "category": "writer",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "written by",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm0239635/",
+        "image": {
+          "height": 512,
+          "id": "/name/nm0239635/images/rm3216969216",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY3OTk2NzgyNF5BMl5BanBnXkFtZTgwMDE4MjY4OTE@._V1_.jpg",
+          "width": 501
+        },
+        "legacyNameText": "Dubuc, Nicole",
+        "name": "Nicole Dubuc",
+        "category": "writer",
+        "endYear": 2008,
+        "episodeCount": 1,
+        "job": "story",
+        "startYear": 2008
+      },
+      {
+        "akas": ["E.A. Cox", "Elizabeth Stonecypher"],
+        "id": "/name/nm0162607/",
+        "legacyNameText": "Stonecipher, Elizabeth",
+        "name": "Elizabeth Stonecipher",
+        "category": "writer",
+        "endYear": 2008,
+        "episodeCount": 1,
+        "job": "written by",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Michael G Stern", "Michael Stern"],
+        "disambiguation": "I",
+        "id": "/name/nm3175488/",
+        "image": {
+          "height": 719,
+          "id": "/name/nm3175488/images/rm4290691073",
+          "url": "https://m.media-amazon.com/images/M/MV5BN2UyZDc3ZDEtOWMxNS00MmQzLTlkMzAtODM1MDYzNjg0ODg2XkEyXkFqcGdeQXVyMTk5NjYzMzg@._V1_.jpg",
+          "width": 719
+        },
+        "legacyNameText": "Stern, Michael G. (I)",
+        "name": "Michael G. Stern",
+        "category": "writer",
+        "endYear": 2011,
+        "episodeCount": 1,
+        "startYear": 2011
+      }
+    ],
+    "visual_effects": [
+      {
+        "id": "/name/nm11799933/",
+        "legacyNameText": "Sahu, Chittaranjan",
+        "name": "Chittaranjan Sahu",
+        "category": "visual_effects",
+        "endYear": 2016,
+        "episodeCount": 97,
+        "job": "lead rigger",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm11799933/",
+        "legacyNameText": "Sahu, Chittaranjan",
+        "name": "Chittaranjan Sahu",
+        "category": "visual_effects",
+        "endYear": 2016,
+        "episodeCount": 97,
+        "job": "rigging supervisor",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm11799933/",
+        "legacyNameText": "Sahu, Chittaranjan",
+        "name": "Chittaranjan Sahu",
+        "category": "visual_effects",
+        "endYear": 2016,
+        "episodeCount": 97,
+        "job": "Rigging Supervisor",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm11799933/",
+        "legacyNameText": "Sahu, Chittaranjan",
+        "name": "Chittaranjan Sahu",
+        "category": "visual_effects",
+        "endYear": 2016,
+        "episodeCount": 97,
+        "job": "lead character rigging",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm11799933/",
+        "legacyNameText": "Sahu, Chittaranjan",
+        "name": "Chittaranjan Sahu",
+        "category": "visual_effects",
+        "endYear": 2016,
+        "episodeCount": 97,
+        "job": "rigging department supervisor",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Kurian Onnunny Samuel"],
+        "id": "/name/nm4221125/",
+        "legacyNameText": "Os, Kurian",
+        "name": "Kurian Os",
+        "category": "visual_effects",
+        "endYear": 2011,
+        "episodeCount": 85,
+        "job": "lead technical director",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm5714565/",
+        "legacyNameText": "Kamble, Advait",
+        "name": "Advait Kamble",
+        "category": "visual_effects",
+        "endYear": 2012,
+        "episodeCount": 75,
+        "job": "lighting artist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm6351702/",
+        "legacyNameText": "Santosh Seshabhattar",
+        "name": "Santosh Seshabhattar",
+        "category": "visual_effects",
+        "endYear": 2007,
+        "episodeCount": 28,
+        "job": "compositor",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm12162697/",
+        "legacyNameText": "Deverakonda, Bhaskar",
+        "name": "Bhaskar Deverakonda",
+        "category": "visual_effects",
+        "endYear": 2006,
+        "episodeCount": 28,
+        "job": "Production Supervisor",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm7908185/",
+        "legacyNameText": "Halarnkar, Swapnil",
+        "name": "Swapnil Halarnkar",
+        "category": "visual_effects",
+        "endYear": 2007,
+        "episodeCount": 27,
+        "job": "lighting artist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm6243876/",
+        "legacyNameText": "Shiba Mohanty",
+        "name": "Shiba Mohanty",
+        "category": "visual_effects",
+        "endYear": 2006,
+        "episodeCount": 21,
+        "job": "lighting artist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm6433026/",
+        "legacyNameText": "Rokadey, Nishikant",
+        "name": "Nishikant Rokadey",
+        "category": "visual_effects",
+        "endYear": 2006,
+        "episodeCount": 16,
+        "job": "digital artist: lighting technical director",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Jagadeesh Gajapathi", "Jagadeesh Gajapthy"],
+        "id": "/name/nm7484950/",
+        "legacyNameText": "Gajapathy, Jagadeesh",
+        "name": "Jagadeesh Gajapathy",
+        "category": "visual_effects",
+        "endYear": 2006,
+        "episodeCount": 11,
+        "job": "lighting artist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm4554223/",
+        "legacyNameText": "Krishna, N. Balamurali",
+        "name": "N. Balamurali Krishna",
+        "category": "visual_effects",
+        "endYear": 2006,
+        "episodeCount": 9,
+        "job": "visual effects artist",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "V",
+        "id": "/name/nm3023488/",
+        "legacyNameText": "Wong, Karen (V)",
+        "name": "Karen Wong",
+        "category": "visual_effects",
+        "endYear": 2011,
+        "episodeCount": 7,
+        "job": "digital coordinator",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Mani Bhushan", "Mani Bushan"],
+        "id": "/name/nm4512431/",
+        "legacyNameText": "Kumar, Mani Bhushan",
+        "name": "Mani Bhushan Kumar",
+        "category": "visual_effects",
+        "endYear": 2009,
+        "episodeCount": 7,
+        "job": "character td",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm8824605/",
+        "legacyNameText": "Subrahmanian, Nishant",
+        "name": "Nishant Subrahmanian",
+        "category": "visual_effects",
+        "endYear": 2006,
+        "episodeCount": 7,
+        "job": "animation supervisor",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm3853129/",
+        "legacyNameText": "Prasad, Abhishek (I)",
+        "name": "Abhishek Prasad",
+        "category": "visual_effects",
+        "endYear": 2006,
+        "episodeCount": 5,
+        "job": "visual effects artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Terence P. Roldan"],
+        "id": "/name/nm3354150/",
+        "legacyNameText": "Roldan, Terence",
+        "name": "Terence Roldan",
+        "category": "visual_effects",
+        "endYear": 2009,
+        "episodeCount": 4,
+        "job": "cg supervisor",
+        "startYear": 2008
+      },
+      {
+        "id": "/name/nm7482128/",
+        "legacyNameText": "Rajanbabu, Manicantan",
+        "name": "Manicantan Rajanbabu",
+        "category": "visual_effects",
+        "endYear": 2012,
+        "episodeCount": 3,
+        "job": "compositor",
+        "startYear": 2008
+      },
+      {
+        "akas": ["Tirumalagiri Jeevan Kumar", "Tirumalagri Jeevan Kumar"],
+        "id": "/name/nm3857054/",
+        "legacyNameText": "Kumar, T. Jeevan",
+        "name": "T. Jeevan Kumar",
+        "category": "visual_effects",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "digital compositor",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Mahammad Shaffi Shaik"],
+        "id": "/name/nm3856175/",
+        "legacyNameText": "Mahammad, Shaffi",
+        "name": "Shaffi Mahammad",
+        "category": "visual_effects",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "visual effects artist",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Vamsi Mudraboina"],
+        "id": "/name/nm6603599/",
+        "legacyNameText": "Mudraboina, Vamsi Krishna",
+        "name": "Vamsi Krishna Mudraboina",
+        "category": "visual_effects",
+        "endYear": 2006,
+        "episodeCount": 1,
+        "job": "texturing artist",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm8645776/",
+        "legacyNameText": "Kongathi, Uday Kumar",
+        "name": "Uday Kumar Kongathi",
+        "category": "visual_effects",
+        "endYear": 2008,
+        "episodeCount": 1,
+        "job": "visual effects artist",
+        "startYear": 2008
+      },
+      {
+        "id": "/name/nm6408562/",
+        "legacyNameText": "Sarkar, Basabendu Madhab",
+        "name": "Basabendu Madhab Sarkar",
+        "category": "visual_effects",
+        "endYear": 2010,
+        "episodeCount": 1,
+        "job": "junior compositor",
+        "startYear": 2010
+      },
+      {
+        "id": "/name/nm6875707/",
+        "legacyNameText": "Colaco, Pranil",
+        "name": "Pranil Colaco",
+        "category": "visual_effects",
+        "endYear": 2011,
+        "episodeCount": 1,
+        "job": "compositor",
+        "startYear": 2011
+      },
+      {
+        "akas": ["Gowri Shankar H.G."],
+        "disambiguation": "I",
+        "id": "/name/nm2011094/",
+        "legacyNameText": "Shankar, Gowri (I)",
+        "name": "Gowri Shankar",
+        "attr": ["uncredited"],
+        "category": "visual_effects",
+        "endYear": 2006,
+        "episodeCount": 3,
+        "job": "texturing artist",
+        "startYear": 2006
+      }
+    ],
+    "production_manager": [
+      {
+        "disambiguation": "I",
+        "id": "/name/nm1304489/",
+        "image": {
+          "height": 3000,
+          "id": "/name/nm1304489/images/rm1485292033",
+          "url": "https://m.media-amazon.com/images/M/MV5BOWRiNDdkYmEtMmI2ZC00N2RiLTg2NzMtNGZjZWJlNWJkNDVlXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+          "width": 2965
+        },
+        "legacyNameText": "Cluverius, Dana (I)",
+        "name": "Dana Cluverius",
+        "category": "production_manager",
+        "endYear": 2016,
+        "episodeCount": 130,
+        "job": "executive in charge of production: Disney Channel",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm2722809/",
+        "legacyNameText": "McGowen, Betsy",
+        "name": "Betsy McGowen",
+        "category": "production_manager",
+        "endYear": 2016,
+        "episodeCount": 130,
+        "job": "executive in charge of production: Disney Channel",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1066569/",
+        "legacyNameText": "Simensky, Linda",
+        "name": "Linda Simensky",
+        "category": "production_manager",
+        "endYear": 2016,
+        "episodeCount": 130,
+        "job": "executive in charge of production: Disney Channel",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Krishna Prasad T", "Krishna T"],
+        "id": "/name/nm8129172/",
+        "legacyNameText": "T., Krishna Prasad",
+        "name": "Krishna Prasad T.",
+        "category": "production_manager",
+        "endYear": 2008,
+        "episodeCount": 32,
+        "job": "production manager",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm2121735/",
+        "legacyNameText": "Macasero, Michael",
+        "name": "Michael Macasero",
+        "category": "production_manager",
+        "endYear": 2008,
+        "episodeCount": 14,
+        "job": "production supervisor",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm2121735/",
+        "legacyNameText": "Macasero, Michael",
+        "name": "Michael Macasero",
+        "category": "production_manager",
+        "endYear": 2008,
+        "episodeCount": 14,
+        "job": "production manager",
+        "startYear": 2006
+      },
+      {
+        "disambiguation": "I",
+        "id": "/name/nm2731330/",
+        "legacyNameText": "Bryan, Geri (I)",
+        "name": "Geri Bryan",
+        "category": "production_manager",
+        "endYear": 2007,
+        "episodeCount": 11,
+        "job": "post-production supervisor",
+        "startYear": 2006
+      },
+      {
+        "akas": ["Mark A. Bollinger", "Mark Allen Bollinger"],
+        "disambiguation": "I",
+        "id": "/name/nm0093163/",
+        "legacyNameText": "Bollinger, Mark (I)",
+        "name": "Mark Bollinger",
+        "category": "production_manager",
+        "endYear": 2011,
+        "episodeCount": 6,
+        "job": "post-production supervisor",
+        "startYear": 2006
+      },
+      {
+        "id": "/name/nm1878054/",
+        "legacyNameText": "Renfroe, Clay",
+        "name": "Clay Renfroe",
+        "category": "production_manager",
+        "endYear": 2011,
+        "episodeCount": 3,
+        "job": "post-production manager",
+        "startYear": 2010
+      }
+    ]
+  }
+}
