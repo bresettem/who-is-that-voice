@@ -164,7 +164,7 @@ body {
   }
   .navbar-brand,
   a {
-    color: rgb(var(--blue-800));
+    color: rgb(var(--blue-900));
   }
   .bg-primary {
     --bs-bg-opacity: 1;
